@@ -1,0 +1,3108 @@
+
+person izanagi
+  name |Izanagi|
+  bond aokashikine-no-mikoto, as father
+  bond awanagi-no-mikoto-shoki, as mother
+  link |https://en.wikipedia.org/wiki/Izanagi|
+
+person izanami
+  name |Izanami|
+  bond aokashikine-no-mikoto, as father
+  bond awanagi-no-mikoto-shoki, as mother
+  link |https://en.wikipedia.org/wiki/Izanami|
+
+person amaterasu
+  name |Amaterasu|
+  bond izanagi-kojiki, as father
+  bond izanagi-and-izanami-nihon-shoki, as mother
+  link |https://en.wikipedia.org/wiki/Amaterasu|
+
+person susanoo-no-mikoto
+  name |Susanoo-no-Mikoto|
+  bond izanagi-kojiki, as father
+  bond izanagi-and-izanami-nihon-shoki, as mother
+  link |https://en.wikipedia.org/wiki/Susanoo-no-Mikoto|
+
+person ninigi-no-mikoto
+  name |Ninigi-no-Mikoto|
+  bond ame-no-oshihomimi, as father
+  bond takuhadachiji-hime, as mother
+  link |https://en.wikipedia.org/wiki/Ninigi-no-Mikoto|
+
+person sabah-i-bin-jaber
+  name |Sabah I bin Jaber|
+  bond jaber-al-sabah, as father
+  bond sheikha-mariam-bint-faisal-al-utabi, as mother
+  link |https://en.wikipedia.org/wiki/Sabah_I_bin_Jaber|
+
+person abdullah-i-al-sabah
+  name |Abdullah I Al-Sabah|
+  bond sabah-i-bin-jaber, as father
+  bond a-sister-of-sheikh-khalifa-bin-muhammad-bin-faisal-al-utabi, as mother
+  link |https://en.wikipedia.org/wiki/Abdullah_I_Al-Sabah|
+
+person abdullah-ii-al-sabah
+  name |Abdullah II Al-Sabah|
+  bond sabah-ii-al-sabah, as father
+  bond fatma-bint-salim-al-jarrah, as mother
+  link |https://en.wikipedia.org/wiki/Abdullah_II_Al-Sabah|
+
+person muhammad-al-sabah
+  name |Muhammad Al-Sabah|
+  bond sabah-ii-al-sabah, as father
+  bond a-daughter-of-emir-muhammad-bin-ibrahim-al-thaqib, as mother
+  link |https://en.wikipedia.org/wiki/Muhammad_Al-Sabah|
+
+person mubarak-al-sabah
+  name |Mubarak Al-Sabah|
+  bond sabah-ii-al-sabah, as father
+  bond lulwa-bint-muhammad-al-thaqib, as mother
+  link |https://en.wikipedia.org/wiki/Mubarak_Al-Sabah|
+
+person salim-al-mubarak-al-sabah
+  name |Salim Al-Mubarak Al-Sabah|
+  bond mubarak-al-sabah, as father
+  bond shekha-bint-duaij-al-sabah, as mother
+  link |https://en.wikipedia.org/wiki/Salim_Al-Mubarak_Al-Sabah|
+
+person abdullah-al-salim-al-sabah
+  name |Abdullah Al-Salim Al-Sabah|
+  bond salim-al-mubarak-al-sabah, as father
+  bond sheikha-mariam-bint-jarrah-al-sabah, as mother
+  link |https://en.wikipedia.org/wiki/Abdullah_Al-Salim_Al-Sabah|
+
+person sabah-al-salim-al-sabah
+  name |Sabah Al-Salim Al-Sabah|
+  bond salim-al-mubarak-al-sabah, as father
+  bond munira-muhammad-al-dabbous, as mother
+  link |https://en.wikipedia.org/wiki/Sabah_Al-Salim_Al-Sabah|
+
+person jaber-al-ahmad-al-sabah
+  name |Jaber Al-Ahmad Al-Sabah|
+  bond ahmad-al-jaber-al-sabah, as father
+  bond bibi-salem-mubarak-al-sabah, as mother
+  link |https://en.wikipedia.org/wiki/Jaber_Al-Ahmad_Al-Sabah|
+
+person saad-al-salim-al-sabah
+  name |Saad Al-Salim Al-Sabah|
+  bond sheikh-abdullah-al-salim-al-sabah, as father
+  bond jameela, as mother
+  link |https://en.wikipedia.org/wiki/Saad_Al-Salim_Al-Sabah|
+
+person sabah-al-ahmad-al-jaber-al-sabah
+  name |Sabah Al-Ahmad Al-Jaber Al-Sabah|
+  bond ahmad-al-jaber-al-sabah, as father
+  bond munira-othman-hamad-al-ayyar-al-saeed, as mother
+  link |https://en.wikipedia.org/wiki/Sabah_Al-Ahmad_Al-Jaber_Al-Sabah|
+
+person nawaf-al-ahmad-al-jaber-al-sabah
+  name |Nawaf Al-Ahmad Al-Jaber Al-Sabah|
+  bond ahmad-al-jaber-al-sabah, as father
+  bond yamama, as mother
+  link |https://en.wikipedia.org/wiki/Nawaf_Al-Ahmad_Al-Jaber_Al-Sabah|
+
+person nasser-sabah-al-ahmad-al-sabah
+  name |Nasser Sabah Al-Ahmad Al-Sabah|
+  bond sabah-al-ahmad-al-jaber-al-sabah, as father
+  bond sheikha-fatuwah-bint-salman-al-sabah, as mother
+  link |https://en.wikipedia.org/wiki/Nasser_Sabah_Al-Ahmad_Al-Sabah|
+
+person mishal-al-ahmad-al-jaber-al-sabah
+  name |Mishal Al-Ahmad Al-Jaber Al-Sabah|
+  bond ahmad-al-jaber-al-sabah, as father
+  bond maryam-marit-al-huwaila, as mother
+  link |https://en.wikipedia.org/wiki/Mishal_Al-Ahmad_Al-Jaber_Al-Sabah|
+
+person ahmad-shah-i-of-pahang
+  name |Ahmad Shah I of Pahang|
+  bond mansur-shah, as father
+  bond putri-wanang-sri-lela-wangsa, as mother
+  link |https://en.wikipedia.org/wiki/Ahmad_Shah_I_of_Pahang|
+
+person muhammad-shah-of-pahang
+  name |Muhammad Shah of Pahang|
+  bond mansur-shah, as father
+  bond putri-wanang-sri-lela-wangsa, as mother
+  link |https://en.wikipedia.org/wiki/Muhammad_Shah_of_Pahang|
+
+person zainal-abidin-shah-of-pahang
+  name |Zainal Abidin Shah of Pahang|
+  bond mahmud-shah, as father
+  bond raja-putri-olah-binti-al-marhum-sultan-ahmad, as mother
+  link |https://en.wikipedia.org/wiki/Zainal_Abidin_Shah_of_Pahang|
+
+person abdul-jamal-shah-of-pahang
+  name |Abdul Jamal Shah of Pahang|
+  bond zainal-abidin-shah, as father
+  bond raja-putri-dewi, as mother
+  link |https://en.wikipedia.org/wiki/Abdul_Jamal_Shah_of_Pahang|
+
+person abdul-kadir-alauddin-shah-of-pahang
+  name |Abdul Kadir Alauddin Shah of Pahang|
+  bond zainal-abidin-shah, as father
+  bond tun-kamala, as mother
+  link |https://en.wikipedia.org/wiki/Abdul_Kadir_Alauddin_Shah_of_Pahang|
+
+person mansur-shah-ii-of-pahang
+  name |Mansur Shah II of Pahang|
+  bond zainal-abidin-shah, as father
+  bond raja-putri-dewi, as mother
+  link |https://en.wikipedia.org/wiki/Mansur_Shah_II_of_Pahang|
+
+person iskandar-thani
+  name |Iskandar Thani|
+  bond ahmad-shah-ii-of-pahang, as father
+  bond putri-bongsu-chandra-dewi, as mother
+  link |https://en.wikipedia.org/wiki/Iskandar_Thani|
+
+person raja-bajau
+  name |Raja Bajau|
+  bond abdullah-ma-ayat-shah, as father
+  bond raja-putri-kamarliah-of-pahang, as mother
+  link |https://en.wikipedia.org/wiki/Raja_Bajau|
+
+person tun-ali-of-pahang
+  name |Tun Ali of Pahang|
+  bond tun-koris, as father
+  bond che-puan-tun-mariam, as mother
+  link |https://en.wikipedia.org/wiki/Tun_Ali_of_Pahang|
+
+person tun-mutahir-of-pahang
+  name |Tun Mutahir of Pahang|
+  bond tun-ali, as father
+  bond encik-wan-ngah, as mother
+  link |https://en.wikipedia.org/wiki/Tun_Mutahir_of_Pahang|
+
+person ahmad-mu-azzam
+  name |Ahmad Muʽazzam|
+  bond bendahara-sri-maharaja-tun-ali-ibni-al-marhum-tun-koris, as father
+  bond cik-long-binti-encik-esah-che-puan-lingga, as mother
+  link |https://en.wikipedia.org/wiki/Ahmad_Mu%CA%BDazzam|
+
+person abdullah-al-mu-tassim-billah-shah-of-pahang
+  name |Abdullah al-Muʽtassim Billah Shah of Pahang|
+  bond sultan-ahmad-al-mu-azzam-shah-ibni-al-marhum-bendahara-sri-maharaja-tun-ali, as father
+  bond cik-kusuma-binti-tok-minal-daeng-koro, as mother
+  link |https://en.wikipedia.org/wiki/Abdullah_al-Mu%CA%BDtassim_Billah_Shah_of_Pahang|
+
+person mahmud-shah-ii-of-pahang
+  name |Mahmud Shah II of Pahang|
+  bond sultan-ahmad-al-mu-azzam-shah-ibni-al-marhum-bendahara-sri-maharaja-tun-ali, as father
+  bond che-ungku-pah-binti-al-marhum-dato-temenggong-sri-maharaja-tun-ibrahim, as mother
+  link |https://en.wikipedia.org/wiki/Mahmud_Shah_II_of_Pahang|
+
+person abu-bakar-of-pahang
+  name |Abu Bakar of Pahang|
+  bond sultan-abdullah-al-mu-tassim-billah-shah-ibni-al-marhum-sultan-ahmad-al-mu-azzam-shah, as father
+  bond che-kalsum-binti-abdullah, as mother
+  link |https://en.wikipedia.org/wiki/Abu_Bakar_of_Pahang|
+
+person ahmad-shah-of-pahang
+  name |Ahmad Shah of Pahang|
+  bond sultan-abu-bakar-ri-ayatuddin-mu-azzam-shah-ibni-almarhum-sultan-abdullah-al-mu-tassim-billah-shah, as father
+  bond tengku-ampuan-besar-raja-fatimah-binti-almarhum-sultan-iskandar-shah-kaddasullah, as mother
+  link |https://en.wikipedia.org/wiki/Ahmad_Shah_of_Pahang|
+
+person tengku-ampuan-afzan
+  name |Tengku Ampuan Afzan|
+  bond tengku-panglima-perang-tengku-muhammad-ibni-al-marhum-sultan-ahmad-al-mu-azzam-shah, as father
+  bond tengku-hajah-aishah-mandak-binti-tengku-mustafa, as mother
+  link |https://en.wikipedia.org/wiki/Tengku_Ampuan_Afzan|
+
+person tunku-azizah-aminah-maimunah-iskandariah
+  name |Tunku Azizah Aminah Maimunah Iskandariah|
+  bond al-mutawakkil-alallah-sultan-iskandar-ibni-almarhum-sultan-ismail-al-khalidi, as father
+  bond enche-besar-hajah-khalsom-binti-abdullah-josephine-ruby-trevorrow, as mother
+  link |https://en.wikipedia.org/wiki/Tunku_Azizah_Aminah_Maimunah_Iskandariah|
+
+person abdullah-of-pahang
+  name |Abdullah of Pahang|
+  bond paduka-ayahanda-sultan-haji-ahmad-shah-al-musta-in-billah-ibni-almarhum-sultan-abu-bakar-ri-ayatuddin-al-mu-azzam-shah, as father
+  bond tengku-ampuan-hajah-afzan-rahimahallah-binti-almarhum-tengku-panglima-perang-tengku-muhammad, as mother
+  link |https://en.wikipedia.org/wiki/Abdullah_of_Pahang|
+
+person tengku-hassanal-ibrahim-alam-shah
+  name |Tengku Hassanal Ibrahim Alam Shah|
+  bond al-sultan-abdullah-ri-ayatuddin-al-mustafa-billah-shah, as father
+  bond tunku-hajah-azizah-aminah-maimunah-iskandariah, as mother
+  link |https://en.wikipedia.org/wiki/Tengku_Hassanal_Ibrahim_Alam_Shah|
+
+person sri-wikrama-wira
+  name |Sri Wikrama Wira|
+  bond sang-nila-utama, as father
+  bond wan-sri-bini, as mother
+  link |https://en.wikipedia.org/wiki/Sri_Wikrama_Wira|
+
+person sri-rana-wikrama
+  name |Sri Rana Wikrama|
+  bond sri-rana-wikrama, as father
+  bond nila-panjadi, as mother
+  link |https://en.wikipedia.org/wiki/Sri_Rana_Wikrama|
+
+person alauddin-riayat-shah-ii-of-johor
+  name |Alauddin Riayat Shah II of Johor|
+  bond mahmud-shah-malacca, as father
+  bond tun-fatimah, as mother
+  link |https://en.wikipedia.org/wiki/Alauddin_Riayat_Shah_II_of_Johor|
+
+person abdullah-muhammad-shah-ii-of-perak
+  name |Abdullah Muhammad Shah II of Perak|
+  bond sultan-jaafar-safiuddin-muadzam-shah, as father
+  bond wan-ngah-mahtra-binti-dato-wan-muda-abdul-rahman, as mother
+  link |https://en.wikipedia.org/wiki/Abdullah_Muhammad_Shah_II_of_Perak|
+
+person idris-murshidul-azzam-shah-of-perak
+  name |Idris Murshidul Azzam Shah of Perak|
+  bond raja-bendahara-raja-alang-iskandar-ibni-almarhum-raja-kecil-tengah-raja-ahmad, as father
+  bond cik-ken-uda-sari-binti-abdul-rahman, as mother
+  link |https://en.wikipedia.org/wiki/Idris_Murshidul_Azzam_Shah_of_Perak|
+
+person abdul-aziz-al-mu-tasim-billah-shah-of-perak
+  name |Abdul Aziz al-Muʽtasim Billah Shah of Perak|
+  bond raja-muda-musa-ibni-almarhum-sultan-ja-afar-safiuddin-mu-azzam-shah-waliullah, as father
+  bond cik-amina-binti-sheikh-muhammad-taib, as mother
+  link |https://en.wikipedia.org/wiki/Abdul_Aziz_al-Mu%CA%BDtasim_Billah_Shah_of_Perak|
+
+person abdul-jalil-nasiruddin-muhtaram-shah-of-perak
+  name |Abdul Jalil Nasiruddin Muhtaram Shah of Perak|
+  bond sultan-idris-murshidul-azzam-shah-ibni-almarhum-raja-bendahara-alang-iskandar-teja, as father
+  bond raja-nuteh-aisha-binti-almarhum-sultan-yusuf-sharifuddin-muzaffar-shah-ghafirullah, as mother
+  link |https://en.wikipedia.org/wiki/Abdul_Jalil_Nasiruddin_Muhtaram_Shah_of_Perak|
+
+person iskandar-of-perak
+  name |Iskandar of Perak|
+  bond sultan-idris-murshidul-azzam-shah-ibni-almarhum-raja-bendahara-alang-iskandar-teja, as father
+  bond cik-ngah-manah-binti-manda-duwayat, as mother
+  link |https://en.wikipedia.org/wiki/Iskandar_of_Perak|
+
+person idris-iskandar-al-mutawakkil-alallahi-shah-of-perak
+  name |Idris Iskandar al-Mutawakkil Alallahi Shah of Perak|
+  bond sultan-iskandar-shah-ibni-almarhum-sultan-idris-murshidul-azzam-shah-rahmatullah, as father
+  bond raja-puteh-umi-kalsom-binti-raja-kulop-muhammad-kramat, as mother
+  link |https://en.wikipedia.org/wiki/Idris_Iskandar_al-Mutawakkil_Alallahi_Shah_of_Perak|
+
+person yussuff-izzuddin-shah-of-perak
+  name |Yussuff Izzuddin Shah of Perak|
+  bond sultan-abdul-jalil-karamatullah-nasiruddin-mukhataram-shah-ibni-almarhum-sultan-idris-murshidul-azzam-shah-rahmatullah, as father
+  bond che-yong-sofia-binti-muhammad-yunus, as mother
+  link |https://en.wikipedia.org/wiki/Yussuff_Izzuddin_Shah_of_Perak|
+
+person azlan-shah-of-perak
+  name |Azlan Shah of Perak|
+  bond sultan-yussuff-izzuddin-shah-ibni-almarhum-sultan-abdul-jalil-karamatullah-nasiruddin-mukhtaram-shah-radziallah-hu-an-hu, as father
+  bond toh-puan-besar-hatijah-binti-toh-indera-wangsa-ahmad, as mother
+  link |https://en.wikipedia.org/wiki/Azlan_Shah_of_Perak|
+
+person nazrin-shah-of-perak
+  name |Nazrin Shah of Perak|
+  bond sultan-azlan-muhibbuddin-shah-ibni-almarhum-sultan-yussuff-izzuddin-shah-ghafarullahu-lah, as father
+  bond raja-permaisuri-siti-bainun-binti-mohd-ali, as mother
+  link |https://en.wikipedia.org/wiki/Nazrin_Shah_of_Perak|
+
+person abdul-rahman-muazzam-shah-of-johor
+  name |Abdul Rahman Muazzam Shah of Johor|
+  bond mahmud-shah-iii-of-johor, as father
+  bond encik-mariam-binti-dato-hassan, as mother
+  link |https://en.wikipedia.org/wiki/Abdul_Rahman_Muazzam_Shah_of_Johor|
+
+person hussein-shah-of-johor
+  name |Hussein Shah of Johor|
+  bond mahmud-shah-iii, as father
+  bond cik-makoh, as mother
+  link |https://en.wikipedia.org/wiki/Hussein_Shah_of_Johor|
+
+person ali-iskandar-of-johor
+  name |Ali Iskandar of Johor|
+  bond sultan-hussein-shah, as father
+  bond tengku-perbu, as mother
+  link |https://en.wikipedia.org/wiki/Ali_Iskandar_of_Johor|
+
+person salehuddin-of-selangor
+  name |Salehuddin of Selangor|
+  bond daeng-chelak-bin-daeng-rilaga, as father
+  bond encik-tomita-1, as mother
+  link |https://en.wikipedia.org/wiki/Salehuddin_of_Selangor|
+
+person temenggong-abdul-rahman
+  name |Temenggong Abdul Rahman|
+  bond tun-abdul-hamid, as father
+  bond tun-khamis, as mother
+  link |https://en.wikipedia.org/wiki/Temenggong_Abdul_Rahman|
+
+person temenggong-daeng-ibrahim
+  name |Temenggong Daeng Ibrahim|
+  bond temenggong-abdul-rahman, as father
+  bond inche-yah-moffar, as mother
+  link |https://en.wikipedia.org/wiki/Temenggong_Daeng_Ibrahim|
+
+person abu-bakar-of-johor
+  name |Abu Bakar of Johor|
+  bond temenggong-daeng-ibrahim, as father
+  bond cik-ngah, as mother
+  link |https://en.wikipedia.org/wiki/Abu_Bakar_of_Johor|
+
+person ibrahim-of-johor
+  name |Ibrahim of Johor|
+  bond sultan-abu-bakar-ibni-al-marhum-dato-temenggong-sri-maharaja-tun-ibrahim, as father
+  bond inche-besar-zubaidah-binti-abdullah-nee-cecilia-catharina-lange, as mother
+  link |https://en.wikipedia.org/wiki/Ibrahim_of_Johor|
+
+person ismail-of-johor
+  name |Ismail of Johor|
+  bond sultan-ibrahim-ibni-al-marhum-sultan-abu-bakar-al-khalil-ibrahim-shah, as father
+  bond sultanah-ungku-maimunah-binti-ungku-abdul-majid, as mother
+  link |https://en.wikipedia.org/wiki/Ismail_of_Johor|
+
+person iskandar-of-johor
+  name |Iskandar of Johor|
+  bond sultan-ismail-ibni-almarhum-sultan-ibrahim-al-masyhur, as father
+  bond sultanah-ungku-tun-aminah-binti-ungku-ahmad, as mother
+  link |https://en.wikipedia.org/wiki/Iskandar_of_Johor|
+
+person ibrahim-ismail-of-johor
+  name |Ibrahim Ismail of Johor|
+  bond sultan-iskandar-ibni-almarhum-sultan-ismail-al-khalidi, as father
+  bond enche-besar-hajah-khalsom-binti-abdullah-nee-josephine-ruby-trevorrow, as mother
+  link |https://en.wikipedia.org/wiki/Ibrahim_Ismail_of_Johor|
+
+person mizan-zainal-abidin-of-terengganu
+  name |Mizan Zainal Abidin of Terengganu|
+  bond sultan-mahmud-al-muktafi-billah-shah-ibni-almarhum-sultan-ismail-nasiruddin-shah, as father
+  bond tengku-besar-terengganu-dato-seri-sharifah-nong-fatimah-binti-syed-abdullah-al-saggof, as mother
+  link |https://en.wikipedia.org/wiki/Mizan_Zainal_Abidin_of_Terengganu|
+
+person zainal-abidin-iii-of-terengganu
+  name |Zainal Abidin III of Terengganu|
+  bond sultan-ahmad-muadzam-shah-ii, as father
+  bond tengku-kulsum-binti-sultan-muhammad-muadzam-shah, as mother
+  link |https://en.wikipedia.org/wiki/Zainal_Abidin_III_of_Terengganu|
+
+person ismail-nasiruddin-of-terengganu
+  name |Ismail Nasiruddin of Terengganu|
+  bond sultan-haji-zainal-abidin-iii-mu-azzam-shah-ibni-almarhum-sultan-ahmad, as father
+  bond cik-maimunah-binti-abdullah, as mother
+  link |https://en.wikipedia.org/wiki/Ismail_Nasiruddin_of_Terengganu|
+
+person mahmud-of-terengganu
+  name |Mahmud of Terengganu|
+  bond sultan-ismail-nasiruddin-shah, as father
+  bond tengku-tengah-zaharah, as mother
+  link |https://en.wikipedia.org/wiki/Mahmud_of_Terengganu|
+
+person ibrahim-of-kelantan
+  name |Ibrahim of Kelantan|
+  bond sultan-muhammad-iv-ibni-almarhum-sultan-muhammad-iii, as father
+  bond sultanah-zainab-binti-nik-wan-muhammad-amin, as mother
+  link |https://en.wikipedia.org/wiki/Ibrahim_of_Kelantan|
+
+person yahya-petra-of-kelantan
+  name |Yahya Petra of Kelantan|
+  bond sultan-ibrahim-ibni-almarhum-sultan-muhammad-iv, as father
+  bond cik-puan-besar-embong-binti-daud, as mother
+  link |https://en.wikipedia.org/wiki/Yahya_Petra_of_Kelantan|
+
+person ismail-petra-of-kelantan
+  name |Ismail Petra of Kelantan|
+  bond sultan-yahya-petra-ibni-almarhum-sultan-ibrahim, as father
+  bond tengku-zainab-binti-tengku-muhammad-petra, as mother
+  link |https://en.wikipedia.org/wiki/Ismail_Petra_of_Kelantan|
+
+person muhammad-v-of-kelantan
+  name |Muhammad V of Kelantan|
+  bond sultan-ismail-petra-ibni-almarhum-sultan-yahya-petra, as father
+  bond tengku-anis-binti-tengku-abdul-hamid, as mother
+  link |https://en.wikipedia.org/wiki/Muhammad_V_of_Kelantan|
+
+person muhriz-of-negeri-sembilan
+  name |Muhriz of Negeri Sembilan|
+  bond tuanku-munawir-ibni-almarhum-tuanku-abdul-rahman, as father
+  bond tunku-ampuan-durah-binti-tunku-besar-burhanuddin, as mother
+  link |https://en.wikipedia.org/wiki/Muhriz_of_Negeri_Sembilan|
+
+person muhammad-of-negeri-sembilan
+  name |Muhammad of Negeri Sembilan|
+  bond tuanku-antah-ibni-almarhum-tuanku-radin, as father
+  bond cik-halima-binti-uggoh, as mother
+  link |https://en.wikipedia.org/wiki/Muhammad_of_Negeri_Sembilan|
+
+person abdul-rahman-of-negeri-sembilan
+  name |Abdul Rahman of Negeri Sembilan|
+  bond tuanku-muhammad-ibni-almarhum-tuanku-antah, as father
+  bond tunku-halija-binti-tunku-muda-chik, as mother
+  link |https://en.wikipedia.org/wiki/Abdul_Rahman_of_Negeri_Sembilan|
+
+person munawir-of-negeri-sembilan
+  name |Munawir of Negeri Sembilan|
+  bond tuanku-abdul-rahman-ibni-almarhum-tuanku-muhammad, as father
+  bond tunku-maharunnisa-binti-tunku-mambang, as mother
+  link |https://en.wikipedia.org/wiki/Munawir_of_Negeri_Sembilan|
+
+person jaafar-of-negeri-sembilan
+  name |Ja'afar of Negeri Sembilan|
+  bond tuanku-abdul-rahman-ibni-almarhum-tuanku-muhammad, as father
+  bond che-engku-maimunah-binti-abdullah, as mother
+  link |https://en.wikipedia.org/wiki/Ja%27afar_of_Negeri_Sembilan|
+
+person sharafuddin-of-selangor
+  name |Sharafuddin of Selangor|
+  bond sultan-salahuddin-abdul-aziz-shah-al-haj-ibni-almarhum-sultan-hisamuddin-alam-shah-al-haj, as father
+  bond paduka-bonda-raja-raja-saidatul-ihsan-binti-raja-bendahara-tengku-badar-shah, as mother
+  link |https://en.wikipedia.org/wiki/Sharafuddin_of_Selangor|
+
+person muhammad-shah-of-selangor
+  name |Muhammad Shah of Selangor|
+  bond sultan-ibrahim-shah-ibni-almarhum-sultan-salehuddin-shah, as father
+  bond cik-puan-besar-cik-long-halijah-binti-dato-hussain, as mother
+  link |https://en.wikipedia.org/wiki/Muhammad_Shah_of_Selangor|
+
+person abdul-samad-of-selangor
+  name |Abdul Samad of Selangor|
+  bond raja-abdullah-ibni-almarhum-sultan-ibrahim-shah-tengku-panglima-besar-of-selangor, as father
+  bond che-lipah, as mother
+  link |https://en.wikipedia.org/wiki/Abdul_Samad_of_Selangor|
+
+person sulaiman-of-selangor
+  name |Sulaiman of Selangor|
+  bond raja-muda-raja-musa-ibni-al-marhum-sultan-abdul-samad, as father
+  bond raja-buntal-raimah-binti-raja-barakat, as mother
+  link |https://en.wikipedia.org/wiki/Sulaiman_of_Selangor|
+
+person musa-ghiatuddin-riayat-shah-of-selangor
+  name |Musa Ghiatuddin Riayat Shah of Selangor|
+  bond sultan-alauddin-sulaiman-shah-ibni-al-marhum-raja-muda-raja-musa, as father
+  bond tunku-maharum-binti-al-marhum-tunku-ziauddin, as mother
+  link |https://en.wikipedia.org/wiki/Musa_Ghiatuddin_Riayat_Shah_of_Selango|
+
+person hisamuddin-of-selangor
+  name |Hisamuddin of Selangor|
+  bond sultan-sir-alaeddin-sulaiman-shah-ibni-al-marhum-raja-muda-raja-musa, as father
+  bond cik-puan-hasnah-binti-pilong, as mother
+  link |https://en.wikipedia.org/wiki/Hisamuddin_of_Selangor|
+
+person salahuddin-of-selangor
+  name |Salahuddin of Selangor|
+  bond sultan-hishamuddin-alam-shah-al-haj-ibni-almarhum-sultan-alauddin-sulaiman-shah, as father
+  bond tengku-ampuan-jemaah-binti-al-marhum-raja-ahmad, as mother
+  link |https://en.wikipedia.org/wiki/Salahuddin_of_Selangor|
+
+person sirajuddin-of-perlis
+  name |Sirajuddin of Perlis|
+  bond tuanku-syed-putra-ibni-almarhum-tuan-syed-hassan-jamalullail, as father
+  bond tengku-budriah-binti-almarhum-tengku-ismail, as mother
+  link |https://en.wikipedia.org/wiki/Sirajuddin_of_Perlis|
+
+person sallehuddin-of-kedah
+  name |Sallehuddin of Kedah|
+  bond sultan-badlishah, as father
+  bond sultanah-asma, as mother
+  link |https://en.wikipedia.org/wiki/Sallehuddin_of_Kedah|
+
+person ibrahim-shah-of-kedah
+  name |Ibrahim Shah of Kedah|
+  bond mahmud-shah-i, as father
+  bond tunku-aisha, as mother
+  link |https://en.wikipedia.org/wiki/Ibrahim_Shah_of_Kedah|
+
+person sulaiman-shah-i-of-kedah
+  name |Sulaiman Shah I of Kedah|
+  bond ibrahim-shah, as father
+  bond tunku-mala, as mother
+  link |https://en.wikipedia.org/wiki/Sulaiman_Shah_I_of_Kedah|
+
+person muhammad-jiwa-zainal-adilin-i-of-kedah
+  name |Muhammad Jiwa Zainal Adilin I of Kedah|
+  bond sultan-ataullah-muhammad-shah-i, as father
+  bond che-puan-paduka-bonda, as mother
+  link |https://en.wikipedia.org/wiki/Muhammad_Jiwa_Zainal_Adilin_I_of_Kedah|
+
+person mahmud-shah-ii-of-kedah
+  name |Mahmud Shah II of Kedah|
+  bond sultan-muhammad-jiwa-zainal-adilin-mu-adzam-shah-i, as father
+  bond tunku-mariam, as mother
+  link |https://en.wikipedia.org/wiki/Mahmud_Shah_II_of_Kedah|
+
+person mudzaffar-shah-iii-of-kedah
+  name |Mudzaffar Shah III of Kedah|
+  bond mahmud-shah-ii, as father
+  bond che-larasari, as mother
+  link |https://en.wikipedia.org/wiki/Mudzaffar_Shah_III_of_Kedah|
+
+person sulaiman-shah-ii-of-kedah
+  name |Sulaiman Shah II of Kedah|
+  bond mudzaffar-shah-iii, as father
+  bond che-tempawan, as mother
+  link |https://en.wikipedia.org/wiki/Sulaiman_Shah_II_of_Kedah|
+
+person rijaluddin-muhammad-shah-of-kedah
+  name |Rijaluddin Muhammad Shah of Kedah|
+  bond sulaiman-shah-ii, as father
+  bond che-ratnamala, as mother
+  link |https://en.wikipedia.org/wiki/Rijaluddin_Muhammad_Shah_of_Kedah|
+
+person muhyiddin-mansur-shah-of-kedah
+  name |Muhyiddin Mansur Shah of Kedah|
+  bond rijaluddin-muhammad-shah, as father
+  bond wan-fatima, as mother
+  link |https://en.wikipedia.org/wiki/Muhyiddin_Mansur_Shah_of_Kedah|
+
+person dziaddin-mukarram-shah-i-of-kedah
+  name |Dziaddin Mukarram Shah I of Kedah|
+  bond muhyiddin-mansur-shah, as father
+  bond wan-sara, as mother
+  link |https://en.wikipedia.org/wiki/Dziaddin_Mukarram_Shah_I_of_Kedah|
+
+person ataullah-muhammad-shah-ii-of-kedah
+  name |Ataullah Muhammad Shah II of Kedah|
+  bond dziaddin-mukarram-shah-i, as father
+  bond che-sepa-chandra, as mother
+  link |https://en.wikipedia.org/wiki/Ataullah_Muhammad_Shah_II_of_Kedah|
+
+person abdullah-muadzam-shah-of-kedah
+  name |Abdullah Mu'adzam Shah of Kedah|
+  bond ataullah-muhammad-shah-ii, as father
+  bond tunku-maheran, as mother
+  link |https://en.wikipedia.org/wiki/Abdullah_Mu%27adzam_Shah_of_Kedah|
+
+person ahmad-tajuddin-halim-shah-i-of-kedah
+  name |Ahmad Tajuddin Halim Shah I of Kedah|
+  bond abdullah-mu-adzam-shah, as father
+  bond wan-nang-mas, as mother
+  link |https://en.wikipedia.org/wiki/Ahmad_Tajuddin_Halim_Shah_I_of_Kedah|
+
+person muhammad-jiwa-zainal-adilin-ii-of-kedah
+  name |Muhammad Jiwa Zainal Adilin II of Kedah|
+  bond abdullah-mu-adzam-shah, as father
+  bond wan-nang-mas, as mother
+  link |https://en.wikipedia.org/wiki/Muhammad_Jiwa_Zainal_Adilin_II_of_Kedah|
+
+person dziaddin-mukarram-shah-ii-of-kedah
+  name |Dziaddin Mukarram Shah II of Kedah|
+  bond muhammad-jiwa-zainal-adilin-mu-adzam-shah-ii, as father
+  bond tunku-putri, as mother
+  link |https://en.wikipedia.org/wiki/Dziaddin_Mukarram_Shah_II_of_Kedah|
+
+person ahmad-tajuddin-halim-shah-ii-of-kedah
+  name |Ahmad Tajuddin Halim Shah II of Kedah|
+  bond abdullah-mukarram-shah, as father
+  bond wan-kamaliah, as mother
+  link |https://en.wikipedia.org/wiki/Ahmad_Tajuddin_Halim_Shah_II_of_Kedah|
+
+person zainal-rashid-al-muadzam-shah-i-of-kedah
+  name |Zainal Rashid Al-Mu'adzam Shah I of Kedah|
+  bond ahmad-tajuddin-halim-shah-ii, as father
+  bond che-arshid, as mother
+  link |https://en.wikipedia.org/wiki/Zainal_Rashid_Al-Mu%27adzam_Shah_I_of_Kedah|
+
+person ahmad-tajuddin-mukarram-shah-of-kedah
+  name |Ahmad Tajuddin Mukarram Shah of Kedah|
+  bond zainal-rashid-al-mu-adzam-shah-i, as father
+  bond wan-maheran-binti-wan-muhammad-sadiq, as mother
+  link |https://en.wikipedia.org/wiki/Ahmad_Tajuddin_Mukarram_Shah_of_Kedah|
+
+person zainal-rashid-muadzam-shah-ii-of-kedah
+  name |Zainal Rashid Mu'adzam Shah II of Kedah|
+  bond ahmad-tajuddin-mukarram-shah, as father
+  bond wan-tan-binti-luang-nik-abidin, as mother
+  link |https://en.wikipedia.org/wiki/Zainal_Rashid_Mu%27adzam_Shah_II_of_Kedah|
+
+person abdul-hamid-halim-of-kedah
+  name |Abdul Hamid Halim of Kedah|
+  bond ahmad-tajuddin-mukarram-shah, as father
+  bond wan-hajar-binti-wan-ismail, as mother
+  link |https://en.wikipedia.org/wiki/Abdul_Hamid_Halim_of_Kedah|
+
+person tunku-abdul-rahman
+  name |Tunku Abdul Rahman|
+  bond sultan-abdul-hamid-halim-shah, as father
+  bond che-manjalara, as mother
+  link |https://en.wikipedia.org/wiki/Tunku_Abdul_Rahman|
+
+person badlishah-of-kedah
+  name |Badlishah of Kedah|
+  bond abdul-hamid-halim-shah, as father
+  bond tunku-nai-sofiah-binti-almarhum-tunku-nai-haji-hassan, as mother
+  link |https://en.wikipedia.org/wiki/Badlishah_of_Kedah|
+
+person abdul-halim-of-kedah
+  name |Abdul Halim of Kedah|
+  bond sultan-badlishah-ibni-almarhum-sultan-abdul-hamid-halim-shah, as father
+  bond tunku-sofiah-binti-tunku-mahmud, as mother
+  link |https://en.wikipedia.org/wiki/Abdul_Halim_of_Kedah|
+
+person putra-of-perlis
+  name |Putra of Perlis|
+  bond tuan-syed-hassan-ibni-almarhum-tuan-syed-mahmud-jamalullail, as father
+  bond che-puan-wan-teh-binti-wan-endut, as mother
+  link |https://en.wikipedia.org/wiki/Putra_of_Perlis|
+
+person boleslaw-the-pious
+  name |Bolesław the Pious|
+  bond wladyslaw-odonic, as father
+  bond jadwiga, as mother
+  link |https://en.wikipedia.org/wiki/Boles%C5%82aw_the_Pious|
+
+person przemysl-i-of-greater-poland
+  name |Przemysł I of Greater Poland|
+  bond wladyslaw-odonic, as father
+  bond jadwiga, as mother
+  link |https://en.wikipedia.org/wiki/Przemys%C5%82_I_of_Greater_Poland|
+
+person elisabeth-of-wroclaw
+  name |Elisabeth of Wrocław|
+  bond henry-ii-the-pious, as father
+  bond anne-of-bohemia, as mother
+  link |https://en.wikipedia.org/wiki/Elisabeth_of_Wroc%C5%82aw|
+
+person boleslaw-ii-the-horned
+  name |Bolesław II the Horned|
+  bond henry-ii-the-pious, as father
+  bond anna-of-bohemia, as mother
+  link |https://en.wikipedia.org/wiki/Boles%C5%82aw_II_the_Horned|
+
+person henry-iii-the-white
+  name |Henry III the White|
+  bond henry-ii-the-pious, as father
+  bond anne-of-bohemia, as mother
+  link |https://en.wikipedia.org/wiki/Henry_III_the_White|
+
+person casimir-i-of-kuyavia
+  name |Casimir I of Kuyavia|
+  bond konrad-i-of-masovia, as father
+  bond agafia-of-rus, as mother
+  link |https://en.wikipedia.org/wiki/Casimir_I_of_Kuyavia|
+
+person euphrosyne-of-opole
+  name |Euphrosyne of Opole|
+  bond casimir-i-of-opole, as father
+  bond viola-duchess-of-opole, as mother
+  link |https://en.wikipedia.org/wiki/Euphrosyne_of_Opole|
+
+person rostislav-mikhailovich
+  name |Rostislav Mikhailovich|
+  bond mikhail-vsevolodovich, as father
+  bond elena-romanovna-of-halych, as mother
+  link |https://en.wikipedia.org/wiki/Rostislav_Mikhailovich|
+
+person leo-i-of-galicia
+  name |Leo I of Galicia|
+  bond daniel-of-galicia, as father
+  bond anna-mstislavna-smolenskaya, as mother
+  link |https://en.wikipedia.org/wiki/Leo_I_of_Galicia|
+
+person przemysl-ii
+  name |Przemysł II|
+  bond przemysl-i-of-greater-poland, as father
+  bond elisabeth-of-wroclaw, as mother
+  link |https://en.wikipedia.org/wiki/Przemys%C5%82_II|
+
+person henryk-iv-probus
+  name |Henryk IV Probus|
+  bond henry-iii-the-white, as father
+  bond judith-of-masovia, as mother
+  link |https://en.wikipedia.org/wiki/Henryk_IV_Probus|
+
+person leszek-ii-the-black
+  name |Leszek II the Black|
+  bond casimir-i-of-kuyavia, as father
+  bond constance-of-wroclaw, as mother
+  link |https://en.wikipedia.org/wiki/Judith%20of%20Masovia|
+
+person ottokar-ii-of-bohemia
+  name |Ottokar II of Bohemia|
+  bond wenceslaus-i-of-bohemia, as father
+  bond kunigunde-of-hohenstaufen, as mother
+  link |https://en.wikipedia.org/wiki/Ottokar_II_of_Bohemia|
+
+person kunigunda-of-halych
+  name |Kunigunda of Halych|
+  bond rostislav-mikhailovich, as father
+  bond anna-of-hungary, as mother
+  link |https://en.wikipedia.org/wiki/Kunigunda_of_Halych|
+
+person siemowit
+  name |Siemowit|
+  bond piast-the-wheelwright, as father
+  bond rzepicha, as mother
+  link |https://en.wikipedia.org/wiki/Siemowit|
+
+person boleslaw-i-the-brave
+  name |Bolesław I the Brave|
+  bond mieszko-i-of-poland, as father
+  bond dobrawa-of-bohemia, as mother
+  link |https://en.wikipedia.org/wiki/Boles%C5%82aw_I_the_Brave|
+
+person bezprym
+  name |Bezprym|
+  bond boleslaw-the-brave, as father
+  bond judith-of-hungary, as mother
+  link |https://en.wikipedia.org/wiki/Bezprym|
+
+person mieszko-ii-lambert
+  name |Mieszko II Lambert|
+  bond boleslaw-i-the-brave, as father
+  bond emnilda-of-lusatia, as mother
+  link |https://en.wikipedia.org/wiki/Mieszko_II_Lambert|
+
+person casimir-i-the-restorer
+  name |Casimir I the Restorer|
+  bond mieszko-ii-lambert, as father
+  bond richeza-of-lotharingia, as mother
+  link |https://en.wikipedia.org/wiki/Casimir_I_the_Restorer|
+
+person boleslaw-ii-the-generous
+  name |Bolesław II the Generous|
+  bond casimir-i-the-restorer, as father
+  bond maria-dobroniega-of-kiev, as mother
+  link |https://en.wikipedia.org/wiki/Boles%C5%82aw_II_the_Generous|
+
+person wladyslaw-i-herman
+  name |Władysław I Herman|
+  bond casimir-i-the-restorer, as father
+  bond maria-dobroniega-of-kiev, as mother
+  link |https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_I_Herman|
+
+person judith-of-bohemia
+  name |Judith of Bohemia|
+  bond vratislaus-ii-of-bohemia, as father
+  bond adelaide-of-hungary, as mother
+  link |https://en.wikipedia.org/wiki/Judith_of_Bohemia|
+
+person mieszko-boleslawowic
+  name |Mieszko Bolesławowic|
+  bond boleslaw-ii-the-bold, as father
+  bond wyszeslawa-of-kiev, as mother
+  link |https://en.wikipedia.org/wiki/Mieszko_Boles%C5%82awowic|
+
+person zbigniew-of-poland
+  name |Zbigniew of Poland|
+  bond wladyslaw-herman, as father
+  bond przeclawa, as mother
+  link |https://en.wikipedia.org/wiki/Zbigniew_of_Poland|
+
+person zbyslava-of-kiev
+  name |Zbyslava of Kiev|
+  bond sviatopolk-ii-of-kiev, as father
+  bond premyslid-princess, as mother
+  link |https://en.wikipedia.org/wiki/Zbyslava_of_Kiev|
+
+person boleslaw-iii-wrymouth
+  name |Bolesław III Wrymouth|
+  bond wladyslaw-i-herman, as father
+  bond judith-of-bohemia, as mother
+  link |https://en.wikipedia.org/wiki/Boles%C5%82aw_III_Wrymouth|
+
+person salomea-of-berg
+  name |Salomea of Berg|
+  bond henry-count-of-berg, as father
+  bond adelaide-of-mochental, as mother
+  link |https://en.wikipedia.org/wiki/Salomea_of_Berg|
+
+person wladyslaw-ii-the-exile
+  name |Władysław II the Exile|
+  bond boleslaw-iii-wrymouth, as father
+  bond zbyslava-of-kiev, as mother
+  link |https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_II_the_Exile|
+
+person boleslaw-i-the-tall
+  name |Bolesław I the Tall|
+  bond wladyslaw-ii-the-exile, as father
+  bond agnes-of-babenberg, as mother
+  link |https://en.wikipedia.org/wiki/Boles%C5%82aw_I_the_Tall|
+
+person mieszko-iv-tanglefoot
+  name |Mieszko IV Tanglefoot|
+  bond wladyslaw-ii-the-exile, as father
+  bond agnes-of-babenberg, as mother
+  link |https://en.wikipedia.org/wiki/Mieszko_IV_Tanglefoot|
+
+person boleslaw-iv-the-curly
+  name |Bolesław IV the Curly|
+  bond boleslaw-iii-wrymouth, as father
+  bond salomea-of-berg, as mother
+  link |https://en.wikipedia.org/wiki/Boles%C5%82aw_IV_the_Curly|
+
+person mieszko-iii-the-old
+  name |Mieszko III the Old|
+  bond boleslaw-iii-wrymouth, as father
+  bond salomea-of-berg, as mother
+  link |https://en.wikipedia.org/wiki/Mieszko_III_the_Old|
+
+person casimir-ii-the-just
+  name |Casimir II the Just|
+  bond boleslaw-iii-wrymouth, as father
+  bond salomea-of-berg, as mother
+  link |https://en.wikipedia.org/wiki/Casimir_II_the_Just|
+
+person agnes-of-poland
+  name |Agnes of Poland|
+  bond boleslaw-iii-wrymouth-of-poland, as father
+  bond salomea-of-berg, as mother
+  link |https://en.wikipedia.org/wiki/Agnes_of_Poland|
+
+person mstislav-ii-of-kiev
+  name |Mstislav II of Kiev|
+  bond iziaslav-ii-of-kiev, as father
+  bond agnes-of-germany, as mother
+  link |https://en.wikipedia.org/wiki/Mstislav_II_of_Kiev|
+
+person odon-of-poznan
+  name |Odon of Poznań|
+  bond mieszko-iii-the-old, as father
+  bond elisabeth-of-hungary, as mother
+  link |https://en.wikipedia.org/wiki/Odon_of_Pozna%C5%84|
+
+person henry-the-bearded
+  name |Henry the Bearded|
+  bond boleslaw-i-the-tall, as father
+  bond christina, as mother
+  link |https://en.wikipedia.org/wiki/Henry_the_Bearded|
+
+person casimir-i-of-opole
+  name |Casimir I of Opole|
+  bond mieszko-i-tanglefoot, as father
+  bond ludmilla, as mother
+  link |https://en.wikipedia.org/wiki/Casimir_I_of_Opole|
+
+person wladyslaw-iii-spindleshanks
+  name |Władysław III Spindleshanks|
+  bond mieszko-iii-the-old, as father
+  bond eudoxia-of-kiev, as mother
+  link |https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_III_Spindleshanks|
+
+person konrad-i-of-masovia
+  name |Konrad I of Masovia|
+  bond casimir-ii-the-just, as father
+  bond helen-of-znojmo, as mother
+  link |https://en.wikipedia.org/wiki/Konrad_I_of_Masovia|
+
+person leszek-the-white
+  name |Leszek the White|
+  bond casimir-ii-the-just, as father
+  bond helen-of-znojmo, as mother
+  link |https://en.wikipedia.org/wiki/Leszek_the_White|
+
+person vsevolod-iv-of-kiev
+  name |Vsevolod IV of Kiev|
+  bond sviatoslav-iii-of-kiev-kyiv, as father
+  bond maria-vasilkovna-of-polotsk, as mother
+  link |https://en.wikipedia.org/wiki/Vsevolod_IV_of_Kiev|
+
+person roman-the-great
+  name |Roman the Great|
+  bond mstislav-ii-of-kiev-kyiv, as father
+  bond agnes-of-poland, as mother
+  link |https://en.wikipedia.org/wiki/Roman_the_Great|
+
+person wladyslaw-odonic
+  name |Władysław Odonic|
+  bond odon-of-poznan, as father
+  bond viacheslava-yaroslavna-of-halych, as mother
+  link |https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Odonic|
+
+person henry-ii-the-pious
+  name |Henry II the Pious|
+  bond henry-i-the-bearded, as father
+  bond hedwig-of-andechs-2, as mother
+  link |https://en.wikipedia.org/wiki/Henry_II_the_Pious|
+
+person boleslaw-v-the-chaste
+  name |Bolesław V the Chaste|
+  bond leszek-i-the-white, as father
+  bond grzymislawa, as mother
+  link |https://en.wikipedia.org/wiki/Boles%C5%82aw_V_the_Chaste|
+
+person michael-of-chernigov
+  name |Michael of Chernigov|
+  bond vsevolod-iv-of-kiev-kyiv, as father
+  bond anastasia-of-poland, as mother
+  link |https://en.wikipedia.org/wiki/Michael_of_Chernigov|
+
+person daniel-of-galicia
+  name |Daniel of Galicia|
+  bond roman-mstyslavych, as father
+  bond anna-from-byzantium, as mother
+  link |https://en.wikipedia.org/wiki/Daniel_of_Galicia|
+
+person rudolf-i-of-bohemia
+  name |Rudolf I of Bohemia|
+  bond albert-i-of-germany, as father
+  bond elizabeth-of-carinthia, as mother
+  link |https://en.wikipedia.org/wiki/Rudolf_I_of_Bohemia|
+
+person elizabeth-richeza-of-poland
+  name |Elizabeth Richeza of Poland|
+  bond przemysl-ii-of-poland, as father
+  bond richeza-of-sweden, as mother
+  link |https://en.wikipedia.org/wiki/Elizabeth_Richeza_of_Poland|
+
+person wenceslaus-ii-of-bohemia
+  name |Wenceslaus II of Bohemia|
+  bond ottokar-ii-of-bohemia, as father
+  bond kunigunda-of-slavonia, as mother
+  link |https://en.wikipedia.org/wiki/Wenceslaus_II_of_Bohemia|
+
+person kunigunda-of-halych
+  name |Kunigunda of Halych|
+  bond rostislav-mikhailovich, as father
+  bond anna-of-hungary, as mother
+  link |https://en.wikipedia.org/wiki/Kunigunda_of_Halych|
+
+person anna-of-hungary-duchess-of-macso
+  name |Anna of Hungary, Duchess of Macsó|
+  bond bela-iv-of-hungary, as father
+  bond maria-laskarina, as mother
+  link |https://en.wikipedia.org/wiki/Anna_of_Hungary,_Duchess_of_Macs%C3%B3|
+
+person bela-iv-of-hungary
+  name |Béla IV of Hungary|
+  bond andrew-ii-of-hungary, as father
+  bond gertrude-of-merania, as mother
+  link |https://en.wikipedia.org/wiki/B%C3%A9la_IV_of_Hungary|
+
+person judith-of-habsburg
+  name |Judith of Habsburg|
+  bond rudolf-i-of-germany, as father
+  bond gertrude-of-hohenberg, as mother
+  link |https://en.wikipedia.org/wiki/Judith_of_Habsburg|
+
+person jadwiga-of-kalisz
+  name |Jadwiga of Kalisz|
+  bond boleslaw-the-pious, as father
+  bond yolanda-of-hungary, as mother
+  link |https://en.wikipedia.org/wiki/Jadwiga_of_Kalisz|
+
+person wladyslaw-i-lokietek
+  name |Władysław I Łokietek|
+  bond casimir-i-of-kuyavia, as father
+  bond euphrosyne-of-opole, as mother
+  link |https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_I_%C5%81okietek|
+
+person yuri-i-of-galicia
+  name |Yuri I of Galicia|
+  bond leo-i-of-galicia, as father
+  bond constance-of-hungary, as mother
+  link |https://en.wikipedia.org/wiki/Yuri_I_of_Galicia|
+
+person john-of-bohemia
+  name |John of Bohemia|
+  bond henry-vii-holy-roman-emperor, as father
+  bond margaret-of-brabant, as mother
+  link |https://en.wikipedia.org/wiki/John_of_Bohemia|
+
+person elizabeth-of-bohemia
+  name |Elizabeth of Bohemia|
+  bond wenceslaus-ii-of-bohemia, as father
+  bond judith-of-habsburg, as mother
+  link |https://en.wikipedia.org/wiki/Elizabeth_of_Bohemia_(1292%E2%80%931330)|
+
+person wenceslaus-iii-of-bohemia
+  name |Wenceslaus III of Bohemia|
+  bond wenceslaus-ii-of-bohemia, as father
+  bond judith-of-habsburg, as mother
+  link |https://en.wikipedia.org/wiki/Wenceslaus_III_of_Bohemia|
+
+person anne-of-bohemia
+  name |Anne of Bohemia|
+  bond wenceslaus-ii-of-bohemia, as father
+  bond judith-of-habsburg, as mother
+  link |https://en.wikipedia.org/wiki/Anne_of_Bohemia_(1290%E2%80%931313)|
+
+person henry-of-bohemia
+  name |Henry of Bohemia|
+  bond meinhard-duke-of-carinthia, as father
+  bond elisabeth-of-wittelsbach, as mother
+  link |https://en.wikipedia.org/wiki/Henry_of_Bohemia|
+
+person casimir-iii-the-great
+  name |Casimir III the Great|
+  bond wladyslaw-i-the-elbow-high, as father
+  bond jadwiga-of-kalisz, as mother
+  link |https://en.wikipedia.org/wiki/Casimir_III_the_Great|
+
+person elizabeth-of-poland-queen-of-hungary
+  name |Elizabeth of Poland, Queen of Hungary|
+  bond wladyslaw-i-the-elbow-high, as father
+  bond jadwiga-of-greater-poland, as mother
+  link |https://en.wikipedia.org/wiki/Elizabeth_of_Poland,_Queen_of_Hungary|
+
+person charles-i-of-hungary
+  name |Charles I of Hungary|
+  bond charles-martel-of-anjou, as father
+  bond clemence-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Charles_I_of_Hungary|
+
+person aleksandr-mikhailovich-of-tver
+  name |Aleksandr Mikhailovich of Tver|
+  bond mikhail-of-tver, as father
+  bond anna-of-kashin, as mother
+  link |https://en.wikipedia.org/wiki/Aleksandr_Mikhailovich_of_Tver|
+
+person john-ii-of-france
+  name |John II of France|
+  bond philip-vi-of-france, as father
+  bond joan-of-burgundy, as mother
+  link |https://en.wikipedia.org/wiki/John_II_of_France|
+
+person bonne-of-luxembourg
+  name |Bonne of Luxembourg|
+  bond john-king-of-bohemia, as father
+  bond elizabeth-of-bohemia, as mother
+  link |https://en.wikipedia.org/wiki/Bonne_of_Luxembourg|
+
+person william-count-of-celje
+  name |William, Count of Celje|
+  bond ulrich-i, as father
+  bond aldelaide-of-ortenburg, as mother
+  link |https://en.wikipedia.org/wiki/William,_Count_of_Celje|
+
+person louis-i-of-hungary
+  name |Louis I of Hungary|
+  bond charles-i-of-hungary, as father
+  bond elizabeth-of-poland, as mother
+  link |https://en.wikipedia.org/wiki/Louis_I_of_Hungary|
+
+person elizabeth-of-poland-duchess-of-pomerania
+  name |Elizabeth of Poland, Duchess of Pomerania|
+  bond casimir-iii-of-poland, as father
+  bond aldona-of-lithuania, as mother
+  link |https://en.wikipedia.org/wiki/Elizabeth_of_Poland,_Duchess_of_Pomerania|
+
+person uliana-of-tver
+  name |Uliana of Tver|
+  bond alexander-of-tver, as father
+  bond anastasia-of-halych, as mother
+  link |https://en.wikipedia.org/wiki/Uliana_of_Tver|
+
+person charles-v-of-france
+  name |Charles V of France|
+  bond john-ii-of-france, as father
+  bond bonne-of-bohemia, as mother
+  link |https://en.wikipedia.org/wiki/Charles_V_of_France|
+
+person anna-of-cilli
+  name |Anna of Cilli|
+  bond william-count-of-celje, as father
+  bond anna-of-poland, as mother
+  link |https://en.wikipedia.org/wiki/Anna_of_Cilli|
+
+person wladyslaw-ii-jagiello
+  name |Władysław II Jagiełło|
+  bond algirdas-grand-duke-of-lithuania, as father
+  bond uliana-of-tver, as mother
+  link |https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_II_Jagie%C5%82%C5%82o|
+
+person jadwiga-of-poland
+  name |Jadwiga of Poland|
+  bond louis-i-of-hungary, as father
+  bond elizabeth-of-bosnia, as mother
+  link |https://en.wikipedia.org/wiki/Jadwiga_of_Poland|
+
+person elizabeth-of-pomerania
+  name |Elizabeth of Pomerania|
+  bond bogislaw-v-duke-of-pomerania, as father
+  bond elisabeth-of-poland, as mother
+  link |https://en.wikipedia.org/wiki/Elizabeth_of_Pomerania|
+
+person louis-i-duke-of-orleans
+  name |Louis I, Duke of Orléans|
+  bond charles-v-of-france, as father
+  bond joanna-of-bourbon, as mother
+  link |https://en.wikipedia.org/wiki/Louis_I,_Duke_of_Orl%C3%A9ans|
+
+person sophia-of-halshany
+  name |Sophia of Halshany|
+  bond andrew-olshansky, as father
+  bond alexandra-drucka, as mother
+  link |https://en.wikipedia.org/wiki/Sophia_of_Halshany|
+
+person sigismund-holy-roman-emperor
+  name |Sigismund, Holy Roman Emperor|
+  bond charles-iv-holy-roman-emperor, as father
+  bond elizabeth-of-pomerania, as mother
+  link |https://en.wikipedia.org/wiki/Sigismund,_Holy_Roman_Emperor|
+
+person elizabeth-of-luxembourg
+  name |Elizabeth of Luxembourg|
+  bond sigismund-holy-roman-emperor, as father
+  bond barbara-of-cilli, as mother
+  link |https://en.wikipedia.org/wiki/Elizabeth_of_Luxembourg|
+
+person john-count-of-angouleme
+  name |John, Count of Angoulême|
+  bond louis-i-duke-of-orleans, as father
+  bond valentina-visconti, as mother
+  link |https://en.wikipedia.org/wiki/John,_Count_of_Angoul%C3%AAme|
+
+person charles-count-of-angouleme
+  name |Charles, Count of Angoulême|
+  bond john-count-of-angouleme, as father
+  bond marguerite-de-rohan, as mother
+  link |https://en.wikipedia.org/wiki/Charles,_Count_of_Angoul%C3%AAme|
+
+person wladyslaw-iii-of-poland
+  name |Władysław III of Poland|
+  bond wladyslaw-ii-jagiello, as father
+  bond sophia-of-halshany, as mother
+  link |https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_III_of_Poland|
+
+person casimir-iv-jagiellon
+  name |Casimir IV Jagiellon|
+  bond wladyslaw-ii-jagiello, as father
+  bond sophia-of-halshany, as mother
+  link |https://en.wikipedia.org/wiki/Casimir_IV_Jagiellon|
+
+person elizabeth-of-austria
+  name |Elizabeth of Austria|
+  bond albert-ii-of-germany, as father
+  bond elisabeth-of-bohemia, as mother
+  link |https://en.wikipedia.org/wiki/Elizabeth_of_Austria_(1436%E2%80%931505)|
+
+person francis-i-of-france
+  name |Francis I of France|
+  bond charles-count-of-angouleme, as father
+  bond louise-of-savoy, as mother
+  link |https://en.wikipedia.org/wiki/Francis_I_of_France|
+
+person vladislaus-ii-of-hungary
+  name |Vladislaus II of Hungary|
+  bond casimir-iv-king-of-poland, as father
+  bond elizabeth-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Vladislaus_II_of_Hungary|
+
+person john-i-albert
+  name |John I Albert|
+  bond casimir-iv-of-poland, as father
+  bond elisabeth-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/John_I_Albert|
+
+person alexander-jagiellon
+  name |Alexander Jagiellon|
+  bond casimir-iv-jagiellon, as father
+  bond elisabeth-of-hungary, as mother
+  link |https://en.wikipedia.org/wiki/Alexander_Jagiellon|
+
+person sigismund-i-the-old
+  name |Sigismund I the Old|
+  bond casimir-iv-of-poland, as father
+  bond elisabeth-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Sigismund_I_the_Old|
+
+person anna-jagiellon-duchess-of-pomerania
+  name |Anna Jagiellon, Duchess of Pomerania|
+  bond casimir-iv-of-poland, as father
+  bond elizabeth-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Anna_Jagiellon,_Duchess_of_Pomerania|
+
+person henry-ii-of-france
+  name |Henry II of France|
+  bond francis-i-king-of-france, as father
+  bond claude-duchess-of-brittany, as mother
+  link |https://en.wikipedia.org/wiki/Henry_II_of_France|
+
+person ferdinand-i-holy-roman-emperor
+  name |Ferdinand I, Holy Roman Emperor|
+  bond philip-i-of-castile, as father
+  bond joanna-of-castile, as mother
+  link |https://en.wikipedia.org/wiki/Ferdinand_I,_Holy_Roman_Emperor|
+
+person anne-of-bohemia-and-hungary
+  name |Anne of Bohemia and Hungary|
+  bond vladislaus-ii-of-hungary, as father
+  bond anne-of-foix-candale, as mother
+  link |https://en.wikipedia.org/wiki/Anne_of_Bohemia_and_Hungary|
+
+person sophie-of-pomerania
+  name |Sophie of Pomerania|
+  bond bogislaw-x-duke-of-pomerania, as father
+  bond anna-jagiellon, as mother
+  link |https://en.wikipedia.org/wiki/Sophie_of_Pomerania|
+
+person henry-iii-of-france
+  name |Henry III of France|
+  bond henry-ii-of-france, as father
+  bond catherine-de-medici, as mother
+  link |https://en.wikipedia.org/wiki/Henry_III_of_France|
+
+person maximilian-ii-holy-roman-emperor
+  name |Maximilian II, Holy Roman Emperor|
+  bond ferdinand-i, as father
+  bond anna-of-bohemia-and-hungary, as mother
+  link |https://en.wikipedia.org/wiki/Maximilian_II,_Holy_Roman_Emperor|
+
+person charles-ii-archduke-of-austria
+  name |Charles II, Archduke of Austria|
+  bond ferdinand-i-holy-roman-emperor, as father
+  bond anna-of-bohemia-and-hungary, as mother
+  link |https://en.wikipedia.org/wiki/Charles_II,_Archduke_of_Austria|
+
+person elizabeth-of-austria
+  name |Elizabeth of Austria|
+  bond ferdinand-i-holy-roman-emperor, as father
+  bond anna-of-bohemia-and-hungary, as mother
+  link |https://en.wikipedia.org/wiki/Elizabeth_of_Austria_(1526%E2%80%931545)|
+
+person sigismund-ii-augustus
+  name |Sigismund II Augustus|
+  bond sigismund-i-the-old, as father
+  bond bona-sforza, as mother
+  link |https://en.wikipedia.org/wiki/Sigismund_II_Augustus|
+
+person john-iii-of-sweden
+  name |John III of Sweden|
+  bond gustav-i-of-sweden, as father
+  bond margaret-leijonhufvud, as mother
+  link |https://en.wikipedia.org/wiki/John_III_of_Sweden|
+
+person catherine-jagiellon
+  name |Catherine Jagiellon|
+  bond sigismund-i-of-poland, as father
+  bond bona-sforza, as mother
+  link |https://en.wikipedia.org/wiki/Catherine_Jagiellon|
+
+person anna-jagiellon
+  name |Anna Jagiellon|
+  bond sigismund-i-the-old, as father
+  bond bona-sforza, as mother
+  link |https://en.wikipedia.org/wiki/Anna_Jagiellon|
+
+person stephen-bathory
+  name |Stephen Báthory|
+  bond stephen-bathory-of-somlyo, as father
+  bond catherine-telegdi, as mother
+  link |https://en.wikipedia.org/wiki/Stephen_B%C3%A1thory|
+
+person adolf-duke-of-holstein-gottorp
+  name |Adolf, Duke of Holstein-Gottorp|
+  bond frederick-i-of-denmark, as father
+  bond sophie-of-pomerania, as mother
+  link |https://en.wikipedia.org/wiki/Adolf,_Duke_of_Holstein-Gottorp|
+
+person maximilian-iii-archduke-of-austria
+  name |Maximilian III, Archduke of Austria|
+  bond maximilian-ii-holy-roman-emperor, as father
+  bond maria-of-spain, as mother
+  link |https://en.wikipedia.org/wiki/Maximilian_III,_Archduke_of_Austria|
+
+person ferdinand-ii-holy-roman-emperor
+  name |Ferdinand II, Holy Roman Emperor|
+  bond charles-ii-archduke-of-austria, as father
+  bond maria-anna-of-bavaria, as mother
+  link |https://en.wikipedia.org/wiki/Ferdinand_II,_Holy_Roman_Emperor|
+
+person sigismund-iii-vasa
+  name |Sigismund III Vasa|
+  bond john-iii-of-sweden, as father
+  bond catherine-jagiellon, as mother
+  link |https://en.wikipedia.org/wiki/Sigismund_III_Vasa|
+
+person john-adolf-duke-of-holstein-gottorp
+  name |John Adolf, Duke of Holstein-Gottorp|
+  bond adolf-duke-of-holstein-gottorp, as father
+  bond christine-of-hesse, as mother
+  link |https://en.wikipedia.org/wiki/John_Adolf,_Duke_of_Holstein-Gottorp|
+
+person archduchess-maria-anna-of-austria
+  name |Archduchess Maria Anna of Austria|
+  bond ferdinand-ii-holy-roman-emperor, as father
+  bond maria-anna-of-bavaria, as mother
+  link |https://en.wikipedia.org/wiki/Archduchess_Maria_Anna_of_Austria_(born_1610)|
+
+person ferdinand-iii-holy-roman-emperor
+  name |Ferdinand III, Holy Roman Emperor|
+  bond ferdinand-ii-holy-roman-emperor, as father
+  bond maria-anna-of-bavaria, as mother
+  link |https://en.wikipedia.org/wiki/Ferdinand_III,_Holy_Roman_Emperor|
+
+person cecilia-renata-of-austria
+  name |Cecilia Renata of Austria|
+  bond ferdinand-ii-holy-roman-emperor, as father
+  bond maria-anna-of-bavaria, as mother
+  link |https://en.wikipedia.org/wiki/Cecilia_Renata_of_Austria|
+
+person wladyslaw-iv-vasa
+  name |Władysław IV Vasa|
+  bond sigismund-iii-of-poland, as father
+  bond anne-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_IV_Vasa|
+
+person john-ii-casimir-vasa
+  name |John II Casimir Vasa|
+  bond sigismund-iii-vasa, as father
+  bond constance-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/John_II_Casimir_Vasa|
+
+person frederick-iii-duke-of-holstein-gottorp
+  name |Frederick III, Duke of Holstein-Gottorp|
+  bond john-adolf-duke-of-holstein-gottorp, as father
+  bond augusta-of-denmark, as mother
+  link |https://en.wikipedia.org/wiki/Frederick_III,_Duke_of_Holstein-Gottorp|
+
+person john-iii-sobieski
+  name |John III Sobieski|
+  bond jakub-sobieski, as father
+  bond zofia-teofillia-danilowicz, as mother
+  link |https://en.wikipedia.org/wiki/John_III_Sobieski|
+
+person ferdinand-maria-elector-of-bavaria
+  name |Ferdinand Maria, Elector of Bavaria|
+  bond maximilian-i-elector-of-bavaria, as father
+  bond maria-anna-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Ferdinand_Maria,_Elector_of_Bavaria|
+
+person leopold-i-holy-roman-emperor
+  name |Leopold I, Holy Roman Emperor|
+  bond ferdinand-iii-holy-roman-emperor, as father
+  bond maria-anna-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Leopold_I,_Holy_Roman_Emperor|
+
+person eleonore-of-austria-queen-of-poland
+  name |Eleonore of Austria, Queen of Poland|
+  bond ferdinand-iii-holy-roman-emperor, as father
+  bond eleanor-gonzaga, as mother
+  link |https://en.wikipedia.org/wiki/Eleonore_of_Austria,_Queen_of_Poland|
+
+person michal-korybut-wisniowiecki
+  name |Michał Korybut Wiśniowiecki|
+  bond jeremi-wisniowiecki, as father
+  bond gryzelda-konstancja-zamoyska, as mother
+  link |https://en.wikipedia.org/wiki/Micha%C5%82_Korybut_Wi%C5%9Bniowiecki|
+
+person christian-albert-duke-of-holstein-gottorp
+  name |Christian Albert, Duke of Holstein-Gottorp|
+  bond frederick-iii-duke-of-holstein-gottorp, as father
+  bond marie-elisabeth-of-saxony, as mother
+  link |https://en.wikipedia.org/wiki/Christian_Albert,_Duke_of_Holstein-Gottorp|
+
+person frederick-iv-duke-of-holstein-gottorp
+  name |Frederick IV, Duke of Holstein-Gottorp|
+  bond christian-albert-duke-of-holstein-gottorp, as father
+  bond princess-frederica-amalia-of-denmark, as mother
+  link |https://en.wikipedia.org/wiki/Frederick_IV,_Duke_of_Holstein-Gottorp|
+
+person christian-august-of-holstein-gottorp-prince-of-eutin
+  name |Christian August of Holstein-Gottorp, Prince of Eutin|
+  bond christian-albert-duke-of-holstein-gottorp, as father
+  bond princess-frederica-amalia-of-denmark, as mother
+  link |https://en.wikipedia.org/wiki/Christian_August_of_Holstein-Gottorp,_Prince_of_Eutin|
+
+person francois-louis-prince-of-conti
+  name |François Louis, Prince of Conti|
+  bond armand-prince-of-conti, as father
+  bond anne-marie-martinozzi, as mother
+  link |https://en.wikipedia.org/wiki/Fran%C3%A7ois_Louis,_Prince_of_Conti|
+
+person stanislaw-leszczynski
+  name |Stanisław Leszczyński|
+  bond rafal-leszczynski, as father
+  bond anna-jablonowska, as mother
+  link |https://en.wikipedia.org/wiki/Stanis%C5%82aw_Leszczy%C5%84ski|
+
+person augustus-ii-the-strong
+  name |Augustus II the Strong|
+  bond john-george-iii-elector-of-saxony, as father
+  bond princess-anna-sophie-of-denmark, as mother
+  link |https://en.wikipedia.org/wiki/Augustus_II_the_Strong|
+
+person joseph-i-holy-roman-emperor
+  name |Joseph I, Holy Roman Emperor|
+  bond leopold-i-holy-roman-emperor, as father
+  bond eleonore-magdalena-of-neuburg, as mother
+  link |https://en.wikipedia.org/wiki/Joseph_I,_Holy_Roman_Emperor|
+
+person maria-antonia-of-austria
+  name |Maria Antonia of Austria|
+  bond leopold-i-holy-roman-emperor, as father
+  bond margaret-theresa-of-spain, as mother
+  link |https://en.wikipedia.org/wiki/Maria_Antonia_of_Austria|
+
+person maximilian-ii-emanuel-elector-of-bavaria
+  name |Maximilian II Emanuel, Elector of Bavaria|
+  bond ferdinand-maria-elector-of-bavaria, as father
+  bond henriette-adelaide-of-savoy, as mother
+  link |https://en.wikipedia.org/wiki/Maximilian_II_Emanuel,_Elector_of_Bavaria|
+
+person theresa-kunegunda-sobieska
+  name |Theresa Kunegunda Sobieska|
+  bond john-iii-sobieski, as father
+  bond marie-casimire-louise-de-la-grange-d-arquien, as mother
+  link |https://en.wikipedia.org/wiki/Theresa_Kunegunda_Sobieska|
+
+person maria-josepha-of-austria
+  name |Maria Josepha of Austria|
+  bond joseph-i-holy-roman-emperor, as father
+  bond wilhelmina-amalia-of-brunswick, as mother
+  link |https://en.wikipedia.org/wiki/Maria_Josepha_of_Austria|
+
+person augustus-iii-of-poland
+  name |Augustus III of Poland|
+  bond augustus-ii-of-poland, as father
+  bond christiane-eberhardine-of-brandenburg-bayreuth, as mother
+  link |https://en.wikipedia.org/wiki/Augustus_III_of_Poland|
+
+person marie-leszczynska
+  name |Marie Leszczyńska|
+  bond stanislaus-i-of-poland, as father
+  bond catherine-opalinska, as mother
+  link |https://en.wikipedia.org/wiki/Marie_Leszczy%C5%84ska|
+
+person louis-xv
+  name |Louis XV|
+  bond louis-duke-of-burgundy, as father
+  bond marie-adelaide-of-savoy, as mother
+  link |https://en.wikipedia.org/wiki/Louis_XV|
+
+person joanna-elisabeth-of-holstein-gottorp
+  name |Joanna Elisabeth of Holstein-Gottorp|
+  bond christian-august-prince-of-eutin, as father
+  bond albertina-frederica-of-baden-durlach, as mother
+  link |https://en.wikipedia.org/wiki/Joanna_Elisabeth_of_Holstein-Gottorp|
+
+person charles-frederick-duke-of-holstein-gottorp
+  name |Charles Frederick, Duke of Holstein-Gottorp|
+  bond frederick-iv-duke-of-holstein-gottorp, as father
+  bond hedvig-sophia-of-sweden, as mother
+  link |https://en.wikipedia.org/wiki/Charles_Frederick,_Duke_of_Holstein-Gottorp|
+
+person peter-iii-of-russia
+  name |Peter III of Russia|
+  bond charles-frederick-duke-of-holstein-gottorp, as father
+  bond anna-petrovna-of-russia, as mother
+  link |https://en.wikipedia.org/wiki/Peter_III_of_Russia|
+
+person catherine-the-great
+  name |Catherine the Great|
+  bond christian-august-prince-of-anhalt-zerbst, as father
+  bond princess-johanna-elisabeth-of-holstein-gottorp, as mother
+  link |https://en.wikipedia.org/wiki/Catherine_the_Great|
+
+person stanislaw-august-poniatowski
+  name |Stanisław August Poniatowski|
+  bond stanislaw-poniatowski, as father
+  bond konstancja-czartoryska, as mother
+  link |https://en.wikipedia.org/wiki/Stanis%C5%82aw_August_Poniatowski|
+
+person louis-dauphin-of-france
+  name |Louis, Dauphin of France|
+  bond louis-xv-of-france, as father
+  bond marie-leszczynska, as mother
+  link |https://en.wikipedia.org/wiki/Louis,_Dauphin_of_France_(son_of_Louis_XV)|
+
+person maria-josepha-of-saxony-dauphine-of-france
+  name |Maria Josepha of Saxony, Dauphine of France|
+  bond augustus-iii-of-poland, as father
+  bond maria-josepha-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Maria_Josepha_of_Saxony,_Dauphine_of_France|
+
+person frederick-christian-elector-of-saxony
+  name |Frederick Christian, Elector of Saxony|
+  bond frederick-augustus-ii-elector-of-saxony, as father
+  bond maria-josepha-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Frederick_Christian,_Elector_of_Saxony|
+
+person frederick-augustus-i-of-saxony
+  name |Frederick Augustus I of Saxony|
+  bond frederick-christian-elector-of-saxony, as father
+  bond princess-maria-antonia-of-bavaria, as mother
+  link |https://en.wikipedia.org/wiki/Frederick_Augustus_I_of_Saxony|
+
+person paul-i-of-russia
+  name |Paul I of Russia|
+  bond peter-iii-of-russia, as father
+  bond catherine-ii-of-russia, as mother
+  link |https://en.wikipedia.org/wiki/Paul_I_of_Russia|
+
+person alexander-i-of-russia
+  name |Alexander I of Russia|
+  bond paul-i-of-russia, as father
+  bond maria-feodorovna-sophie-dorothea-of-wurttemberg, as mother
+  link |https://en.wikipedia.org/wiki/Alexander_I_of_Russia|
+
+person nicholas-i-of-russia
+  name |Nicholas I of Russia|
+  bond paul-i-of-russia, as father
+  bond maria-feodorovna-sophie-dorothea-of-wurttemberg, as mother
+  link |https://en.wikipedia.org/wiki/Nicholas_I_of_Russia|
+
+person alexander-ii-of-russia
+  name |Alexander II of Russia|
+  bond nicholas-i-of-russia, as father
+  bond alexandra-feodorovna-charlotte-of-prussia, as mother
+  link |https://en.wikipedia.org/wiki/Alexander_II_of_Russia|
+
+person alexander-iii-of-russia
+  name |Alexander III of Russia|
+  bond alexander-ii-of-russia, as father
+  bond maria-alexandrovna-marie-of-hesse, as mother
+  link |https://en.wikipedia.org/wiki/Alexander_III_of_Russia|
+
+person nicholas-ii-of-russia
+  name |Nicholas II of Russia|
+  bond alexander-iii-of-russia, as father
+  bond maria-feodorovna-dagmar-of-denmark, as mother
+  link |https://en.wikipedia.org/wiki/Nicholas_II_of_Russia|
+
+person alfonso-vi-of-leon-and-castile
+  name |Alfonso VI of León and Castile|
+  bond ferdinand-i-of-leon, as father
+  bond sancha-of-leon, as mother
+  link |https://en.wikipedia.org/wiki/Alfonso_VI_of_Le%C3%B3n_and_Castile|
+
+person henry-son-of-robert-i-of-burgundy
+  name |Henry, son of Robert I of Burgundy|
+  bond robert-i-duke-of-burgundy, as father
+  bond helie-of-semur, as mother
+  link |https://en.wikipedia.org/wiki/Henry,_son_of_Robert_I_of_Burgundy|
+
+person urraca-of-leon
+  name |Urraca of León|
+  bond alfonso-vi-of-leon-and-castile, as father
+  bond constance-of-burgundy, as mother
+  link |https://en.wikipedia.org/wiki/Urraca_of_Le%C3%B3n|
+
+person theresa-countess-of-portugal
+  name |Theresa, Countess of Portugal|
+  bond alfonso-vi-of-leon-and-castile, as father
+  bond jimena-munoz, as mother
+  link |https://en.wikipedia.org/wiki/Theresa,_Countess_of_Portugal|
+
+person amadeus-iii-count-of-savoy
+  name |Amadeus III, Count of Savoy|
+  bond humbert-ii-count-of-savoy, as father
+  bond gisela-of-burgundy, as mother
+  link |https://en.wikipedia.org/wiki/Amadeus_III,_Count_of_Savoy|
+
+person alfonso-vii-of-leon-and-castile
+  name |Alfonso VII of León and Castile|
+  bond raymond-count-of-galicia, as father
+  bond urraca-queen-of-leon-and-castile, as mother
+  link |https://en.wikipedia.org/wiki/Alfonso_VII_of_Le%C3%B3n_and_Castile|
+
+person afonso-i-of-portugal
+  name |Afonso I of Portugal|
+  bond henry-count-of-portugal, as father
+  bond teresa-countess-of-portugal, as mother
+  link |https://en.wikipedia.org/wiki/Afonso_I_of_Portugal|
+
+person matilda-of-savoy-queen-of-portugal
+  name |Matilda of Savoy, Queen of Portugal|
+  bond amadeus-iii-count-of-savoy, as father
+  bond mahaut-of-albon, as mother
+  link |https://en.wikipedia.org/wiki/Matilda_of_Savoy,_Queen_of_Portugal|
+
+person ramon-berenguer-iv-count-of-barcelona
+  name |Ramon Berenguer IV, Count of Barcelona|
+  bond ramon-berenguer-iii-count-of-barcelona, as father
+  bond douce-i-countess-of-provence, as mother
+  link |https://en.wikipedia.org/wiki/Ramon_Berenguer_IV,_Count_of_Barcelona|
+
+person petronilla-of-aragon
+  name |Petronilla of Aragon|
+  bond ramiro-ii-of-aragon, as father
+  bond agnes-of-aquitaine, as mother
+  link |https://en.wikipedia.org/wiki/Petronilla_of_Aragon|
+
+person ferdinand-ii-of-leon
+  name |Ferdinand II of León|
+  bond alfonso-vii-of-leon-and-castile, as father
+  bond berenguela-of-barcelona, as mother
+  link |https://en.wikipedia.org/wiki/Ferdinand_II_of_Le%C3%B3n|
+
+person urraca-of-portugal
+  name |Urraca of Portugal|
+  bond afonso-i-of-portugal, as father
+  bond maud-of-savoy, as mother
+  link |https://en.wikipedia.org/wiki/Urraca_of_Portugal|
+
+person mafalda-of-portugal
+  name |Mafalda of Portugal|
+  bond afonso-i, as father
+  bond matilda-of-savoy, as mother
+  link |https://en.wikipedia.org/wiki/Mafalda_of_Portugal_(born_1153)|
+
+person sancho-i-of-portugal
+  name |Sancho I of Portugal|
+  bond afonso-i-of-portugal, as father
+  bond matilda-of-savoy, as mother
+  link |https://en.wikipedia.org/wiki/Sancho_I_of_Portugal|
+
+person dulce-of-aragon
+  name |Dulce of Aragon|
+  bond ramon-berenguer-iv-count-of-barcelona, as father
+  bond petronilla-of-aragon, as mother
+  link |https://en.wikipedia.org/wiki/Dulce_of_Aragon|
+
+person philip-i-count-of-flanders
+  name |Philip I, Count of Flanders|
+  bond thierry-count-of-flanders, as father
+  bond sibylla-of-anjou, as mother
+  link |https://en.wikipedia.org/wiki/Philip_I,_Count_of_Flanders|
+
+person theresa-of-portugal-countess-of-flanders
+  name |Theresa of Portugal, Countess of Flanders|
+  bond afonso-i-of-portugal, as father
+  bond maud-of-savoy, as mother
+  link |https://en.wikipedia.org/wiki/Theresa_of_Portugal,_Countess_of_Flanders|
+
+person odo-iii-duke-of-burgundy
+  name |Odo III, Duke of Burgundy|
+  bond hugh-iii-duke-of-burgundy, as father
+  bond alice-of-lorraine, as mother
+  link |https://en.wikipedia.org/wiki/Odo_III,_Duke_of_Burgundy|
+
+person alfonso-ix-of-leon
+  name |Alfonso IX of León|
+  bond ferdinand-ii-of-leon, as father
+  bond urraca-of-portugal, as mother
+  link |https://en.wikipedia.org/wiki/Alfonso_IX_of_Le%C3%B3n|
+
+person theresa-of-portugal-queen-of-leon
+  name |Theresa of Portugal, Queen of León|
+  bond sancho-i-of-portugal, as father
+  bond dulce-of-aragon, as mother
+  link |https://en.wikipedia.org/wiki/Theresa_of_Portugal,_Queen_of_Le%C3%B3n|
+
+person sancha-lady-of-alenquer
+  name |Sancha, Lady of Alenquer|
+  bond sancho-i, as father
+  bond dulce-of-aragon, as mother
+  link |https://en.wikipedia.org/wiki/Sancha,_Lady_of_Alenquer|
+
+person afonso-ii-of-portugal
+  name |Afonso II of Portugal|
+  bond sancho-i, as father
+  bond dulce-of-aragon, as mother
+  link |https://en.wikipedia.org/wiki/Afonso_II_of_Portugal|
+
+person urraca-of-castile-queen-of-portugal
+  name |Urraca of Castile, Queen of Portugal|
+  bond alfonso-viii-of-castile, as father
+  bond eleanor-of-england, as mother
+  link |https://en.wikipedia.org/wiki/Urraca_of_Castile,_Queen_of_Portugal|
+
+person peter-i-count-of-urgell
+  name |Peter I, Count of Urgell|
+  bond sancho-i-of-portugal, as father
+  bond dulce-of-aragon, as mother
+  link |https://en.wikipedia.org/wiki/Peter_I,_Count_of_Urgell|
+
+person ferdinand-count-of-flanders
+  name |Ferdinand, Count of Flanders|
+  bond sancho-i-of-portugal, as father
+  bond dulce-of-aragon, as mother
+  link |https://en.wikipedia.org/wiki/Ferdinand,_Count_of_Flanders|
+
+person joan-countess-of-flanders
+  name |Joan, Countess of Flanders|
+  bond baldwin-i-latin-emperor, as father
+  bond marie-of-champagne, as mother
+  link |https://en.wikipedia.org/wiki/Joan,_Countess_of_Flanders|
+
+person ferdinand-iii-of-castile
+  name |Ferdinand III of Castile|
+  bond alfonso-ix-of-leon, as father
+  bond berengaria-of-castile, as mother
+  link |https://en.wikipedia.org/wiki/Ferdinand_III_of_Castile|
+
+person infanta-branca-lady-of-guadalajara
+  name |Infanta Branca, Lady of Guadalajara|
+  bond sancho-i, as father
+  bond dulce-of-aragon, as mother
+  link |https://en.wikipedia.org/wiki/Infanta_Branca,_Lady_of_Guadalajara|
+
+person henry-i-of-castile
+  name |Henry I of Castile|
+  bond alfonso-viii-of-castile, as father
+  bond eleanor-of-england, as mother
+  link |https://en.wikipedia.org/wiki/Henry_I_of_Castile|
+
+person mafalda-of-portugal
+  name |Mafalda of Portugal|
+  bond sancho-i, as father
+  bond dulce-of-aragon, as mother
+  link |https://en.wikipedia.org/wiki/Mafalda_of_Portugal|
+
+person berengaria-of-portugal
+  name |Berengaria of Portugal|
+  bond sancho-i-of-portugal, as father
+  bond dulce-of-aragon, as mother
+  link |https://en.wikipedia.org/wiki/Berengaria_of_Portugal|
+
+person valdemar-ii-of-denmark
+  name |Valdemar II of Denmark|
+  bond valdemar-i-king-of-denmark, as father
+  bond sophia-of-minsk, as mother
+  link |https://en.wikipedia.org/wiki/Valdemar_II_of_Denmark|
+
+person alfonso-x-of-castile
+  name |Alfonso X of Castile|
+  bond ferdinand-iii-of-castile, as father
+  bond elisabeth-of-hohenstaufen, as mother
+  link |https://en.wikipedia.org/wiki/Alfonso_X_of_Castile|
+
+person beatrice-of-castile
+  name |Beatrice of Castile|
+  bond alfonso-x-of-castile, as father
+  bond mayor-guillen-de-guzman, as mother
+  link |https://en.wikipedia.org/wiki/Beatrice_of_Castile_(1242%E2%80%931303)|
+
+person afonso-iii-of-portugal
+  name |Afonso III of Portugal|
+  bond afonso-ii-of-portugal, as father
+  bond urraca-of-castile, as mother
+  link |https://en.wikipedia.org/wiki/Afonso_III_of_Portugal|
+
+person matilda-ii-countess-of-boulogne
+  name |Matilda II, Countess of Boulogne|
+  bond renaud-count-of-dammartin, as father
+  bond ida-countess-of-boulogne, as mother
+  link |https://en.wikipedia.org/wiki/Matilda_II,_Countess_of_Boulogne|
+
+person mecia-lopes-de-haro
+  name |Mécia Lopes de Haro|
+  bond lope-diaz-ii-de-haro, as father
+  bond urraca-alfonso-of-leon, as mother
+  link |https://en.wikipedia.org/wiki/M%C3%A9cia_Lopes_de_Haro|
+
+person sancho-ii-of-portugal
+  name |Sancho II of Portugal|
+  bond afonso-ii-of-portugal, as father
+  bond urraca-of-castile, as mother
+  link |https://en.wikipedia.org/wiki/Sancho_II_of_Portugal|
+
+person fernando-lord-of-serpa
+  name |Fernando, Lord of Serpa|
+  bond afonso-ii, as father
+  bond urraca-of-castile, as mother
+  link |https://en.wikipedia.org/wiki/Fernando,_Lord_of_Serpa|
+
+person eleanor-of-portugal-queen-of-denmark
+  name |Eleanor of Portugal, Queen of Denmark|
+  bond afonso-ii-of-portugal, as father
+  bond urraca-of-castile, as mother
+  link |https://en.wikipedia.org/wiki/Eleanor_of_Portugal,_Queen_of_Denmark|
+
+person valdemar-the-young
+  name |Valdemar the Young|
+  bond valdemar-ii-of-denmark, as father
+  bond dagmar-of-bohemia, as mother
+  link |https://en.wikipedia.org/wiki/Valdemar_the_Young|
+
+person maria-of-portugal-nun
+  name |Maria of Portugal (nun)|
+  bond afonso-iii, as father
+  bond beatrice-of-castile, as mother
+  link |https://en.wikipedia.org/wiki/Maria_of_Portugal_(nun)|
+
+person sancha-of-portugal
+  name |Sancha of Portugal|
+  bond afonso-iii, as father
+  bond beatrice-of-castile, as mother
+  link |https://en.wikipedia.org/wiki/Sancha_of_Portugal_(born_1264)|
+
+person violante-manuel
+  name |Violante Manuel|
+  bond manuel-of-castile, as father
+  bond constance-of-aragon, as mother
+  link |https://en.wikipedia.org/wiki/Violante_Manuel|
+
+person afonso-of-portugal-lord-of-portalegre
+  name |Afonso of Portugal, Lord of Portalegre|
+  bond afonso-iii, as father
+  bond beatrice-of-castile, as mother
+  link |https://en.wikipedia.org/wiki/Afonso_of_Portugal,_Lord_of_Portalegre|
+
+person blanche-of-portugal
+  name |Blanche of Portugal|
+  bond afonso-iii, as father
+  bond beatrice-of-castile, as mother
+  link |https://en.wikipedia.org/wiki/Blanche_of_Portugal_(1259%E2%80%931321)|
+
+person elizabeth-of-portugal
+  name |Elizabeth of Portugal|
+  bond peter-iii-king-of-aragon, as father
+  bond constance-of-sicily, as mother
+  link |https://en.wikipedia.org/wiki/Elizabeth_of_Portugal|
+
+person denis-of-portugal
+  name |Denis of Portugal|
+  bond afonso-iii-king-of-portugal, as father
+  bond beatrice-of-castile, as mother
+  link |https://en.wikipedia.org/wiki/Denis_of_Portugal|
+
+person sancho-iv-of-castile
+  name |Sancho IV of Castile|
+  bond alfonso-x-of-castile, as father
+  bond violant-of-aragon, as mother
+  link |https://en.wikipedia.org/wiki/Sancho_IV_of_Castile|
+
+person ferdinand-iv-of-castile
+  name |Ferdinand IV of Castile|
+  bond sancho-iv-king-of-castile, as father
+  bond maria-de-molina, as mother
+  link |https://en.wikipedia.org/wiki/Ferdinand_IV_of_Castile|
+
+person constance-of-portugal
+  name |Constance of Portugal|
+  bond denis-king-of-portugal, as father
+  bond elizabeth-of-aragon, as mother
+  link |https://en.wikipedia.org/wiki/Constance_of_Portugal|
+
+person beatrice-of-castile
+  name |Beatrice of Castile|
+  bond sancho-iv-king-of-castile, as father
+  bond maria-de-molina, as mother
+  link |https://en.wikipedia.org/wiki/Beatrice_of_Castile_(1293%E2%80%931359)|
+
+person afonso-iv-of-portugal
+  name |Afonso IV of Portugal|
+  bond denis-of-portugal, as father
+  bond elizabeth-of-aragon, as mother
+  link |https://en.wikipedia.org/wiki/Afonso_IV_of_Portugal|
+
+person maria-of-portugal-queen-of-castile
+  name |Maria of Portugal, Queen of Castile|
+  bond afonso-iv-of-portugal, as father
+  bond beatrice-of-castile, as mother
+  link |https://en.wikipedia.org/wiki/Maria_of_Portugal,_Queen_of_Castile|
+
+person alfonso-xi-of-castile
+  name |Alfonso XI of Castile|
+  bond ferdinand-iv-of-castile, as father
+  bond constance-of-portugal, as mother
+  link |https://en.wikipedia.org/wiki/Alfonso_XI_of_Castile|
+
+person constanza-manuel
+  name |Constanza Manuel|
+  bond juan-manuel-prince-of-villena, as father
+  bond constance-of-aragon, as mother
+  link |https://en.wikipedia.org/wiki/Constanza_Manuel|
+
+person ines-de-castro
+  name |Inês de Castro|
+  bond pedro-fernandez-de-castro, as father
+  bond aldonca-lourenco-de-valadares, as mother
+  link |https://en.wikipedia.org/wiki/In%C3%AAs_de_Castro|
+
+person peter-i-of-portugal
+  name |Peter I of Portugal|
+  bond afonso-iv-of-portugal, as father
+  bond beatrice-of-castile, as mother
+  link |https://en.wikipedia.org/wiki/Peter_I_of_Portugal|
+
+person eleanor-of-portugal-queen-of-aragon
+  name |Eleanor of Portugal, Queen of Aragon|
+  bond alfonso-iv-of-portugal, as father
+  bond beatrice-of-castile, as mother
+  link |https://en.wikipedia.org/wiki/Eleanor_of_Portugal,_Queen_of_Aragon|
+
+person peter-iv-of-aragon
+  name |Peter IV of Aragon|
+  bond alfonso-iv-of-aragon, as father
+  bond teresa-d-entenca, as mother
+  link |https://en.wikipedia.org/wiki/Peter_IV_of_Aragon|
+
+person henry-ii-of-castile
+  name |Henry II of Castile|
+  bond alfonso-xi-of-castile, as father
+  bond eleanor-de-guzman, as mother
+  link |https://en.wikipedia.org/wiki/Henry_II_of_Castile|
+
+person maria-of-portugal-marchioness-of-tortosa
+  name |Maria of Portugal, Marchioness of Tortosa|
+  bond peter-i, as father
+  bond constanza-manuel, as mother
+  link |https://en.wikipedia.org/wiki/Maria_of_Portugal,_Marchioness_of_Tortosa|
+
+person ferdinand-i-of-portugal
+  name |Ferdinand I of Portugal|
+  bond peter-i-of-portugal, as father
+  bond constanza-manuel, as mother
+  link |https://en.wikipedia.org/wiki/Ferdinand_I_of_Portugal|
+
+person leonor-teles
+  name |Leonor Teles|
+  bond martim-afonso-telo-de-meneses, as father
+  bond aldonca-eanes-de-vasconcelos, as mother
+  link |https://en.wikipedia.org/wiki/Leonor_Teles|
+
+person sancho-alfonso
+  name |Sancho Alfonso|
+  bond alfonso-xi-of-castile, as father
+  bond leonor-de-guzman, as mother
+  link |https://en.wikipedia.org/wiki/Sancho_Alfonso|
+
+person beatrice-of-portugal
+  name |Beatrice of Portugal|
+  bond peter-i-of-portugal, as father
+  bond ines-de-castro, as mother
+  link |https://en.wikipedia.org/wiki/Beatrice_of_Portugal_(died_1381)|
+
+person john-duke-of-valencia-de-campos
+  name |John, Duke of Valencia de Campos|
+  bond peter-i-of-portugal, as father
+  bond ines-de-castro, as mother
+  link |https://en.wikipedia.org/wiki/John,_Duke_of_Valencia_de_Campos|
+
+person denis-lord-of-cifuentes
+  name |Denis, Lord of Cifuentes|
+  bond peter-i, as father
+  bond ines-de-castro, as mother
+  link |https://en.wikipedia.org/wiki/Denis,_Lord_of_Cifuentes|
+
+person beatrice-of-portugal
+  name |Beatrice of Portugal|
+  bond ferdinand-i-of-portugal, as father
+  bond leonor-teles, as mother
+  link |https://en.wikipedia.org/wiki/Beatrice_of_Portugal|
+
+person john-i-of-castile
+  name |John I of Castile|
+  bond henry-ii-of-castile, as father
+  bond juana-manuel, as mother
+  link |https://en.wikipedia.org/wiki/John_I_of_Castile|
+
+person john-i-of-portugal
+  name |John I of Portugal|
+  bond peter-i-of-portugal, as father
+  bond teresa-lourenco, as mother
+  link |https://en.wikipedia.org/wiki/John_I_of_Portugal|
+
+person afonso-i-duke-of-braganza
+  name |Afonso I, Duke of Braganza|
+  bond john-i-of-portugal, as father
+  bond ines-peres, as mother
+  link |https://en.wikipedia.org/wiki/Afonso_I,_Duke_of_Braganza|
+
+person beatriz-pereira-de-alvim
+  name |Beatriz Pereira de Alvim|
+  bond nuno-alvares-pereira, as father
+  bond leonor-de-alvim, as mother
+  link |https://en.wikipedia.org/wiki/Beatriz_Pereira_de_Alvim|
+
+person afonso-v-of-portugal
+  name |Afonso V of Portugal|
+  bond edward-king-of-portugal, as father
+  bond eleanor-of-aragon, as mother
+  link |https://en.wikipedia.org/wiki/Afonso_V_of_Portugal|
+
+person john-ii-of-portugal
+  name |John II of Portugal|
+  bond afonso-v-of-portugal, as father
+  bond isabella-of-coimbra, as mother
+  link |https://en.wikipedia.org/wiki/John_II_of_Portugal|
+
+person manuel-i-of-portugal
+  name |Manuel I of Portugal|
+  bond ferdinand-duke-of-viseu, as father
+  bond beatrice-of-portugal, as mother
+  link |https://en.wikipedia.org/wiki/Manuel_I_of_Portugal|
+
+person john-iii-of-portugal
+  name |John III of Portugal|
+  bond manuel-i-of-portugal, as father
+  bond maria-of-aragon, as mother
+  link |https://en.wikipedia.org/wiki/John_III_of_Portugal|
+
+person sebastian-of-portugal
+  name |Sebastian of Portugal|
+  bond joao-manuel-prince-of-portugal, as father
+  bond joanna-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Sebastian_of_Portugal|
+
+person henry-king-of-portugal
+  name |Henry, King of Portugal|
+  bond manuel-i-of-portugal, as father
+  bond maria-of-aragon, as mother
+  link |https://en.wikipedia.org/wiki/Henry,_King_of_Portugal|
+
+person antonio-prior-of-crato
+  name |António, Prior of Crato|
+  bond louis-duke-of-beja, as father
+  bond violante-gomes, as mother
+  link |https://en.wikipedia.org/wiki/Ant%C3%B3nio,_Prior_of_Crato|
+
+person peter-constable-of-portugal
+  name |Peter, Constable of Portugal|
+  bond peter-duke-of-coimbra, as father
+  bond isabella-of-urgell, as mother
+  link |https://en.wikipedia.org/wiki/Peter,_Constable_of_Portugal|
+
+person prince-miguel-duke-of-viseu
+  name |Prince Miguel, Duke of Viseu|
+  bond miguel-duke-of-braganza, as father
+  bond princess-elisabeth-of-thurn-and-taxis, as mother
+  link |https://en.wikipedia.org/wiki/Prince_Miguel,_Duke_of_Viseu|
+
+person prince-henry-the-navigator
+  name |Prince Henry the Navigator|
+  bond john-i-of-portugal, as father
+  bond philippa-of-lancaster, as mother
+  link |https://en.wikipedia.org/wiki/Prince_Henry_the_Navigator|
+
+person joao-duke-of-viseu
+  name |João, Duke of Viseu|
+  bond ferdinand-duke-of-viseu, as father
+  bond beatriz-duchess-of-viseu, as mother
+  link |https://en.wikipedia.org/wiki/Jo%C3%A3o,_Duke_of_Viseu|
+
+person diogo-duke-of-viseu
+  name |Diogo, Duke of Viseu|
+  bond ferdinand-duke-of-viseu, as father
+  bond beatriz-duchess-of-viseu, as mother
+  link |https://en.wikipedia.org/wiki/Diogo,_Duke_of_Viseu|
+
+person maria-of-portugal-duchess-of-viseu
+  name |Maria of Portugal, Duchess of Viseu|
+  bond manuel-i-of-portugal, as father
+  bond eleanor-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Maria_of_Portugal,_Duchess_of_Viseu|
+
+person luis-of-portugal-duke-of-beja
+  name |Luís of Portugal, Duke of Beja|
+  bond manuel-i-of-portugal, as father
+  bond maria-of-aragon, as mother
+  link |https://en.wikipedia.org/wiki/Lu%C3%ADs_of_Portugal,_Duke_of_Beja|
+
+person peter-ii-of-portugal
+  name |Peter II of Portugal|
+  bond john-iv-of-portugal, as father
+  bond luisa-de-guzman, as mother
+  link |https://en.wikipedia.org/wiki/Peter_II_of_Portugal|
+
+person infante-francisco-duke-of-beja
+  name |Infante Francisco, Duke of Beja|
+  bond pedro-ii-of-portugal, as father
+  bond maria-sofia-of-the-palatinate, as mother
+  link |https://en.wikipedia.org/wiki/Infante_Francisco,_Duke_of_Beja|
+
+person peter-iii-of-portugal
+  name |Peter III of Portugal|
+  bond john-v-of-portugal, as father
+  bond maria-anna-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Peter_III_of_Portugal|
+
+person john-vi-of-portugal
+  name |John VI of Portugal|
+  bond pedro-iii-of-portugal, as father
+  bond maria-i-of-portugal, as mother
+  link |https://en.wikipedia.org/wiki/John_VI_of_Portugal|
+
+person miguel-i-of-portugal
+  name |Miguel I of Portugal|
+  bond john-vi-of-portugal, as father
+  bond carlota-joaquina-of-spain, as mother
+  link |https://en.wikipedia.org/wiki/Miguel_I_of_Portugal|
+
+person infante-joao-duke-of-beja
+  name |Infante João, Duke of Beja|
+  bond ferdinand-of-saxe-coburg-and-gotha, as father
+  bond maria-ii-of-portugal, as mother
+  link |https://en.wikipedia.org/wiki/Infante_Jo%C3%A3o,_Duke_of_Beja|
+
+person manuel-ii-of-portugal
+  name |Manuel II of Portugal|
+  bond carlos-i-of-portugal, as father
+  bond amelie-of-orleans, as mother
+  link |https://en.wikipedia.org/wiki/Manuel_II_of_Portugal|
+
+person peter-duke-of-coimbra
+  name |Peter, Duke of Coimbra|
+  bond john-i-of-portugal, as father
+  bond philippa-of-lancaster, as mother
+  link |https://en.wikipedia.org/wiki/Peter,_Duke_of_Coimbra|
+
+person isabella-of-portugal-duchess-of-burgundy
+  name |Isabella of Portugal, Duchess of Burgundy|
+  bond john-i-of-portugal, as father
+  bond philippa-of-lancaster, as mother
+  link |https://en.wikipedia.org/wiki/Isabella_of_Portugal,_Duchess_of_Burgundy|
+
+person john-constable-of-portugal
+  name |John, Constable of Portugal|
+  bond john-i-of-portugal, as father
+  bond philippa-of-lancaster, as mother
+  link |https://en.wikipedia.org/wiki/John,_Constable_of_Portugal|
+
+person ferdinand-the-holy-prince
+  name |Ferdinand the Holy Prince|
+  bond john-i-of-portugal, as father
+  bond philippa-of-lancaster, as mother
+  link |https://en.wikipedia.org/wiki/Ferdinand_the_Holy_Prince|
+
+person ferdinand-duke-of-viseu
+  name |Ferdinand, Duke of Viseu|
+  bond edward-king-of-portugal, as father
+  bond eleanor-of-aragon, as mother
+  link |https://en.wikipedia.org/wiki/Ferdinand,_Duke_of_Viseu|
+
+person eleanor-of-portugal-holy-roman-empress
+  name |Eleanor of Portugal, Holy Roman Empress|
+  bond edward-king-of-portugal, as father
+  bond eleanor-of-aragon, as mother
+  link |https://en.wikipedia.org/wiki/Eleanor_of_Portugal,_Holy_Roman_Empress|
+
+person joanna-princess-of-portugal
+  name |Joanna, Princess of Portugal|
+  bond afonso-v-of-portugal, as father
+  bond isabel-of-coimbra, as mother
+  link |https://en.wikipedia.org/wiki/Joanna,_Princess_of_Portugal|
+
+person james-of-portugal
+  name |James of Portugal|
+  bond peter-duke-of-coimbra, as father
+  bond isabella-of-urgell, as mother
+  link |https://en.wikipedia.org/wiki/James_of_Portugal|
+
+person beatrice-of-coimbra
+  name |Beatrice of Coimbra|
+  bond infante-peter-duke-of-coimbra, as father
+  bond isabella-of-urgell, as mother
+  link |https://en.wikipedia.org/wiki/Beatrice_of_Coimbra|
+
+person isabel-of-coimbra
+  name |Isabel of Coimbra|
+  bond peter-duke-of-coimbra, as father
+  bond isabella-of-urgell, as mother
+  link |https://en.wikipedia.org/wiki/Isabel_of_Coimbra|
+
+person john-of-coimbra-prince-of-antioch
+  name |John of Coimbra, Prince of Antioch|
+  bond infante-peter-duke-of-coimbra, as father
+  bond isabella-of-urgell-duchess-of-coimbra, as mother
+  link |https://en.wikipedia.org/wiki/John_of_Coimbra,_Prince_of_Antioch|
+
+person eleanor-of-viseu
+  name |Eleanor of Viseu|
+  bond ferdinand-duke-of-viseu, as father
+  bond beatrice-of-portugal, as mother
+  link |https://en.wikipedia.org/wiki/Eleanor_of_Viseu|
+
+person isabella-of-portugal
+  name |Isabella of Portugal|
+  bond manuel-i-king-of-portugal, as father
+  bond maria-of-aragon, as mother
+  link |https://en.wikipedia.org/wiki/Isabella_of_Portugal|
+
+person beatrice-of-portugal-duchess-of-savoy
+  name |Beatrice of Portugal, Duchess of Savoy|
+  bond manuel-i-of-portugal, as father
+  bond maria-of-aragon, as mother
+  link |https://en.wikipedia.org/wiki/Beatrice_of_Portugal,_Duchess_of_Savoy|
+
+person duarte-duke-of-guimaraes
+  name |Duarte, Duke of Guimarães|
+  bond manuel-i-of-portugal, as father
+  bond maria-of-aragon, as mother
+  link |https://en.wikipedia.org/wiki/Duarte,_Duke_of_Guimar%C3%A3es_(1515%E2%80%931540)|
+
+person maria-of-portugal-hereditary-princess-of-parma
+  name |Maria of Portugal, Hereditary Princess of Parma|
+  bond infante-duarte-duke-of-guimaraes, as father
+  bond isabel-of-braganza, as mother
+  link |https://en.wikipedia.org/wiki/Maria_of_Portugal,_Hereditary_Princess_of_Parma|
+
+person catarina-of-portugal-duchess-of-braganza
+  name |Catarina of Portugal, Duchess of Braganza|
+  bond duarte-duke-of-guimaraes, as father
+  bond isabel-of-braganza, as mother
+  link |https://en.wikipedia.org/wiki/Catarina_of_Portugal,_Duchess_of_Braganza|
+
+person duarte-duke-of-guimaraes
+  name |Duarte, Duke of Guimarães|
+  bond duarte-of-portugal-4th-duke-of-guimaraes, as father
+  bond isabel-of-braganza-duchess-of-guimaraes, as mother
+  link |https://en.wikipedia.org/wiki/Duarte,_Duke_of_Guimar%C3%A3es_(1541%E2%80%931576)|
+
+person edward-king-of-portugal
+  name |Edward, King of Portugal|
+  bond john-i, as father
+  bond philippa-of-lancaster, as mother
+  link |https://en.wikipedia.org/wiki/Edward,_King_of_Portugal|
+
+person philippa-of-lancaster
+  name |Philippa of Lancaster|
+  bond john-of-gaunt-1st-duke-of-lancaster, as father
+  bond blanche-of-lancaster, as mother
+  link |https://en.wikipedia.org/wiki/Philippa_of_Lancaster|
+
+person eleanor-of-aragon-queen-of-portugal
+  name |Eleanor of Aragon, Queen of Portugal|
+  bond ferdinand-i-of-aragon, as father
+  bond eleanor-of-alburquerque, as mother
+  link |https://en.wikipedia.org/wiki/Eleanor_of_Aragon,_Queen_of_Portugal|
+
+person joanna-la-beltraneja
+  name |Joanna la Beltraneja|
+  bond disputed-henry-iv-of-castile-or-the-1st-duke-of-alburquerque, as father
+  bond joan-of-portugal, as mother
+  link |https://en.wikipedia.org/wiki/Joanna_la_Beltraneja|
+
+person isabella-of-aragon-queen-of-portugal
+  name |Isabella of Aragon, Queen of Portugal|
+  bond ferdinand-ii-of-aragon, as father
+  bond isabella-i-of-castile, as mother
+  link |https://en.wikipedia.org/wiki/Isabella_of_Aragon,_Queen_of_Portugal|
+
+person maria-of-aragon-queen-of-portugal
+  name |Maria of Aragon, Queen of Portugal|
+  bond ferdinand-ii-of-aragon, as father
+  bond isabella-i-of-castile, as mother
+  link |https://en.wikipedia.org/wiki/Maria_of_Aragon,_Queen_of_Portugal|
+
+person eleanor-of-austria
+  name |Eleanor of Austria|
+  bond philip-i-of-castile, as father
+  bond joanna-of-castile, as mother
+  link |https://en.wikipedia.org/wiki/Eleanor_of_Austria|
+
+person catherine-of-austria-queen-of-portugal
+  name |Catherine of Austria, Queen of Portugal|
+  bond philip-i-of-castile, as father
+  bond joanna-i-of-castile, as mother
+  link |https://en.wikipedia.org/wiki/Catherine_of_Austria,_Queen_of_Portugal|
+
+person anna-of-austria-queen-of-spain
+  name |Anna of Austria, Queen of Spain|
+  bond maximilian-ii-holy-roman-emperor, as father
+  bond maria-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Anna_of_Austria,_Queen_of_Spain|
+
+person margaret-of-austria-queen-of-spain
+  name |Margaret of Austria, Queen of Spain|
+  bond charles-ii-of-austria, as father
+  bond maria-anna-of-bavaria, as mother
+  link |https://en.wikipedia.org/wiki/Margaret_of_Austria,_Queen_of_Spain|
+
+person elisabeth-of-france
+  name |Elisabeth of France|
+  bond henry-iv-of-france, as father
+  bond marie-de-medici, as mother
+  link |https://en.wikipedia.org/wiki/Elisabeth_of_France_(1602%E2%80%931644)|
+
+person luisa-de-guzman
+  name |Luisa de Guzmán|
+  bond manuel-de-guzman-y-silva-8th-duke-of-medina-sidonia, as father
+  bond juana-de-sandoval-y-de-la-cerda, as mother
+  link |https://en.wikipedia.org/wiki/Luisa_de_Guzm%C3%A1n|
+
+person maria-francisca-of-savoy
+  name |Maria Francisca of Savoy|
+  bond charles-amadeus-duke-of-nemours, as father
+  bond elisabeth-de-bourbon, as mother
+  link |https://en.wikipedia.org/wiki/Maria_Francisca_of_Savoy|
+
+person maria-sophia-of-neuburg
+  name |Maria Sophia of Neuburg|
+  bond philip-william-elector-palatine, as father
+  bond elisabeth-amalie-of-hesse-darmstadt, as mother
+  link |https://en.wikipedia.org/wiki/Maria_Sophia_of_Neuburg|
+
+person maria-anna-of-austria
+  name |Maria Anna of Austria|
+  bond leopold-i-holy-roman-emperor, as father
+  bond eleonor-magdalene-of-neuburg, as mother
+  link |https://en.wikipedia.org/wiki/Maria_Anna_of_Austria|
+
+person mariana-victoria-of-spain
+  name |Mariana Victoria of Spain|
+  bond philip-v-of-spain, as father
+  bond elisabeth-farnese, as mother
+  link |https://en.wikipedia.org/wiki/Mariana_Victoria_of_Spain|
+
+person carlota-joaquina-of-spain
+  name |Carlota Joaquina of Spain|
+  bond charles-iv-of-spain, as father
+  bond maria-luisa-of-parma, as mother
+  link |https://en.wikipedia.org/wiki/Carlota_Joaquina_of_Spain|
+
+person maria-leopoldina-of-austria
+  name |Maria Leopoldina of Austria|
+  bond francis-ii-holy-roman-emperor, as father
+  bond maria-theresa-of-naples-and-sicily, as mother
+  link |https://en.wikipedia.org/wiki/Maria_Leopoldina_of_Austria|
+
+person auguste-duke-of-leuchtenberg
+  name |Auguste, Duke of Leuchtenberg|
+  bond eugene-de-beauharnais, as father
+  bond princess-augusta-of-bavaria, as mother
+  link |https://en.wikipedia.org/wiki/Auguste,_Duke_of_Leuchtenberg|
+
+person ferdinand-ii-of-portugal
+  name |Ferdinand II of Portugal|
+  bond prince-ferdinand-of-saxe-coburg-and-gotha, as father
+  bond princess-maria-antonia-kohary, as mother
+  link |https://en.wikipedia.org/wiki/Ferdinand_II_of_Portugal|
+
+person stephanie-of-hohenzollern-sigmaringen
+  name |Stephanie of Hohenzollern-Sigmaringen|
+  bond prince-charles-anthony-prince-of-hohenzollern, as father
+  bond princess-josephine-of-baden, as mother
+  link |https://en.wikipedia.org/wiki/Stephanie_of_Hohenzollern-Sigmaringen|
+
+person adelaide-of-lowenstein-wertheim-rosenberg
+  name |Adelaide of Löwenstein-Wertheim-Rosenberg|
+  bond constantine-hereditary-prince-of-lowenstein-wertheim-rosenberg, as father
+  bond princess-agnes-of-hohenlohe-langenburg, as mother
+  link |https://en.wikipedia.org/wiki/Adelaide_of_L%C3%B6wenstein-Wertheim-Rosenberg|
+
+person maria-pia-of-savoy
+  name |Maria Pia of Savoy|
+  bond victor-emmanuel-ii-of-italy, as father
+  bond adelaide-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Maria_Pia_of_Savoy|
+
+person amelie-of-orleans
+  name |Amélie of Orléans|
+  bond philippe-count-of-paris, as father
+  bond marie-isabelle-of-orleans, as mother
+  link |https://en.wikipedia.org/wiki/Am%C3%A9lie_of_Orl%C3%A9ans|
+
+person augusta-victoria-of-hohenzollern
+  name |Augusta Victoria of Hohenzollern|
+  bond william-prince-of-hohenzollern, as father
+  bond princess-maria-teresa-of-bourbon-two-sicilies, as mother
+  link |https://en.wikipedia.org/wiki/Augusta_Victoria_of_Hohenzollern|
+
+person john-prince-of-portugal
+  name |John, Prince of Portugal|
+  bond afonso-v-of-portugal, as father
+  bond isabella-of-coimbra, as mother
+  link |https://en.wikipedia.org/wiki/John,_Prince_of_Portugal_(1451)|
+
+person afonso-prince-of-portugal
+  name |Afonso, Prince of Portugal|
+  bond john-ii-of-portugal, as father
+  bond eleanor-of-viseu, as mother
+  link |https://en.wikipedia.org/wiki/Afonso,_Prince_of_Portugal|
+
+person miguel-da-paz-prince-of-portugal
+  name |Miguel da Paz, Prince of Portugal|
+  bond manuel-i-of-portugal, as father
+  bond isabella-princess-of-asturias, as mother
+  link |https://en.wikipedia.org/wiki/Miguel_da_Paz,_Prince_of_Portugal|
+
+person afonso-prince-of-portugal
+  name |Afonso, Prince of Portugal|
+  bond john-iii-of-portugal, as father
+  bond catherine-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Afonso,_Prince_of_Portugal_(1526)|
+
+person maria-manuela-princess-of-portugal
+  name |Maria Manuela, Princess of Portugal|
+  bond john-iii-of-portugal, as father
+  bond catherine-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Maria_Manuela,_Princess_of_Portugal|
+
+person manuel-prince-of-portugal
+  name |Manuel, Prince of Portugal|
+  bond john-iii-of-portugal, as father
+  bond catherine-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Manuel,_Prince_of_Portugal_(1531%E2%80%931537)|
+
+person philip-prince-of-portugal
+  name |Philip, Prince of Portugal|
+  bond john-iii-of-portugal, as father
+  bond catherine-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Philip,_Prince_of_Portugal|
+
+person joao-manuel-prince-of-portugal
+  name |João Manuel, Prince of Portugal|
+  bond john-iii-of-portugal, as father
+  bond catherine-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Jo%C3%A3o_Manuel,_Prince_of_Portugal|
+
+person diego-prince-of-asturias
+  name |Diego, Prince of Asturias|
+  bond philip-ii-of-spain, as father
+  bond anna-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Diego,_Prince_of_Asturias|
+
+person philip-iii-of-spain
+  name |Philip III of Spain|
+  bond philip-ii-of-spain, as father
+  bond anna-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Philip_III_of_Spain|
+
+person anne-of-austria
+  name |Anne of Austria|
+  bond philip-iii-ii, as father
+  bond margaret-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Anne_of_Austria|
+
+person philip-iv-of-spain
+  name |Philip IV of Spain|
+  bond philip-iii-of-spain, as father
+  bond margaret-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Philip_IV_of_Spain|
+
+person balthasar-charles-prince-of-asturias
+  name |Balthasar Charles, Prince of Asturias|
+  bond philip-iv-of-spain, as father
+  bond elisabeth-of-france, as mother
+  link |https://en.wikipedia.org/wiki/Balthasar_Charles,_Prince_of_Asturias|
+
+person teodosio-prince-of-brazil
+  name |Teodósio, Prince of Brazil|
+  bond john-iv-of-portugal, as father
+  bond luisa-de-guzman, as mother
+  link |https://en.wikipedia.org/wiki/Teod%C3%B3sio,_Prince_of_Brazil|
+
+person duarte-pio-duke-of-braganza
+  name |Duarte Pio, Duke of Braganza|
+  bond duarte-nuno-duke-of-braganza, as father
+  bond maria-francisca-of-orleans-braganza, as mother
+  link |https://en.wikipedia.org/wiki/Duarte_Pio,_Duke_of_Braganza|
+
+person princess-januaria-of-brazil
+  name |Princess Januária of Brazil|
+  bond pedro-i-of-brazil, as father
+  bond maria-leopoldina-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Princess_Janu%C3%A1ria_of_Brazil|
+
+person infanta-maria-teresa-of-braganza
+  name |Infanta Maria Teresa of Braganza|
+  bond john-vi-of-portugal, as father
+  bond infanta-carlota-joaquina-of-spain, as mother
+  link |https://en.wikipedia.org/wiki/Infanta_Maria_Teresa_of_Braganza|
+
+person carlota-joaquina-of-spain
+  name |Carlota Joaquina of Spain|
+  bond charles-iv-of-spain, as father
+  bond maria-luisa-of-parma, as mother
+  link |https://en.wikipedia.org/wiki/Carlota_Joaquina_of_Spain|
+
+person nevada-stoody-hayes
+  name |Nevada Stoody Hayes|
+  bond jacob-walter-stoody, as father
+  bond nancy-miranda-mc-neel, as mother
+  link |https://en.wikipedia.org/wiki/Nevada_Stoody_Hayes|
+
+person joana-princess-of-beira
+  name |Joana, Princess of Beira|
+  bond john-iv-of-portugal, as father
+  bond luisa-de-guzman, as mother
+  link |https://en.wikipedia.org/wiki/Joana,_Princess_of_Beira|
+
+person catherine-of-braganza
+  name |Catherine of Braganza|
+  bond john-iv-of-portugal, as father
+  bond luisa-de-guzman, as mother
+  link |https://en.wikipedia.org/wiki/Catherine_of_Braganza|
+
+person isabel-luisa-princess-of-beira
+  name |Isabel Luísa, Princess of Beira|
+  bond peter-ii-of-portugal, as father
+  bond maria-francisca-of-savoy, as mother
+  link |https://en.wikipedia.org/wiki/Isabel_Lu%C3%ADsa,_Princess_of_Beira|
+
+person barbara-of-portugal
+  name |Barbara of Portugal|
+  bond john-v-of-portugal, as father
+  bond maria-anna-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Barbara_of_Portugal|
+
+person maria-i-of-portugal
+  name |Maria I of Portugal|
+  bond joseph-i-of-portugal, as father
+  bond mariana-victoria-of-spain, as mother
+  link |https://en.wikipedia.org/wiki/Maria_I_of_Portugal|
+
+person jose-prince-of-brazil
+  name |José, Prince of Brazil|
+  bond pedro-iii-of-portugal, as father
+  bond maria-i-of-portugal, as mother
+  link |https://en.wikipedia.org/wiki/Jos%C3%A9,_Prince_of_Brazil|
+
+person francisco-antonio-prince-of-beira
+  name |Francisco António, Prince of Beira|
+  bond john-vi-of-portugal, as father
+  bond carlota-joaquina-of-spain, as mother
+  link |https://en.wikipedia.org/wiki/Francisco_Ant%C3%B3nio,_Prince_of_Beira|
+
+person pedro-i-of-brazil
+  name |Pedro I of Brazil|
+  bond joao-vi-of-portugal, as father
+  bond carlota-joaquina-of-spain, as mother
+  link |https://en.wikipedia.org/wiki/Pedro_I_of_Brazil|
+
+person maria-ii-of-portugal
+  name |Maria II of Portugal|
+  bond pedro-iv-of-portugal, as father
+  bond maria-leopoldina-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Maria_II_of_Portugal|
+
+person luis-filipe-prince-royal-of-portugal
+  name |Luís Filipe, Prince Royal of Portugal|
+  bond carlos-i-of-portugal, as father
+  bond amelie-of-orleans, as mother
+  link |https://en.wikipedia.org/wiki/Lu%C3%ADs_Filipe,_Prince_Royal_of_Portugal|
+
+person pedro-i-of-brazil
+  name |Pedro I of Brazil|
+  bond joao-vi-of-portugal, as father
+  bond carlota-joaquina-of-spain, as mother
+  link |https://en.wikipedia.org/wiki/Pedro_I_of_Brazil#Issue|
+
+person isabel-of-viseu
+  name |Isabel of Viseu|
+  bond infante-fernando-duke-of-viseu, as father
+  bond beatrice-of-portugal, as mother
+  link |https://en.wikipedia.org/wiki/Isabel_of_Viseu|
+
+person isabel-duchess-of-braganza
+  name |Isabel, Duchess of Braganza|
+  bond jorge-de-heredia, as father
+  bond raquel-leonor-pinheiro-curvello, as mother
+  link |https://en.wikipedia.org/wiki/Isabel,_Duchess_of_Braganza|
+
+person maria-francisca-of-orleans-braganza-duchess-of-braganza
+  name |Maria Francisca of Orléans-Braganza, Duchess of Braganza|
+  bond pedro-de-alcantara-prince-of-grao-para, as father
+  bond countess-elisabeth-dobrzensky-of-dobrzenicz, as mother
+  link |https://en.wikipedia.org/wiki/Maria_Francisca_of_Orl%C3%A9ans-Braganza,_Duchess_of_Braganza|
+
+person princess-maria-theresa-of-lowenstein-wertheim-rosenberg
+  name |Princess Maria Theresa of Löwenstein-Wertheim-Rosenberg|
+  bond charles-prince-of-lowenstein-wertheim-rosenberg, as father
+  bond princess-sophie-of-liechtenstein, as mother
+  link |https://en.wikipedia.org/wiki/Princess_Maria_Theresa_of_L%C3%B6wenstein-Wertheim-Rosenberg|
+
+person princess-elisabeth-of-thurn-and-taxis
+  name |Princess Elisabeth of Thurn and Taxis|
+  bond maximilian-anton-lamoral-hereditary-prince-of-thurn-and-taxis, as father
+  bond duchess-helene-in-bavaria, as mother
+  link |https://en.wikipedia.org/wiki/Princess_Elisabeth_of_Thurn_and_Taxis_(1860%E2%80%931881)|
+
+person amelie-of-leuchtenberg
+  name |Amélie of Leuchtenberg|
+  bond eugene-de-beauharnais-duke-of-leuchtenberg, as father
+  bond princess-augusta-of-bavaria, as mother
+  link |https://en.wikipedia.org/wiki/Am%C3%A9lie_of_Leuchtenberg|
+
+person infanta-benedita-of-portugal
+  name |Infanta Benedita of Portugal|
+  bond joseph-i-of-portugal, as father
+  bond mariana-victoria-of-spain, as mother
+  link |https://en.wikipedia.org/wiki/Infanta_Benedita_of_Portugal|
+
+person ana-de-velasco-y-giron
+  name |Ana de Velasco y Girón|
+  bond juan-fernandez-de-velasco-5th-duke-of-frias, as father
+  bond maria-tellez-giron, as mother
+  link |https://en.wikipedia.org/wiki/Ana_de_Velasco_y_Gir%C3%B3n|
+
+person ramiro-i-of-aragon
+  name |Ramiro I of Aragon|
+  bond sancho-iii-of-pamplona, as father
+  bond sancha-of-aybar, as mother
+  link |https://en.wikipedia.org/wiki/Ramiro_I_of_Aragon|
+
+person sancho-ramirez
+  name |Sancho Ramírez|
+  bond ramiro-i, as father
+  bond ermesinda-of-bigorre, as mother
+  link |https://en.wikipedia.org/wiki/Sancho_Ram%C3%ADrez|
+
+person peter-i-of-aragon-and-pamplona
+  name |Peter I of Aragon and Pamplona|
+  bond sancho-ramirez, as father
+  bond isabella-of-urgell, as mother
+  link |https://en.wikipedia.org/wiki/Peter_I_of_Aragon_and_Pamplona|
+
+person alfonso-the-battler
+  name |Alfonso the Battler|
+  bond sancho-ramirez-of-aragon-and-navarre, as father
+  bond felicie-de-roucy, as mother
+  link |https://en.wikipedia.org/wiki/Alfonso_the_Battler|
+
+person ramiro-ii-of-aragon
+  name |Ramiro II of Aragon|
+  bond sancho-ramirez, as father
+  bond felicia-of-roucy, as mother
+  link |https://en.wikipedia.org/wiki/Ramiro_II_of_Aragon|
+
+person alfonso-ii-of-aragon
+  name |Alfonso II of Aragon|
+  bond ramon-berenguer-iv-count-of-barcelona, as father
+  bond petronilla-queen-of-aragon, as mother
+  link |https://en.wikipedia.org/wiki/Alfonso_II_of_Aragon|
+
+person peter-ii-of-aragon
+  name |Peter II of Aragon|
+  bond alfonso-ii-of-aragon, as father
+  bond sancha-of-castile, as mother
+  link |https://en.wikipedia.org/wiki/Peter_II_of_Aragon|
+
+person james-i-of-aragon
+  name |James I of Aragon|
+  bond peter-ii-king-of-aragon, as father
+  bond maria-of-montpellier, as mother
+  link |https://en.wikipedia.org/wiki/James_I_of_Arago|
+
+person peter-iii-of-aragon
+  name |Peter III of Aragon|
+  bond james-i-of-aragon, as father
+  bond violant-of-hungary, as mother
+  link |https://en.wikipedia.org/wiki/Peter_III_of_Aragon|
+
+person alfonso-iii-of-aragon
+  name |Alfonso III of Aragon|
+  bond peter-iii-of-aragon, as father
+  bond constance-ii-of-sicily, as mother
+  link |https://en.wikipedia.org/wiki/Alfonso_III_of_Aragon|
+
+person james-ii-of-aragon
+  name |James II of Aragon|
+  bond peter-iii-of-aragon, as father
+  bond constance-of-sicily, as mother
+  link |https://en.wikipedia.org/wiki/James_II_of_Aragon|
+
+person john-i-of-aragon
+  name |John I of Aragon|
+  bond peter-iv-of-aragon, as father
+  bond eleanor-of-sicily, as mother
+  link |https://en.wikipedia.org/wiki/John_I_of_Aragon|
+
+person martin-of-aragon
+  name |Martin of Aragon|
+  bond peter-iv-of-aragon, as father
+  bond eleanor-of-sicily, as mother
+  link |https://en.wikipedia.org/wiki/Martin_of_Aragon|
+
+person ferdinand-i-of-aragon
+  name |Ferdinand I of Aragon|
+  bond john-i-of-castile, as father
+  bond eleanor-of-aragon, as mother
+  link |https://en.wikipedia.org/wiki/Ferdinand_I_of_Aragon|
+
+person alfonso-v-of-aragon
+  name |Alfonso V of Aragon|
+  bond ferdinand-i-of-aragon, as father
+  bond eleanor-of-alburquerque, as mother
+  link |https://en.wikipedia.org/wiki/Alfonso_V_of_Aragon|
+
+person john-ii-of-aragon
+  name |John II of Aragon|
+  bond ferdinand-i-of-aragon, as father
+  bond eleanor-of-alburquerque, as mother
+  link |https://en.wikipedia.org/wiki/John_II_of_Aragon|
+
+person ferdinand-ii-of-aragon
+  name |Ferdinand II of Aragon|
+  bond john-ii-of-aragon-and-navarre, as father
+  bond juana-enriquez, as mother
+  link |https://en.wikipedia.org/wiki/Ferdinand_II_of_Aragon|
+
+person joanna-of-castile
+  name |Joanna of Castile|
+  bond ferdinand-ii-of-aragon, as father
+  bond isabella-i-of-castile, as mother
+  link |https://en.wikipedia.org/wiki/Joanna_of_Castile|
+
+person henry-iv-of-castile
+  name |Henry IV of Castile|
+  bond john-ii-of-castile, as father
+  bond maria-of-aragon, as mother
+  link |https://en.wikipedia.org/wiki/Henry_IV_of_Castile|
+
+person rene-of-anjou
+  name |René of Anjou|
+  bond louis-ii-of-naples, as father
+  bond yolande-of-aragon, as mother
+  link |https://en.wikipedia.org/wiki/Ren%C3%A9_of_Anjou|
+
+person charles-v-holy-roman-emperor
+  name |Charles V, Holy Roman Emperor|
+  bond philip-i-of-castile, as father
+  bond joanna-of-castile, as mother
+  link |https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor|
+
+person philip-ii-of-spain
+  name |Philip II of Spain|
+  bond charles-v-holy-roman-emperor, as father
+  bond isabella-of-portugal, as mother
+  link |https://en.wikipedia.org/wiki/Philip_II_of_Spain|
+
+person charles-ii-of-spain
+  name |Charles II of Spain|
+  bond philip-iv-of-spain, as father
+  bond mariana-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Charles_II_of_Spain|
+
+person philip-v-of-spain
+  name |Philip V of Spain|
+  bond louis-grand-dauphin, as father
+  bond maria-anna-victoria-of-bavaria, as mother
+  link |https://en.wikipedia.org/wiki/Philip_V_of_Spain|
+
+person charles-vi-holy-roman-emperor
+  name |Charles VI, Holy Roman Emperor|
+  bond leopold-i-holy-roman-emperor, as father
+  bond eleonor-magdalene-of-neuburg, as mother
+  link |https://en.wikipedia.org/wiki/Charles_VI,_Holy_Roman_Emperor|
+
+person bohemond-i-of-antioch
+  name |Bohemond I of Antioch|
+  bond robert-guiscard, as father
+  bond alberada-of-buonalbergo, as mother
+  link |https://en.wikipedia.org/wiki/Bohemond_I_of_Antioch|
+
+person john-ii-of-cyprus
+  name |John II of Cyprus|
+  bond janus-of-cyprus, as father
+  bond charlotte-of-bourbon, as mother
+  link |https://en.wikipedia.org/wiki/John_II_of_Cyprus|
+
+person bohemond-vi-of-antioch
+  name |Bohemond VI of Antioch|
+  bond bohemond-v-of-antioch, as father
+  bond luciana-di-segni, as mother
+  link |https://en.wikipedia.org/wiki/Bohemond_VI_of_Antioch|
+
+person bohemond-v-of-antioch
+  name |Bohemond V of Antioch|
+  bond bohemond-iv-of-antioch, as father
+  bond plaisance-embriaco, as mother
+  link |https://en.wikipedia.org/wiki/Bohemond_V_of_Antioch|
+
+person raymond-roupen
+  name |Raymond-Roupen|
+  bond raymond-iv-count-of-tripoli, as father
+  bond alice-lady-of-toron, as mother
+  link |https://en.wikipedia.org/wiki/Raymond-Roupen|
+
+person bohemond-iv-of-antioch
+  name |Bohemond IV of Antioch|
+  bond bohemond-iii-of-antioch, as father
+  bond orgueilleuse-of-harenc, as mother
+  link |https://en.wikipedia.org/wiki/Bohemond_IV_of_Antioch|
+
+person bohemond-iii-of-antioch
+  name |Bohemond III of Antioch|
+  bond raymond-of-poitiers, as father
+  bond constance-of-antioch, as mother
+  link |https://en.wikipedia.org/wiki/Bohemond_III_of_Antioch|
+
+person constance-of-antioch
+  name |Constance of Antioch|
+  bond bohemond-ii, as father
+  bond alice-of-jerusalem, as mother
+  link |https://en.wikipedia.org/wiki/Constance_of_Antioch|
+
+person bohemond-ii-of-antioch
+  name |Bohemond II of Antioch|
+  bond bohemond-i-of-antioch, as father
+  bond constance-of-france, as mother
+  link |https://en.wikipedia.org/wiki/Bohemond_II_of_Antioch|
+
+person diogo-constable-of-portugal
+  name |Diogo, Constable of Portugal|
+  bond john-constable-of-portugal, as father
+  bond isabel-of-barcelos, as mother
+  link |https://en.wikipedia.org/wiki/Diogo,_Constable_of_Portugal|
+
+person cardinal-infante-afonso-of-portugal
+  name |Cardinal-Infante Afonso of Portugal|
+  bond manuel-i-of-portugal, as father
+  bond maria-of-aragon, as mother
+  link |https://en.wikipedia.org/wiki/Cardinal-Infante_Afonso_of_Portugal|
+
+person ferdinand-of-portugal-duke-of-guarda
+  name |Ferdinand of Portugal, Duke of Guarda|
+  bond manuel-i-of-portugal, as father
+  bond maria-of-aragon, as mother
+  link |https://en.wikipedia.org/wiki/Ferdinand_of_Portugal,_Duke_of_Guarda|
+
+person joao-de-lencastre-1st-duke-of-aveiro
+  name |João de Lencastre, 1st Duke of Aveiro|
+  bond jorge-de-lencastre-duke-of-coimbra, as father
+  bond beatriz-de-vilhena, as mother
+  link |https://en.wikipedia.org/wiki/Jo%C3%A3o_de_Lencastre,_1st_Duke_of_Aveiro|
+
+person george-of-lencastre-2nd-duke-of-aveiro
+  name |George of Lencastre, 2nd Duke of Aveiro|
+  bond ioao-1st-duke-of-alveiro, as father
+  bond juliana-de-lara, as mother
+  link |https://en.wikipedia.org/wiki/George_of_Lencastre,_2nd_Duke_of_Aveiro|
+
+person raimundo-of-lencastre-4th-duke-of-aveiro
+  name |Raimundo of Lencastre, 4th Duke of Aveiro|
+  bond george-1st-duke-of-torres-novas, as father
+  bond ana-manrique-de-cadenas, as mother
+  link |https://en.wikipedia.org/wiki/Raimundo_of_Lencastre,_4th_Duke_of_Aveiro|
+
+person afonso-of-lencastre
+  name |Afonso of Lencastre|
+  bond alvaro-3rd-duke-of-aveiro, as father
+  bond juliana-de-lencastre, as mother
+  link |https://en.wikipedia.org/wiki/Afonso_of_Lencastre|
+
+person peter-of-lencastre-5th-duke-of-aveiro
+  name |Peter of Lencastre, 5th Duke of Aveiro|
+  bond alvaro-3rd-duke-of-aveiro, as father
+  bond juliana-de-lencastre, as mother
+  link |https://en.wikipedia.org/wiki/Peter_of_Lencastre,_5th_Duke_of_Aveiro|
+
+person manuel-antonio-of-portugal
+  name |Manuel António of Portugal|
+  bond manuel-hereditary-prince-of-portugal, as father
+  bond countess-emilia-of-nassau, as mother
+  link |https://en.wikipedia.org/wiki/Manuel_Ant%C3%B3nio_of_Portugal|
+
+person manuel-hereditary-prince-of-portugal
+  name |Manuel, Hereditary Prince of Portugal|
+  bond antonio-prior-of-crato, as father
+  bond ana-barbosa, as mother
+  link |https://en.wikipedia.org/wiki/Manuel,_Hereditary_Prince_of_Portugal|
+
+person joao-i-duke-of-braganza
+  name |João I, Duke of Braganza|
+  bond teodosio-i, as father
+  bond isabel-of-lencastre, as mother
+  link |https://en.wikipedia.org/wiki/Jo%C3%A3o_I,_Duke_of_Braganza|
+
+person teodosio-ii-duke-of-braganza
+  name |Teodósio II, Duke of Braganza|
+  bond joao-i-duke-of-braganza, as father
+  bond catarina-of-portugal, as mother
+  link |https://en.wikipedia.org/wiki/Teod%C3%B3sio_II,_Duke_of_Braganza|
+
+person john-iv-of-portugal
+  name |John IV of Portugal|
+  bond teodosio-ii-duke-of-braganza, as father
+  bond ana-de-velasco-y-giron, as mother
+  link |https://en.wikipedia.org/wiki/John_IV_of_Portugal|
+
+person luis-i-of-portugal
+  name |Luís I of Portugal|
+  bond ferdinand-of-saxe-coburg-and-gotha, as father
+  bond maria-ii-of-portugal, as mother
+  link |https://en.wikipedia.org/wiki/Lu%C3%ADs_I_of_Portugal|
+
+person afonso-duke-of-porto
+  name |Afonso, Duke of Porto|
+  bond luis-i-of-portugal, as father
+  bond maria-pia-of-savoy, as mother
+  link |https://en.wikipedia.org/wiki/Afonso,_Duke_of_Porto|
+
+person jorge-de-lencastre-duke-of-coimbra
+  name |Jorge de Lencastre, Duke of Coimbra|
+  bond john-ii-of-portugal, as father
+  bond ana-de-mendonca, as mother
+  link |https://en.wikipedia.org/wiki/Jorge_de_Lencastre,_Duke_of_Coimbra|
+
+person infante-augusto-duke-of-coimbra
+  name |Infante Augusto, Duke of Coimbra|
+  bond fernando-ii-of-portugal, as father
+  bond maria-ii-of-portugal, as mother
+  link |https://en.wikipedia.org/wiki/Infante_Augusto,_Duke_of_Coimbra|
+
+person infante-henrique-duke-of-coimbra
+  name |Infante Henrique, Duke of Coimbra|
+  bond duarte-nuno-duke-of-braganza, as father
+  bond maria-francisca-of-orleans-braganza, as mother
+  link |https://en.wikipedia.org/wiki/Infante_Henrique,_Duke_of_Coimbra|
+
+person jaime-duke-of-braganza
+  name |Jaime, Duke of Braganza|
+  bond fernando-ii, as father
+  bond fernando-ii, as mother
+  link |https://en.wikipedia.org/wiki/Jaime,_Duke_of_Braganza|
+
+person dinis-of-braganza-count-of-lemos
+  name |Dinis of Braganza, Count of Lemos|
+  bond fernando-ii-of-portugal, as father
+  bond isabel-of-viseu, as mother
+  link |https://en.wikipedia.org/wiki/Dinis_of_Braganza,_Count_of_Lemos|
+
+person fernando-i-duke-of-braganza
+  name |Fernando I, Duke of Braganza|
+  bond afonso-duke-of-braganza, as father
+  bond beatriz-pereira-de-alvim, as mother
+  link |https://en.wikipedia.org/wiki/Fernando_I,_Duke_of_Braganza|
+
+person afonso-vi-of-portugal
+  name |Afonso VI of Portugal|
+  bond john-iv-of-portugal, as father
+  bond luisa-de-guzman, as mother
+  link |https://en.wikipedia.org/wiki/Afonso_VI_of_Portugal|
+
+person joao-prince-of-brazil
+  name |João, Prince of Brazil|
+  bond peter-ii-of-portugal, as father
+  bond maria-sophia-of-neuburg, as mother
+  link |https://en.wikipedia.org/wiki/Jo%C3%A3o,_Prince_of_Brazil|
+
+person john-v-of-portugal
+  name |John V of Portugal|
+  bond peter-ii-of-portugal, as father
+  bond maria-sophia-of-neuburg, as mother
+  link |https://en.wikipedia.org/wiki/John_V_of_Portugal|
+
+person pedro-prince-of-brazil
+  name |Pedro, Prince of Brazil|
+  bond john-v-of-portugal, as father
+  bond maria-anna-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Pedro,_Prince_of_Brazil|
+
+person joseph-i-of-portugal
+  name |Joseph I of Portugal|
+  bond john-v-of-portugal, as father
+  bond maria-anna-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Joseph_I_of_Portugal|
+
+person pedro-v-of-portugal
+  name |Pedro V of Portugal|
+  bond prince-ferdinand-of-saxe-coburg-and-gotha-kohary, as father
+  bond queen-maria-ii-of-portugal, as mother
+  link |https://en.wikipedia.org/wiki/Pedro_V_of_Portugal|
+
+person carlos-i-of-portugal
+  name |Carlos I of Portugal|
+  bond luis-i, as father
+  bond maria-pia-of-savoy, as mother
+  link |https://en.wikipedia.org/wiki/Carlos_I_of_Portugal|
+
+person miguel-duke-of-braganza
+  name |Miguel, Duke of Braganza|
+  bond miguel-i-of-portugal, as father
+  bond princess-adelaide-of-lowenstein-wertheim-rosenberg, as mother
+  link |https://en.wikipedia.org/wiki/Miguel,_Duke_of_Braganza|
+
+person duarte-nuno-duke-of-braganza
+  name |Duarte Nuno, Duke of Braganza|
+  bond miguel-duke-of-braganza, as father
+  bond maria-theresa-of-lowenstein-wertheim-rosenberg, as mother
+  link |https://en.wikipedia.org/wiki/Duarte_Nuno,_Duke_of_Braganza|
+
+person maria-pia-de-saxe-coburgo-e-braganca
+  name |Maria Pia de Saxe-Coburgo e Bragança|
+  bond carlos-i-of-portugal-claimed, as father
+  bond maria-amelia-laredo-e-murca, as mother
+  link |https://en.wikipedia.org/wiki/Maria_Pia_de_Saxe-Coburgo_e_Bragan%C3%A7a|
+
+person jaime-duke-of-braganza
+  name |Jaime, Duke of Braganza|
+  bond fernando-ii-of-portugal, as father
+  bond isabella-of-viseu, as mother
+  link |https://en.wikipedia.org/wiki/Jaime,_Duke_of_Braganza|
+
+person teodosio-i-duke-of-braganza
+  name |Teodósio I, Duke of Braganza|
+  bond jaime-i, as father
+  bond leonor-perez-de-guzman, as mother
+  link |https://en.wikipedia.org/wiki/Teod%C3%B3sio_I,_Duke_of_Braganza|
+
+person infanta-adelgundes-duchess-of-guimaraes
+  name |Infanta Adelgundes, Duchess of Guimarães|
+  bond miguel-of-portugal, as father
+  bond adelaide-of-lowenstein-wertheim-rosenberg, as mother
+  link |https://en.wikipedia.org/wiki/Infanta_Adelgundes,_Duchess_of_Guimar%C3%A3es|
+
+person isabella-of-urgell-duchess-of-coimbra
+  name |Isabella of Urgell, Duchess of Coimbra|
+  bond james-ii-count-of-urgell, as father
+  bond isabella-of-aragon, as mother
+  link |https://en.wikipedia.org/wiki/Isabella_of_Urgell,_Duchess_of_Coimbra|
+
+person isabel-of-barcelos
+  name |Isabel of Barcelos|
+  bond afonso-i-duke-of-braganza, as father
+  bond beatriz-pereira-de-alvim, as mother
+  link |https://en.wikipedia.org/wiki/Isabel_of_Barcelos|
+
+person maria-of-aragon-queen-of-castile
+  name |Maria of Aragon, Queen of Castile|
+  bond ferdinand-i-of-aragon, as father
+  bond eleanor-of-alburquerque, as mother
+  link |https://en.wikipedia.org/wiki/Maria_of_Aragon,_Queen_of_Castile|
+
+person john-ii-of-castile
+  name |John II of Castile|
+  bond henry-iii-king-of-castile, as father
+  bond catherine-of-lancaster, as mother
+  link |https://en.wikipedia.org/wiki/John_II_of_Castile|
+
+person isabella-of-portugal-queen-of-castile
+  name |Isabella of Portugal, Queen of Castile|
+  bond john-constable-of-portugal, as father
+  bond isabel-of-barcelos, as mother
+  link |https://en.wikipedia.org/wiki/Isabella_of_Portugal,_Queen_of_Castile|
+
+person frederick-iii-holy-roman-emperor
+  name |Frederick III, Holy Roman Emperor|
+  bond ernest-duke-of-austria, as father
+  bond cymburgis-of-masovia, as mother
+  link |https://en.wikipedia.org/wiki/Frederick_III,_Holy_Roman_Emperor|
+
+person catherine-of-portugal-nun
+  name |Catherine of Portugal (nun)|
+  bond edward-king-of-portugal, as father
+  bond eleanor-of-aragon, as mother
+  link |https://en.wikipedia.org/wiki/Catherine_of_Portugal_(nun)|
+
+person joan-of-portugal
+  name |Joan of Portugal|
+  bond edward-king-of-portugal, as father
+  bond eleanor-of-aragon, as mother
+  link |https://en.wikipedia.org/wiki/Joan_of_Portugal|
+
+person beatriz-of-portugal-duchess-of-viseu
+  name |Beatriz of Portugal, Duchess of Viseu|
+  bond john-constable-of-portugal, as father
+  bond isabella-of-barcelos, as mother
+  link |https://en.wikipedia.org/wiki/Beatriz_of_Portugal,_Duchess_of_Viseu|
+
+person isabella-i-of-castile
+  name |Isabella I of Castile|
+  bond john-ii-of-castile, as father
+  bond isabella-of-portugal, as mother
+  link |https://en.wikipedia.org/wiki/Isabella_I_of_Castile|
+
+person mary-of-burgundy
+  name |Mary of Burgundy|
+  bond charles-the-bold, as father
+  bond isabella-of-bourbon, as mother
+  link |https://en.wikipedia.org/wiki/Mary_of_Burgundy|
+
+person maximilian-i-holy-roman-emperor
+  name |Maximilian I, Holy Roman Emperor|
+  bond frederick-iii-holy-roman-emperor, as father
+  bond eleanor-of-portugal, as mother
+  link |https://en.wikipedia.org/wiki/Maximilian_I,_Holy_Roman_Emperor|
+
+person philip-i-of-castile
+  name |Philip I of Castile|
+  bond maximilian-i-holy-roman-emperor, as father
+  bond mary-duchess-of-burgundy, as mother
+  link |https://en.wikipedia.org/wiki/Philip_I_of_Castile|
+
+person catherine-of-aragon
+  name |Catherine of Aragon|
+  bond ferdinand-ii-of-aragon, as father
+  bond isabella-i-of-castile, as mother
+  link |https://en.wikipedia.org/wiki/Catherine_of_Aragon|
+
+person henry-viii
+  name |Henry VIII|
+  bond henry-vii-of-england, as father
+  bond elizabeth-of-york, as mother
+  link |https://en.wikipedia.org/wiki/Henry_VIII|
+
+person isabel-of-braganza-duchess-of-guimaraes
+  name |Isabel of Braganza, Duchess of Guimarães|
+  bond jaime-duke-of-braganza, as father
+  bond leonor-perez-de-guzman, as mother
+  link |https://en.wikipedia.org/wiki/Isabel_of_Braganza,_Duchess_of_Guimar%C3%A3es|
+
+person charles-iii-duke-of-savoy
+  name |Charles III, Duke of Savoy|
+  bond philip-the-landless, as father
+  bond claudine-de-brosse, as mother
+  link |https://en.wikipedia.org/wiki/Charles_III,_Duke_of_Savoy|
+
+person joanna-of-austria-princess-of-portugal
+  name |Joanna of Austria, Princess of Portugal|
+  bond charles-v-holy-roman-emperor, as father
+  bond isabella-of-portugal, as mother
+  link |https://en.wikipedia.org/wiki/Joanna_of_Austria,_Princess_of_Portugal|

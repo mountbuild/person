@@ -1,0 +1,3120 @@
+
+person harald-fairhair
+  name |Harald Fairhair|
+  bond halfdan-the-black, as father
+  bond ragnhild-sigurdsdotter, as mother
+  link |https://en.wikipedia.org/wiki/Harald_Fairhair|
+
+person bjorn-farmann
+  name |Bjørn Farmann|
+  bond harald-fairhair, as father
+  bond svanhild-eysteinsdottir, as mother
+  link |https://en.wikipedia.org/wiki/Bj%C3%B8rn_Farmann|
+
+person eric-bloodaxe
+  name |Eric Bloodaxe|
+  bond harald-fairhair, as father
+  bond ragnhild-sigurdsdotter, as mother
+  link |https://en.wikipedia.org/wiki/Eric_Bloodaxe|
+
+person olaf-haraldsson-geirstadalf
+  name |Olaf Haraldsson Geirstadalf|
+  bond harald-fairhair, as father
+  bond svanhild-oysteinsdatter, as mother
+  link |https://en.wikipedia.org/wiki/Olaf_Haraldsson_Geirstadalf|
+
+person haakon-the-good
+  name |Haakon the Good|
+  bond harald-fairhair, as father
+  bond thora-mosterstong, as mother
+  link |https://en.wikipedia.org/wiki/Haakon_the_Good|
+
+person harald-bluetooth
+  name |Harald Bluetooth|
+  bond gorm-the-old, as father
+  bond thyra, as mother
+  link |https://en.wikipedia.org/wiki/Harald_Bluetooth|
+
+person harald-greycloak
+  name |Harald Greycloak|
+  bond eric-bloodaxe, as father
+  bond gunnhild, as mother
+  link |https://en.wikipedia.org/wiki/Harald_Greycloak|
+
+person haakon-sigurdsson
+  name |Haakon Sigurdsson|
+  bond sigurd-haakonsson, as father
+  bond bergljot-toresdatter, as mother
+  link |https://en.wikipedia.org/wiki/Haakon_Sigurdsson|
+
+person sweyn-forkbeard
+  name |Sweyn Forkbeard|
+  bond harald-bluetooth, as father
+  bond gunhild-or-tove, as mother
+  link |https://en.wikipedia.org/wiki/Sweyn_Forkbeard|
+
+person olaf-tryggvason
+  name |Olaf Tryggvason|
+  bond tryggve-olafsson, as father
+  bond astrid-eiriksdatter, as mother
+  link |https://en.wikipedia.org/wiki/Olaf_Tryggvason|
+
+person estrid-svendsdatter
+  name |Estrid Svendsdatter|
+  bond sweyn-forkbeard, as father
+  bond gunhild-of-wenden, as mother
+  link |https://en.wikipedia.org/wiki/Estrid_Svendsdatter|
+
+person cnut-the-great
+  name |Cnut the Great|
+  bond sweyn-forkbeard, as father
+  bond possibly-swietoslawa-sigrid-or-gunhild, as mother
+  link |https://en.wikipedia.org/wiki/Cnut_the_Great|
+
+person olaf-ii-of-norway
+  name |Olaf II of Norway|
+  bond harald-grenske, as father
+  bond asta-gudbrandsdatter, as mother
+  link |https://en.wikipedia.org/wiki/Olaf_II_of_Norway|
+
+person harald-hardrada
+  name |Harald Hardrada|
+  bond sigurd-syr, as father
+  bond asta-gudbrandsdatter, as mother
+  link |https://en.wikipedia.org/wiki/Harald_Hardrada|
+
+person sweyn-ii-of-denmark
+  name |Sweyn II of Denmark|
+  bond ulf-thorgilsson, as father
+  bond estrid-svendsdatter, as mother
+  link |https://en.wikipedia.org/wiki/Sweyn_II_of_Denmark|
+
+person svein-knutsson
+  name |Svein Knutsson|
+  bond cnut-the-great, as father
+  bond a-elfgifu-of-northampton, as mother
+  link |https://en.wikipedia.org/wiki/Svein_Knutsson|
+
+person haakon-ericsson
+  name |Haakon Ericsson|
+  bond eirik-hakonson, as father
+  bond gytha, as mother
+  link |https://en.wikipedia.org/wiki/Haakon_Ericsson|
+
+person magnus-the-good
+  name |Magnus the Good|
+  bond olaf-ii-of-norway, as father
+  bond alfhild, as mother
+  link |https://en.wikipedia.org/wiki/Magnus_the_Good|
+
+person magnus-ii-of-norway
+  name |Magnus II of Norway|
+  bond harald-iii-of-norway, as father
+  bond tora-torbergsdatter, as mother
+  link |https://en.wikipedia.org/wiki/Magnus_II_of_Norway|
+
+person olaf-iii-of-norway
+  name |Olaf III of Norway|
+  bond harald-iii-of-norway, as father
+  bond tora-torbergsdatter, as mother
+  link |https://en.wikipedia.org/wiki/Olaf_III_of_Norway|
+
+person magnus-barefoot
+  name |Magnus Barefoot|
+  bond olaf-iii-of-norway, as father
+  bond tora, as mother
+  link |https://en.wikipedia.org/wiki/Magnus_Barefoot|
+
+person olav-magnusson-of-norway
+  name |Olav Magnusson of Norway|
+  bond magnus-iii-of-norway, as father
+  bond sigrid-saxesdatter, as mother
+  link |https://en.wikipedia.org/wiki/Olav_Magnusson_of_Norway|
+
+person sigurd-the-crusader
+  name |Sigurd the Crusader|
+  bond magnus-iii-of-norway, as father
+  bond tora-concubine, as mother
+  link |https://en.wikipedia.org/wiki/Sigurd_the_Crusader|
+
+person kristin-sigurdsdatter
+  name |Kristin Sigurdsdatter|
+  bond sigurd-i-of-norway, as father
+  bond malmfred-of-kiev, as mother
+  link |https://en.wikipedia.org/wiki/Kristin_Sigurdsdatter|
+
+person magnus-iv-of-norway
+  name |Magnus IV of Norway|
+  bond sigurd-i-of-norway, as father
+  bond borghild-olafsdatter-concubine, as mother
+  link |https://en.wikipedia.org/wiki/Magnus_IV_of_Norway|
+
+person sigurd-ii-of-norway
+  name |Sigurd II of Norway|
+  bond harald-iv-of-norway, as father
+  bond thora-guttormsdotter-concubine, as mother
+  link |https://en.wikipedia.org/wiki/Sigurd_II_of_Norway|
+
+person inge-i-of-norway
+  name |Inge I of Norway|
+  bond harald-gille, as father
+  bond ingrid-ragnvaldsdotter, as mother
+  link |https://en.wikipedia.org/wiki/Inge_I_of_Norway|
+
+person eystein-ii-of-norway
+  name |Eystein II of Norway|
+  bond harald-iv-of-norway, as father
+  bond bja-ok, as mother
+  link |https://en.wikipedia.org/wiki/Eystein_II_of_Norway|
+
+person olav-ugjaeva
+  name |Olav Ugjæva|
+  bond gudbrand-skavhoggsson, as father
+  bond maria-oysteinsdotter, as mother
+  link |https://en.wikipedia.org/wiki/Olav_Ugj%C3%A6va|
+
+person magnus-v-of-norway
+  name |Magnus V of Norway|
+  bond erling-skakke, as father
+  bond kristin-sigurdsdatter, as mother
+  link |https://en.wikipedia.org/wiki/Magnus_V_of_Norway|
+
+person haakon-ii-of-norway
+  name |Haakon II of Norway|
+  bond sigurd-ii-of-norway, as father
+  bond thora, as mother
+  link |https://en.wikipedia.org/wiki/Haakon_II_of_Norway|
+
+person sverre-of-norway
+  name |Sverre of Norway|
+  bond unas-or-sigurd-ii-of-norway-claimed, as father
+  bond gunnhild, as mother
+  link |https://en.wikipedia.org/wiki/Sverre_of_Norway|
+
+person sigurd-magnusson
+  name |Sigurd Magnusson|
+  bond magnus-v-of-norway, as father
+  bond gyrid-aslaksdatter, as mother
+  link |https://en.wikipedia.org/wiki/Sigurd_Magnusson|
+
+person philip-simonsson
+  name |Philip Simonsson|
+  bond simon-karesson, as father
+  bond margret-arnadottir, as mother
+  link |https://en.wikipedia.org/wiki/Philip_Simonsson|
+
+person christina-of-norway
+  name |Christina of Norway|
+  bond sverre-sigurdsson, as father
+  bond margaret-of-sweden, as mother
+  link |https://en.wikipedia.org/wiki/Christina_of_Norway|
+
+person inge-ii-of-norway
+  name |Inge II of Norway|
+  bond bard-guttormsson, as father
+  bond cecilia-sigurdsdotter, as mother
+  link |https://en.wikipedia.org/wiki/Inge_II_of_Norway|
+
+person skule-bardsson
+  name |Skule Bårdsson|
+  bond bard-guttormsson, as father
+  bond ragnfrid-erlingsdotter, as mother
+  link |https://en.wikipedia.org/wiki/Skule_B%C3%A5rdsson|
+
+person haakon-iv-of-norway
+  name |Haakon IV of Norway|
+  bond haakon-iii-of-norway, as father
+  bond inga-of-varteig, as mother
+  link |https://en.wikipedia.org/wiki/Haakon_IV_of_Norway|
+
+person margaret-skulesdatter
+  name |Margaret Skulesdatter|
+  bond skule-bardsson, as father
+  bond ragnhild, as mother
+  link |https://en.wikipedia.org/wiki/Margaret_Skulesdatter|
+
+person magnus-vi-of-norway
+  name |Magnus VI of Norway|
+  bond haakon-iv-of-norway, as father
+  bond margrete-skulesdatter, as mother
+  link |https://en.wikipedia.org/wiki/Magnus_VI_of_Norway|
+
+person haakon-the-young
+  name |Haakon the Young|
+  bond haakon-iv-of-norway, as father
+  bond margaret-skulesdatter, as mother
+  link |https://en.wikipedia.org/wiki/Haakon_the_Young|
+
+person haakon-v-of-norway
+  name |Haakon V of Norway|
+  bond magnus-vi-of-norway, as father
+  bond ingeborg-of-denmark, as mother
+  link |https://en.wikipedia.org/wiki/Haakon_V_of_Norway|
+
+person eric-ii-of-norway
+  name |Eric II of Norway|
+  bond magnus-vi-of-norway, as father
+  bond ingeborg-of-denmark, as mother
+  link |https://en.wikipedia.org/wiki/Eric_II_of_Norway|
+
+person eric-magnusson-duke
+  name |Eric Magnusson (duke)|
+  bond magnus-iii-of-sweden, as father
+  bond helvig-of-holstein, as mother
+  link |https://en.wikipedia.org/wiki/Eric_Magnusson_(duke)|
+
+person ingeborg-of-norway
+  name |Ingeborg of Norway|
+  bond haakon-v-of-norway, as father
+  bond euphemia-of-rugen, as mother
+  link |https://en.wikipedia.org/wiki/Ingeborg_of_Norway|
+
+person albert-ii-duke-of-mecklenburg
+  name |Albert II, Duke of Mecklenburg|
+  bond henry-ii-lord-of-mecklenburg, as father
+  bond anna-of-saxe-wittenberg, as mother
+  link |https://en.wikipedia.org/wiki/Albert_II,_Duke_of_Mecklenburg|
+
+person euphemia-of-sweden
+  name |Euphemia of Sweden|
+  bond eric-duke-of-sodermanland, as father
+  bond ingeborg-of-norway, as mother
+  link |https://en.wikipedia.org/wiki/Euphemia_of_Sweden|
+
+person valdemar-iv-of-denmark
+  name |Valdemar IV of Denmark|
+  bond christopher-ii-king-of-denmark, as father
+  bond euphemia-of-pomerania, as mother
+  link |https://en.wikipedia.org/wiki/Valdemar_IV_of_Denmark|
+
+person magnus-iv-of-sweden
+  name |Magnus IV of Sweden|
+  bond eric-duke-of-sodermanland, as father
+  bond ingeborg-of-norway, as mother
+  link |https://en.wikipedia.org/wiki/Magnus_IV_of_Sweden|
+
+person haakon-vi-of-norway
+  name |Haakon VI of Norway|
+  bond magnus-iv-of-sweden, as father
+  bond blanche-of-namur, as mother
+  link |https://en.wikipedia.org/wiki/Haakon_VI_of_Norway|
+
+person margaret-i-of-denmark
+  name |Margaret I of Denmark|
+  bond valdemar-iv-of-denmark, as father
+  bond helvig-of-schleswig, as mother
+  link |https://en.wikipedia.org/wiki/Margaret_I_of_Denmark|
+
+person ingeborg-of-denmark-duchess-of-mecklenburg
+  name |Ingeborg of Denmark, Duchess of Mecklenburg|
+  bond valdemar-iv-king-of-denmark, as father
+  bond helvig-of-schleswig, as mother
+  link |https://en.wikipedia.org/wiki/Ingeborg_of_Denmark,_Duchess_of_Mecklenburg|
+
+person henry-iii-duke-of-mecklenburg
+  name |Henry III, Duke of Mecklenburg|
+  bond albert-ii-duke-of-mecklenburg, as father
+  bond euphemia-of-sweden, as mother
+  link |https://en.wikipedia.org/wiki/Henry_III,_Duke_of_Mecklenburg|
+
+person ingeborg-of-mecklenburg
+  name |Ingeborg of Mecklenburg|
+  bond albert-ii-duke-of-mecklenburg, as father
+  bond euphemia-of-sweden, as mother
+  link |https://en.wikipedia.org/wiki/Ingeborg_of_Mecklenburg|
+
+person gerhard-vi-count-of-holstein-rendsburg
+  name |Gerhard VI, Count of Holstein-Rendsburg|
+  bond henry-ii-count-of-holstein-rendsburg, as father
+  bond ingeborg-of-mecklenburg-schwerin, as mother
+  link |https://en.wikipedia.org/wiki/Gerhard_VI,_Count_of_Holstein-Rendsburg|
+
+person wartislaw-vii-duke-of-pomerania
+  name |Wartislaw VII, Duke of Pomerania|
+  bond bogislaw-v-duke-of-pomerania, as father
+  bond adelheid-of-brunswick-grubenhagen, as mother
+  link |https://en.wikipedia.org/wiki/Wartislaw_VII,_Duke_of_Pomerania|
+
+person olaf-ii-of-denmark
+  name |Olaf II of Denmark|
+  bond haakon-vi-of-norway, as father
+  bond margaret-i-of-denmark, as mother
+  link |https://en.wikipedia.org/wiki/Olaf_II_of_Denmark|
+
+person eric-of-pomerania
+  name |Eric of Pomerania|
+  bond wartislaw-vii-duke-of-pomerania, as father
+  bond maria-of-mecklenburg-schwerin, as mother
+  link |https://en.wikipedia.org/wiki/Eric_of_Pomerania|
+
+person dietrich-count-of-oldenburg
+  name |Dietrich, Count of Oldenburg|
+  bond christian-v-count-of-oldenburg, as father
+  bond countess-agnes-of-honstein, as mother
+  link |https://en.wikipedia.org/wiki/Dietrich,_Count_of_Oldenburg|
+
+person helvig-of-schauenburg
+  name |Helvig of Schauenburg|
+  bond gerhard-vi-of-holstein-rendsburg, as father
+  bond catherine-elisabeth-of-brunswick-luneburg, as mother
+  link |https://en.wikipedia.org/wiki/Helvig_of_Schauenburg|
+
+person christian-i-of-denmark
+  name |Christian I of Denmark|
+  bond dietrich-count-of-oldenburg, as father
+  bond helvig-of-schauenburg, as mother
+  link |https://en.wikipedia.org/wiki/Christian_I_of_Denmark|
+
+person dorothea-of-brandenburg
+  name |Dorothea of Brandenburg|
+  bond john-margrave-of-brandenburg-kulmbach, as father
+  bond barbara-of-saxe-wittenberg, as mother
+  link |https://en.wikipedia.org/wiki/Dorothea_of_Brandenburg|
+
+person christopher-of-bavaria
+  name |Christopher of Bavaria|
+  bond john-count-palatine-of-neumarkt, as father
+  bond catherine-of-pomerania, as mother
+  link |https://en.wikipedia.org/wiki/Christopher_of_Bavaria|
+
+person charles-viii-of-sweden
+  name |Charles VIII of Sweden|
+  bond knut-tordsson-bonde, as father
+  bond margareta-karlsdotter, as mother
+  link |https://en.wikipedia.org/wiki/Charles_VIII_of_Sweden|
+
+person frederick-i-of-denmark
+  name |Frederick I of Denmark|
+  bond christian-i-of-denmark, as father
+  bond dorothea-of-brandenburg, as mother
+  link |https://en.wikipedia.org/wiki/Frederick_I_of_Denmark|
+
+person john-king-of-denmark
+  name |John, King of Denmark|
+  bond christian-i-of-denmark, as father
+  bond dorothea-of-brandenburg, as mother
+  link |https://en.wikipedia.org/wiki/John,_King_of_Denmark|
+
+person adolf-duke-of-holstein-gottorp
+  name |Adolf, Duke of Holstein-Gottorp|
+  bond frederick-i-of-denmark, as father
+  bond sophie-of-pomerania, as mother
+  link |https://en.wikipedia.org/wiki/Adolf,_Duke_of_Holstein-Gottorp|
+
+person christian-iii-of-denmark
+  name |Christian III of Denmark|
+  bond frederick-i-of-denmark, as father
+  bond anna-of-brandenburg, as mother
+  link |https://en.wikipedia.org/wiki/Christian_III_of_Denmark|
+
+person christian-ii-of-denmark
+  name |Christian II of Denmark|
+  bond john-king-of-denmark, as father
+  bond christina-of-saxony, as mother
+  link |https://en.wikipedia.org/wiki/Christian_II_of_Denmark|
+
+person christina-of-denmark
+  name |Christina of Denmark|
+  bond christian-ii-of-denmark, as father
+  bond isabella-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Christina_of_Denmark|
+
+person frederick-ii-of-denmark
+  name |Frederick II of Denmark|
+  bond christian-iii-of-denmark, as father
+  bond dorothea-of-saxe-lauenburg, as mother
+  link |https://en.wikipedia.org/wiki/Frederick_II_of_Denmark|
+
+person john-ii-duke-of-schleswig-holstein-sonderburg
+  name |John II, Duke of Schleswig-Holstein-Sonderburg|
+  bond christian-iii-of-denmark, as father
+  bond dorothea-of-saxe-lauenburg, as mother
+  link |https://en.wikipedia.org/wiki/John_II,_Duke_of_Schleswig-Holstein-Sonderburg|
+
+person renata-of-lorraine
+  name |Renata of Lorraine|
+  bond francis-i-duke-of-lorraine, as father
+  bond christina-of-denmark, as mother
+  link |https://en.wikipedia.org/wiki/Renata_of_Lorraine|
+
+person john-adolf-duke-of-holstein-gottorp
+  name |John Adolf, Duke of Holstein-Gottorp|
+  bond adolf-duke-of-holstein-gottorp, as father
+  bond christine-of-hesse, as mother
+  link |https://en.wikipedia.org/wiki/John_Adolf,_Duke_of_Holstein-Gottorp|
+
+person christian-iv-of-denmark
+  name |Christian IV of Denmark|
+  bond frederick-ii-of-denmark, as father
+  bond sofie-of-mecklenburg-schwerin, as mother
+  link |https://en.wikipedia.org/wiki/Christian_IV_of_Denmark|
+
+person magdalene-of-bavaria
+  name |Magdalene of Bavaria|
+  bond william-v-duke-of-bavaria, as father
+  bond renata-of-lorraine, as mother
+  link |https://en.wikipedia.org/wiki/Magdalene_of_Bavaria|
+
+person frederick-iii-duke-of-holstein-gottorp
+  name |Frederick III, Duke of Holstein-Gottorp|
+  bond john-adolf-duke-of-holstein-gottorp, as father
+  bond augusta-of-denmark, as mother
+  link |https://en.wikipedia.org/wiki/Frederick_III,_Duke_of_Holstein-Gottorp|
+
+person frederick-iii-of-denmark
+  name |Frederick III of Denmark|
+  bond christian-iv-of-denmark, as father
+  bond anne-catherine-of-brandenburg, as mother
+  link |https://en.wikipedia.org/wiki/Frederick_III_of_Denmark|
+
+person alexander-duke-of-schleswig-holstein-sonderburg
+  name |Alexander, Duke of Schleswig-Holstein-Sonderburg|
+  bond john-ii-duke-of-schleswig-holstein-sonderburg, as father
+  bond elisabeth-of-brunswick-grubenhagen, as mother
+  link |https://en.wikipedia.org/wiki/Alexander,_Duke_of_Schleswig-Holstein-Sonderburg|
+
+person philip-william-elector-palatine
+  name |Philip William, Elector Palatine|
+  bond wolfgang-william-count-palatine-of-neuburg, as father
+  bond magdalene-of-bavaria, as mother
+  link |https://en.wikipedia.org/wiki/Philip_William,_Elector_Palatine|
+
+person christian-albert-duke-of-holstein-gottorp
+  name |Christian Albert, Duke of Holstein-Gottorp|
+  bond frederick-iii-duke-of-holstein-gottorp, as father
+  bond marie-elisabeth-of-saxony, as mother
+  link |https://en.wikipedia.org/wiki/Christian_Albert,_Duke_of_Holstein-Gottorp|
+
+person princess-frederica-amalia-of-denmark
+  name |Princess Frederica Amalia of Denmark|
+  bond frederick-iii-of-denmark, as father
+  bond sophie-amalie-of-brunswick-luneburg, as mother
+  link |https://en.wikipedia.org/wiki/Princess_Frederica_Amalia_of_Denmark|
+
+person christian-v-of-denmark
+  name |Christian V of Denmark|
+  bond frederick-iii-of-denmark, as father
+  bond sophie-amalie-of-brunswick-luneburg, as mother
+  link |https://en.wikipedia.org/wiki/Christian_V_of_Denmark|
+
+person august-philipp-duke-of-schleswig-holstein-sonderburg-beck
+  name |August Philipp, Duke of Schleswig-Holstein-Sonderburg-Beck|
+  bond alexander-duke-of-schleswig-holstein-sonderburg, as father
+  bond dorothea-of-schwarzburg-sondershausen, as mother
+  link |https://en.wikipedia.org/wiki/August_Philipp,_Duke_of_Schleswig-Holstein-Sonderburg-Beck|
+
+person charles-iii-philip-elector-palatine
+  name |Charles III Philip, Elector Palatine|
+  bond philip-william-elector-palatine, as father
+  bond elisabeth-amalie-of-hesse-darmstadt, as mother
+  link |https://en.wikipedia.org/wiki/Charles_III_Philip,_Elector_Palatine|
+
+person christian-august-of-holstein-gottorp-prince-of-eutin
+  name |Christian August of Holstein-Gottorp, Prince of Eutin|
+  bond christian-albert-duke-of-holstein-gottorp, as father
+  bond princess-frederica-amalia-of-denmark, as mother
+  link |https://en.wikipedia.org/wiki/Christian_August_of_Holstein-Gottorp,_Prince_of_Eutin|
+
+person frederick-iv-of-denmark
+  name |Frederick IV of Denmark|
+  bond christian-v-of-denmark, as father
+  bond charlotte-amalie-of-hesse-kassel, as mother
+  link |https://en.wikipedia.org/wiki/Frederick_IV_of_Denmark|
+
+person frederick-louis-duke-of-schleswig-holstein-sonderburg-beck
+  name |Frederick Louis, Duke of Schleswig-Holstein-Sonderburg-Beck|
+  bond august-philipp-duke-of-schleswig-holstein-sonderburg-beck, as father
+  bond countess-marie-sibylle-of-nassau-saarbrucken, as mother
+  link |https://en.wikipedia.org/wiki/Frederick_Louis,_Duke_of_Schleswig-Holstein-Sonderburg-Beck|
+
+person countess-palatine-elisabeth-auguste-sofie-of-neuburg
+  name |Countess Palatine Elisabeth Auguste Sofie of Neuburg|
+  bond charles-iii-philip-elector-palatine, as father
+  bond ludwika-karolina-radziwill, as mother
+  link |https://en.wikipedia.org/wiki/Countess_Palatine_Elisabeth_Auguste_Sofie_of_Neuburg|
+
+person countess-palatine-maria-franziska-of-sulzbach
+  name |Countess Palatine Maria Franziska of Sulzbach|
+  bond joseph-karl-count-palatine-of-sulzbach, as father
+  bond elizabeth-auguste-sophie-of-neuburg, as mother
+  link |https://en.wikipedia.org/wiki/Countess_Palatine_Maria_Franziska_of_Sulzbach|
+
+person peter-august-duke-of-schleswig-holstein-sonderburg-beck
+  name |Peter August, Duke of Schleswig-Holstein-Sonderburg-Beck|
+  bond frederick-louis-duke-of-schleswig-holstein-sonderburg-beck, as father
+  bond louise-charlotte-of-schleswig-holstein-sonderburg-augustenburg, as mother
+  link |https://en.wikipedia.org/wiki/Peter_August,_Duke_of_Schleswig-Holstein-Sonderburg-Beck|
+
+person christian-vi-of-denmark
+  name |Christian VI of Denmark|
+  bond frederick-iv-of-denmark, as father
+  bond louise-of-mecklenburg-gustrow, as mother
+  link |https://en.wikipedia.org/wiki/Christian_VI_of_Denmark|
+
+person adolf-frederick-king-of-sweden
+  name |Adolf Frederick, King of Sweden|
+  bond christian-august-of-holstein-gottorp-prince-of-eutin, as father
+  bond albertina-frederica-of-baden-durlach, as mother
+  link |https://en.wikipedia.org/wiki/Adolf_Frederick,_King_of_Sweden|
+
+person charles-xiii
+  name |Charles XIII|
+  bond adolf-frederick-of-sweden, as father
+  bond louisa-ulrika-of-prussia, as mother
+  link |https://en.wikipedia.org/wiki/Charles_XIII|
+
+person frederick-v-of-denmark
+  name |Frederick V of Denmark|
+  bond christian-vi-of-denmark, as father
+  bond sophie-magdalene-of-brandenburg-kulmbach, as mother
+  link |https://en.wikipedia.org/wiki/Frederick_V_of_Denmark|
+
+person prince-karl-anton-august-of-schleswig-holstein-sonderburg-beck
+  name |Prince Karl Anton August of Schleswig-Holstein-Sonderburg-Beck|
+  bond peter-august-duke-of-schleswig-holstein-sonderburg-beck, as father
+  bond princess-sophie-of-hesse-philippsthal, as mother
+  link |https://en.wikipedia.org/wiki/Prince_Karl_Anton_August_of_Schleswig-Holstein-Sonderburg-Beck|
+
+person countess-charlotte-of-dohna-leistenau
+  name |Countess Charlotte of Dohna-Leistenau|
+  bond albrecht-christoph-count-of-dohna-schlodien-in-leistenau, as father
+  bond princess-sophie-henriette-of-schleswig-holstein-sonderburg-beck, as mother
+  link |https://en.wikipedia.org/wiki/Countess_Charlotte_of_Dohna-Leistenau|
+
+person maximilian-i-joseph-of-bavaria
+  name |Maximilian I Joseph of Bavaria|
+  bond frederick-michael-count-palatine-of-zweibrucken, as father
+  bond countess-palatine-maria-franziska-of-sulzbach, as mother
+  link |https://en.wikipedia.org/wiki/Maximilian_I_Joseph_of_Bavaria|
+
+person christian-vii-of-denmark
+  name |Christian VII of Denmark|
+  bond frederick-v-of-denmark, as father
+  bond louise-of-great-britain, as mother
+  link |https://en.wikipedia.org/wiki/Christian_VII_of_Denmark|
+
+person frederick-hereditary-prince-of-denmark
+  name |Frederick, Hereditary Prince of Denmark|
+  bond frederick-v-of-denmark, as father
+  bond juliana-maria-of-brunswick-wolfenbuttel, as mother
+  link |https://en.wikipedia.org/wiki/Frederick,_Hereditary_Prince_of_Denmark|
+
+person princess-louise-of-denmark-1750-1831
+  name |Princess Louise of Denmark (1750–1831)|
+  bond frederik-v-of-denmark, as father
+  bond princess-louise-of-great-britain, as mother
+  link |https://en.wikipedia.org/wiki/Princess_Louise_of_Denmark_(1750%E2%80%931831)|
+
+person frederick-charles-louis-duke-of-schleswig-holstein-sonderburg-beck
+  name |Frederick Charles Louis, Duke of Schleswig-Holstein-Sonderburg-Beck|
+  bond prince-karl-anton-august-of-schleswig-holstein-sonderburg-beck, as father
+  bond countess-charlotte-of-dohna-schlodien, as mother
+  link |https://en.wikipedia.org/wiki/Frederick_Charles_Louis,_Duke_of_Schleswig-Holstein-Sonderburg-Beck|
+
+person charles-xiv-john
+  name |Charles XIV John|
+  bond henri-bernadotte, as father
+  bond jeanne-de-saint-jean, as mother
+  link |https://en.wikipedia.org/wiki/Charles_XIV_John|
+
+person princess-augusta-of-bavaria
+  name |Princess Augusta of Bavaria|
+  bond maximilian-i-joseph-of-bavaria, as father
+  bond princess-augusta-wilhelmine-of-hesse-darmstadt, as mother
+  link |https://en.wikipedia.org/wiki/Princess_Augusta_of_Bavaria|
+
+person frederick-vi-of-denmark
+  name |Frederick VI of Denmark|
+  bond christian-vii-of-denmark, as father
+  bond caroline-matilda-of-great-britain, as mother
+  link |https://en.wikipedia.org/wiki/Frederick_VI_of_Denmark|
+
+person christian-viii-of-denmark
+  name |Christian VIII of Denmark|
+  bond frederick-hereditary-prince-of-denmark, as father
+  bond sophia-frederica-of-mecklenburg-schwerin, as mother
+  link |https://en.wikipedia.org/wiki/Christian_VIII_of_Denmark|
+
+person princess-louise-caroline-of-hesse-kassel
+  name |Princess Louise Caroline of Hesse-Kassel|
+  bond landgrave-charles-of-hesse-kassel, as father
+  bond princess-louise-of-denmark, as mother
+  link |https://en.wikipedia.org/wiki/Princess_Louise_Caroline_of_Hesse-Kassel|
+
+person frederick-william-duke-of-schleswig-holstein-sonderburg-glucksburg
+  name |Frederick William, Duke of Schleswig-Holstein-Sonderburg-Glücksburg|
+  bond friedrich-karl-ludwig-duke-of-schleswig-holstein-sonderburg-beck, as father
+  bond countess-friederike-of-schlieben, as mother
+  link |https://en.wikipedia.org/wiki/Frederick_William,_Duke_of_Schleswig-Holstein-Sonderburg-Gl%C3%BCcksburg|
+
+person oscar-i-of-sweden
+  name |Oscar I of Sweden|
+  bond charles-xiv-john-of-sweden, as father
+  bond desiree-clary, as mother
+  link |https://en.wikipedia.org/wiki/Oscar_I_of_Sweden|
+
+person josephine-of-leuchtenberg
+  name |Josephine of Leuchtenberg|
+  bond eugene-de-beauharnais, as father
+  bond princess-augusta-of-bavaria, as mother
+  link |https://en.wikipedia.org/wiki/Josephine_of_Leuchtenberg|
+
+person oscar-ii
+  name |Oscar II|
+  bond oscar-i-of-sweden, as father
+  bond josephine-of-leuchtenberg, as mother
+  link |https://en.wikipedia.org/wiki/Oscar_II|
+
+person charles-xv
+  name |Charles XV|
+  bond oscar-i, as father
+  bond josephine-of-leuchtenberg, as mother
+  link |https://en.wikipedia.org/wiki/Charles_XV|
+
+person christian-ix-of-denmark
+  name |Christian IX of Denmark|
+  bond friedrich-wilhelm-duke-of-schleswig-holstein-sonderburg-glucksburg, as father
+  bond princess-louise-caroline-of-hesse-kassel, as mother
+  link |https://en.wikipedia.org/wiki/Christian_IX_of_Denmark|
+
+person louise-of-hesse-kassel
+  name |Louise of Hesse-Kassel|
+  bond prince-william-of-hesse-kassel, as father
+  bond princess-charlotte-of-denmark, as mother
+  link |https://en.wikipedia.org/wiki/Louise_of_Hesse-Kassel|
+
+person alexandra-of-denmark
+  name |Alexandra of Denmark|
+  bond christian-ix-of-denmark, as father
+  bond louise-of-hesse-kassel, as mother
+  link |https://en.wikipedia.org/wiki/Alexandra_of_Denmark|
+
+person frederick-viii-of-denmark
+  name |Frederick VIII of Denmark|
+  bond christian-ix-of-denmark, as father
+  bond louise-of-hesse-kassel, as mother
+  link |https://en.wikipedia.org/wiki/Frederick_VIII_of_Denmark|
+
+person louise-of-sweden
+  name |Louise of Sweden|
+  bond charles-xv-of-sweden, as father
+  bond louise-of-the-netherlands, as mother
+  link |https://en.wikipedia.org/wiki/Louise_of_Sweden|
+
+person maud-of-wales
+  name |Maud of Wales|
+  bond edward-vii-of-the-united-kingdom, as father
+  bond alexandra-of-denmark, as mother
+  link |https://en.wikipedia.org/wiki/Maud_of_Wales|
+
+person haakon-vii-of-norway
+  name |Haakon VII of Norway|
+  bond frederick-viii-of-denmark, as father
+  bond louise-of-sweden, as mother
+  link |https://en.wikipedia.org/wiki/Haakon_VII_of_Norway|
+
+person princess-ingeborg-of-denmark
+  name |Princess Ingeborg of Denmark|
+  bond frederick-viii-of-denmark, as father
+  bond louise-of-sweden, as mother
+  link |https://en.wikipedia.org/wiki/Princess_Ingeborg_of_Denmark|
+
+person prince-carl-duke-of-vastergotland
+  name |Prince Carl, Duke of Västergötland|
+  bond oscar-ii-of-sweden, as father
+  bond sophia-of-nassau, as mother
+  link |https://en.wikipedia.org/wiki/Prince_Carl,_Duke_of_V%C3%A4sterg%C3%B6tland|
+
+person princess-martha-of-sweden
+  name |Princess Märtha of Sweden|
+  bond prince-carl-duke-of-vastergotland, as father
+  bond princess-ingeborg-of-denmark, as mother
+  link |https://en.wikipedia.org/wiki/Princess_M%C3%A4rtha_of_Sweden|
+
+person olav-v-of-norway
+  name |Olav V of Norway|
+  bond haakon-vii-of-norway, as father
+  bond maud-of-wales, as mother
+  link |https://en.wikipedia.org/wiki/Olav_V_of_Norway|
+
+person harald-v-of-norway
+  name |Harald V of Norway|
+  bond olav-v-of-norway, as father
+  bond princess-martha-of-sweden, as mother
+  link |https://en.wikipedia.org/wiki/Harald_V_of_Norway|
+
+person tezozomoc-azcapotzalco
+  name |Tezozomoc (Azcapotzalco)|
+  bond acolnahuacatzin, as father
+  bond cuetlaxochitzin, as mother
+  link |https://en.wikipedia.org/wiki/Tezozomoc_(Azcapotzalco)|
+
+person acamapichtli
+  name |Acamapichtli|
+  bond opochtli-iztahuatzin, as father
+  bond princess-atotoztli-i, as mother
+  link |https://en.wikipedia.org/wiki/Acamapichtli|
+
+person quatlecoatl
+  name |Quatlecoatl|
+  bond acamapichtli, as father
+  bond xiuhcuetzin, as mother
+  link |https://en.wikipedia.org/wiki/Quatlecoatl|
+
+person tlatolqaca
+  name |Tlatolqaca|
+  bond acamapichtli, as father
+  bond huitzilxotzin, as mother
+  link |https://en.wikipedia.org/wiki/Tlatolqaca|
+
+person huitzilihuitl
+  name |Huitzilihuitl|
+  bond emperor-acamapichtli, as father
+  bond empress-tezcatlan-miyahuatzin, as mother
+  link |https://en.wikipedia.org/wiki/Huitzilihuitl|
+
+person itzcoatl
+  name |Itzcoatl|
+  bond acamapichtli, as father
+  bond tepanec-woman-from-azcapotzalco, as mother
+  link |https://en.wikipedia.org/wiki/Itzcoatl|
+
+person chimalpopoca
+  name |Chimalpopoca|
+  bond emperor-huitzilihuitl, as father
+  bond empress-ayauhcihuatl, as mother
+  link |https://en.wikipedia.org/wiki/Chimalpopoca|
+
+person moctezuma-i
+  name |Moctezuma I|
+  bond emperor-huitzilihuitl, as father
+  bond queen-miahuaxihuitl, as mother
+  link |https://en.wikipedia.org/wiki/Moctezuma_I|
+
+person tlacaelel
+  name |Tlacaelel|
+  bond emperor-huitzilihuitl, as father
+  bond queen-cacamacihuatl, as mother
+  link |https://en.wikipedia.org/wiki/Tlacaelel|
+
+person tezozomoc-son-of-chimalpopoca
+  name |Tezozomoc (son of Chimalpopoca)|
+  bond chimalpopoca, as father
+  bond matlalatzin, as mother
+  link |https://en.wikipedia.org/wiki/Tezozomoc_(son_of_Chimalpopoca)|
+
+person tlilpotoncatzin
+  name |Tlilpotoncatzin|
+  bond tlacaelel, as father
+  bond maquiztzin, as mother
+  link |https://en.wikipedia.org/wiki/Tlilpotoncatzin|
+
+person atotoztli-ii
+  name |Atotoztli II|
+  bond moctezuma-i, as father
+  bond chichimecacihuatzin-i, as mother
+  link |https://en.wikipedia.org/wiki/Atotoztli_II|
+
+person chichimecacihuatzin-ii
+  name |Chichimecacihuatzin II|
+  bond emperor-moctezuma-i, as father
+  bond queen-chichimecacihuatzin-i, as mother
+  link |https://en.wikipedia.org/wiki/Chichimecacihuatzin_II|
+
+person ahuitzotl
+  name |Ahuitzotl|
+  bond tezozomoc, as father
+  bond atotoztli-ii, as mother
+  link |https://en.wikipedia.org/wiki/Ahuitzotl|
+
+person tizoc
+  name |Tizoc|
+  bond tezozomoc, as father
+  bond atotoztli-ii, as mother
+  link |https://en.wikipedia.org/wiki/Tizoc|
+
+person axayacatl
+  name |Axayacatl|
+  bond prince-tezozomoc, as father
+  bond princess-atotoztli-ii, as mother
+  link |https://en.wikipedia.org/wiki/Axayacatl|
+
+person chalchiuhnenetzin
+  name |Chalchiuhnenetzin|
+  bond tezozomoc, as father
+  bond atotoztli-ii, as mother
+  link |https://en.wikipedia.org/wiki/Chalchiuhnenetzin|
+
+person cuitlahuac
+  name |Cuitláhuac|
+  bond axayacatl, as father
+  bond a-daughter-of-cuitlahuac-i, as mother
+  link |https://en.wikipedia.org/wiki/Cuitl%C3%A1huac|
+
+person moctezuma-ii
+  name |Moctezuma II|
+  bond axayacatl, as father
+  bond xochicueyetl, as mother
+  link |https://en.wikipedia.org/wiki/Moctezuma_II|
+
+person louis-viii-of-france
+  name |Louis VIII of France|
+  bond philip-ii-of-france, as father
+  bond isabelle-of-hainaut, as mother
+  link |https://en.wikipedia.org/wiki/Louis_VIII_of_France|
+
+person louis-ix-of-france
+  name |Louis IX of France|
+  bond louis-viii-king-of-france, as father
+  bond blanche-of-castile, as mother
+  link |https://en.wikipedia.org/wiki/Louis_IX_of_France|
+
+person robert-i
+  name |Robert I|
+  bond louis-viii-of-france, as father
+  bond blanche-of-castile, as mother
+  link |https://en.wikipedia.org/wiki/Robert_I,_Count_of_Artois|
+
+person matilda-of-brabant-countess-of-artois
+  name |Matilda of Brabant, Countess of Artois|
+  bond henry-ii-duke-of-brabant, as father
+  bond marie-of-hohenstaufen, as mother
+  link |https://en.wikipedia.org/wiki/Matilda_of_Brabant,_Countess_of_Artois|
+
+person alphonse-count-of-poitiers
+  name |Alphonse, Count of Poitiers|
+  bond louis-viii, as father
+  bond blanche-of-castile, as mother
+  link |https://en.wikipedia.org/wiki/Alphonse,_Count_of_Poitiers|
+
+person charles-i-of-anjou
+  name |Charles I of Anjou|
+  bond louis-viii-king-of-france, as father
+  bond blanche-of-castile, as mother
+  link |https://en.wikipedia.org/wiki/Charles_I_of_Anjou|
+
+person henry-i-of-navarre
+  name |Henry I of Navarre|
+  bond theobald-i-of-navarre, as father
+  bond margaret-of-bourbon, as mother
+  link |https://en.wikipedia.org/wiki/Henry_I_of_Navarre|
+
+person blanche-of-artois
+  name |Blanche of Artois|
+  bond robert-i-count-of-artois, as father
+  bond matilda-of-brabant, as mother
+  link |https://en.wikipedia.org/wiki/Blanche_of_Artois|
+
+person edmund-crouchback
+  name |Edmund Crouchback|
+  bond henry-iii-of-england, as father
+  bond eleanor-of-provence, as mother
+  link |https://en.wikipedia.org/wiki/Edmund_Crouchback|
+
+person robert-ii-count-of-artois
+  name |Robert II, Count of Artois|
+  bond robert-i-of-artois, as father
+  bond matilda-of-brabant, as mother
+  link |https://en.wikipedia.org/wiki/Robert_II,_Count_of_Artois|
+
+person amicie-de-courtenay
+  name |Amicie de Courtenay|
+  bond peter-of-courtenay, as father
+  bond petronille-of-joigny, as mother
+  link |https://en.wikipedia.org/wiki/Amicie_de_Courtenay|
+
+person otto-iv-count-of-burgundy
+  name |Otto IV, Count of Burgundy|
+  bond hugh-de-chalon, as father
+  bond adelaide-countess-palatine-of-burgundy, as mother
+  link |https://en.wikipedia.org/wiki/Otto_IV,_Count_of_Burgundy|
+
+person mahaut-countess-of-artois
+  name |Mahaut, Countess of Artois|
+  bond robert-ii-count-of-artois, as father
+  bond amicie-de-courtenay, as mother
+  link |https://en.wikipedia.org/wiki/Mahaut,_Countess_of_Artois|
+
+person philip-of-artois
+  name |Philip of Artois|
+  bond robert-ii-of-artois, as father
+  bond amicie-de-courtenay, as mother
+  link |https://en.wikipedia.org/wiki/Philip_of_Artois|
+
+person blanche-of-brittany
+  name |Blanche of Brittany|
+  bond john-ii-duke-of-brittany, as father
+  bond beatrice-of-england, as mother
+  link |https://en.wikipedia.org/wiki/Blanche_of_Brittany|
+
+person louis-count-of-evreux
+  name |Louis, Count of Évreux|
+  bond philip-iii-of-france, as father
+  bond marie-of-brabant, as mother
+  link |https://en.wikipedia.org/wiki/Louis,_Count_of_%C3%89vreux|
+
+person robert-iii-of-artois
+  name |Robert III of Artois|
+  bond philip-of-artois, as father
+  bond blanche-of-brittany, as mother
+  link |https://en.wikipedia.org/wiki/Robert_III_of_Artois|
+
+person john-of-artois-count-of-eu
+  name |John of Artois, Count of Eu|
+  bond robert-iii-of-artois, as father
+  bond jeanne-of-valois, as mother
+  link |https://en.wikipedia.org/wiki/John_of_Artois,_Count_of_Eu|
+
+person philip-of-artois-count-of-eu
+  name |Philip of Artois, Count of Eu|
+  bond john-of-artois-count-of-eu, as father
+  bond isabeau-of-melun, as mother
+  link |https://en.wikipedia.org/wiki/Philip_of_Artois,_Count_of_Eu|
+
+person marie-duchess-of-auvergne
+  name |Marie, Duchess of Auvergne|
+  bond john-duke-of-berry, as father
+  bond joanna-of-armagnac, as mother
+  link |https://en.wikipedia.org/wiki/Marie,_Duchess_of_Auvergne|
+
+person charles-of-artois-count-of-eu
+  name |Charles of Artois, Count of Eu|
+  bond philip-of-artois-count-of-eu, as father
+  bond marie-of-berry, as mother
+  link |https://en.wikipedia.org/wiki/Charles_of_Artois,_Count_of_Eu|
+
+person philip-ii-count-of-nevers
+  name |Philip II, Count of Nevers|
+  bond philip-the-bold, as father
+  bond margaret-iii-of-flanders, as mother
+  link |https://en.wikipedia.org/wiki/Philip_II,_Count_of_Nevers|
+
+person bonne-of-artois
+  name |Bonne of Artois|
+  bond philip-of-artois-count-of-eu, as father
+  bond marie-of-berry, as mother
+  link |https://en.wikipedia.org/wiki/Bonne_of_Artois|
+
+person philip-the-good
+  name |Philip the Good|
+  bond john-the-fearless, as father
+  bond margaret-of-bavaria, as mother
+  link |https://en.wikipedia.org/wiki/Philip_the_Good|
+
+person henry-iii-count-of-louvain
+  name |Henry III, Count of Louvain|
+  bond henry-ii-count-of-louvain, as father
+  bond adela-of-orthen, as mother
+  link |https://en.wikipedia.org/wiki/Henry_III,_Count_of_Louvain|
+
+person godfrey-i-count-of-louvain
+  name |Godfrey I, Count of Louvain|
+  bond henry-ii-count-of-louvain, as father
+  bond adele-of-orthen-verdun, as mother
+  link |https://en.wikipedia.org/wiki/Godfrey_I,_Count_of_Louvain|
+
+person godfrey-ii-count-of-louvain
+  name |Godfrey II, Count of Louvain|
+  bond godfrey-i-count-of-louvain, as father
+  bond ida-of-chiny, as mother
+  link |https://en.wikipedia.org/wiki/Godfrey_II,_Count_of_Louvain|
+
+person godfrey-iii-count-of-louvain
+  name |Godfrey III, Count of Louvain|
+  bond godfrey-ii-count-of-louvain, as father
+  bond luitgarde-of-sulzbach, as mother
+  link |https://en.wikipedia.org/wiki/Godfrey_III,_Count_of_Louvain|
+
+person henry-i-duke-of-brabant
+  name |Henry I, Duke of Brabant|
+  bond godfrey-iii-count-of-leuven, as father
+  bond margaret-of-limburg, as mother
+  link |https://en.wikipedia.org/wiki/Henry_I,_Duke_of_Brabant|
+
+person henry-ii-duke-of-brabant
+  name |Henry II, Duke of Brabant|
+  bond henry-i-duke-of-brabant, as father
+  bond mathilde-of-flanders, as mother
+  link |https://en.wikipedia.org/wiki/Henry_II,_Duke_of_Brabant|
+
+person henry-iii-duke-of-brabant
+  name |Henry III, Duke of Brabant|
+  bond henry-ii-duke-of-brabant, as father
+  bond marie-of-hohenstaufen, as mother
+  link |https://en.wikipedia.org/wiki/Henry_III,_Duke_of_Brabant|
+
+person henry-iv-duke-of-brabant
+  name |Henry IV, Duke of Brabant|
+  bond henry-iii-duke-of-brabant, as father
+  bond adelaide-of-burgundy, as mother
+  link |https://en.wikipedia.org/wiki/Henry_IV,_Duke_of_Brabant|
+
+person john-i-duke-of-brabant
+  name |John I, Duke of Brabant|
+  bond henry-iii-duke-of-brabant, as father
+  bond adelaide-of-burgundy, as mother
+  link |https://en.wikipedia.org/wiki/John_I,_Duke_of_Brabant|
+
+person john-ii-duke-of-brabant
+  name |John II, Duke of Brabant|
+  bond john-i-duke-of-brabant, as father
+  bond margaret-of-flanders, as mother
+  link |https://en.wikipedia.org/wiki/John_II,_Duke_of_Brabant|
+
+person john-iii-duke-of-brabant
+  name |John III, Duke of Brabant|
+  bond john-ii-duke-of-brabant, as father
+  bond margaret-of-england, as mother
+  link |https://en.wikipedia.org/wiki/John_III,_Duke_of_Brabant|
+
+person joanna-duchess-of-brabant
+  name |Joanna, Duchess of Brabant|
+  bond john-iii-duke-of-brabant, as father
+  bond marie-d-evreux, as mother
+  link |https://en.wikipedia.org/wiki/Joanna,_Duchess_of_Brabant|
+
+person anthony-duke-of-brabant
+  name |Anthony, Duke of Brabant|
+  bond philip-ii-duke-of-burgundy, as father
+  bond margaret-iii-of-flanders, as mother
+  link |https://en.wikipedia.org/wiki/Anthony,_Duke_of_Brabant|
+
+person john-iv-duke-of-brabant
+  name |John IV, Duke of Brabant|
+  bond antoine-of-burgundy, as father
+  bond jeanne-de-saint-pol, as mother
+  link |https://en.wikipedia.org/wiki/John_IV,_Duke_of_Brabant|
+
+person philip-i-duke-of-brabant
+  name |Philip I, Duke of Brabant|
+  bond antoine-duke-of-brabant, as father
+  bond jeanne-of-saint-pol, as mother
+  link |https://en.wikipedia.org/wiki/Philip_I,_Duke_of_Brabant|
+
+person charles-the-bold
+  name |Charles the Bold|
+  bond philip-the-good, as father
+  bond isabella-of-portugal, as mother
+  link |https://en.wikipedia.org/wiki/Charles_the_Bold|
+
+person mary-of-burgundy
+  name |Mary of Burgundy|
+  bond charles-the-bold, as father
+  bond isabella-of-bourbon, as mother
+  link |https://en.wikipedia.org/wiki/Mary_of_Burgundy|
+
+person maximilian-i-holy-roman-emperor
+  name |Maximilian I, Holy Roman Emperor|
+  bond frederick-iii-holy-roman-emperor, as father
+  bond eleanor-of-portugal, as mother
+  link |https://en.wikipedia.org/wiki/Maximilian_I,_Holy_Roman_Emperor|
+
+person philip-i-of-castile
+  name |Philip I of Castile|
+  bond maximilian-i-holy-roman-emperor, as father
+  bond mary-duchess-of-burgundy, as mother
+  link |https://en.wikipedia.org/wiki/Philip_I_of_Castile|
+
+person charles-v-holy-roman-emperor
+  name |Charles V, Holy Roman Emperor|
+  bond philip-i-of-castile, as father
+  bond joanna-of-castile, as mother
+  link |https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor|
+
+person philip-ii-of-spain
+  name |Philip II of Spain|
+  bond charles-v-holy-roman-emperor, as father
+  bond isabella-of-portugal, as mother
+  link |https://en.wikipedia.org/wiki/Philip_II_of_Spain|
+
+person philip-iv-of-spain
+  name |Philip IV of Spain|
+  bond philip-iii-of-spain, as father
+  bond margaret-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Philip_IV_of_Spain|
+
+person charles-ii-of-spain
+  name |Charles II of Spain|
+  bond philip-iv-of-spain, as father
+  bond mariana-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Charles_II_of_Spain|
+
+person philip-v-of-spain
+  name |Philip V of Spain|
+  bond louis-grand-dauphin, as father
+  bond maria-anna-victoria-of-bavaria, as mother
+  link |https://en.wikipedia.org/wiki/Philip_V_of_Spain|
+
+person charles-vi-holy-roman-emperor
+  name |Charles VI, Holy Roman Emperor|
+  bond leopold-i-holy-roman-emperor, as father
+  bond eleonor-magdalene-of-neuburg, as mother
+  link |https://en.wikipedia.org/wiki/Charles_VI,_Holy_Roman_Emperor|
+
+person maria-theresa
+  name |Maria Theresa|
+  bond charles-vi-holy-roman-emperor, as father
+  bond elisabeth-christine-of-brunswick-wolfenbuttel, as mother
+  link |https://en.wikipedia.org/wiki/Maria_Theresa|
+
+person joseph-ii-holy-roman-emperor
+  name |Joseph II, Holy Roman Emperor|
+  bond francis-i-holy-roman-emperor, as father
+  bond maria-theresa, as mother
+  link |https://en.wikipedia.org/wiki/Joseph_II,_Holy_Roman_Emperor|
+
+person leopold-ii-holy-roman-emperor
+  name |Leopold II, Holy Roman Emperor|
+  bond francis-i-holy-roman-emperor, as father
+  bond maria-theresa-queen-of-hungary-and-bohemia, as mother
+  link |https://en.wikipedia.org/wiki/Leopold_II,_Holy_Roman_Emperor|
+
+person francis-ii-holy-roman-emperor
+  name |Francis II, Holy Roman Emperor|
+  bond leopold-ii-holy-roman-emperor, as father
+  bond maria-luisa-of-spain, as mother
+  link |https://en.wikipedia.org/wiki/Francis_II,_Holy_Roman_Emperor|
+
+person karl-von-habsburg
+  name |Karl von Habsburg|
+  bond otto-crown-prince-of-austria, as father
+  bond princess-regina-of-saxe-meiningen, as mother
+  link |https://en.wikipedia.org/wiki/Karl_von_Habsburg|
+
+person adalbert-duke-of-lorraine
+  name |Adalbert, Duke of Lorraine|
+  bond gerard-de-bouzonville, as father
+  bond gisela, as mother
+  link |https://en.wikipedia.org/wiki/Adalbert,_Duke_of_Lorraine|
+
+person gerard-duke-of-lorraine
+  name |Gerard, Duke of Lorraine|
+  bond gerard-de-bouzonville, as father
+  bond gisela, as mother
+  link |https://en.wikipedia.org/wiki/Gerard,_Duke_of_Lorraine|
+
+person theodoric-ii-duke-of-lorraine
+  name |Theodoric II, Duke of Lorraine|
+  bond gerhard, as father
+  bond hedwige-of-namur, as mother
+  link |https://en.wikipedia.org/wiki/Theodoric_II,_Duke_of_Lorraine|
+
+person simon-i-duke-of-lorraine
+  name |Simon I, Duke of Lorraine|
+  bond theodoric-ii-duke-of-lorraine, as father
+  bond hedwig-of-formbach, as mother
+  link |https://en.wikipedia.org/wiki/Simon_I,_Duke_of_Lorraine|
+
+person matthias-i-duke-of-lorraine
+  name |Matthias I, Duke of Lorraine|
+  bond simon-i-duke-of-lorraine, as father
+  bond adelaide-of-leuven, as mother
+  link |https://en.wikipedia.org/wiki/Matthias_I,_Duke_of_Lorraine|
+
+person simon-ii-duke-of-lorraine
+  name |Simon II, Duke of Lorraine|
+  bond matthias-i-duke-of-lorraine, as father
+  bond bertha-hohenstaufen, as mother
+  link |https://en.wikipedia.org/wiki/Simon_II,_Duke_of_Lorraine|
+
+person frederick-i-duke-of-lorraine
+  name |Frederick I, Duke of Lorraine|
+  bond matthias-i-duke-of-lorraine, as father
+  bond bertha-hohenstaufen, as mother
+  link |https://en.wikipedia.org/wiki/Frederick_I,_Duke_of_Lorraine|
+
+person frederick-ii-duke-of-lorraine
+  name |Frederick II, Duke of Lorraine|
+  bond frederick-i-duke-of-lorraine, as father
+  bond wierzchoslawa-ludmilla-of-greater-poland, as mother
+  link |https://en.wikipedia.org/wiki/Frederick_II,_Duke_of_Lorraine|
+
+person theobald-i-duke-of-lorraine
+  name |Theobald I, Duke of Lorraine|
+  bond frederick-ii-duke-of-lorraine, as father
+  bond agnes-of-bar, as mother
+  link |https://en.wikipedia.org/wiki/Theobald_I,_Duke_of_Lorraine|
+
+person matthias-ii-duke-of-lorraine
+  name |Matthias II, Duke of Lorraine|
+  bond frederick-ii-duke-of-lorraine, as father
+  bond agnes-of-bar, as mother
+  link |https://en.wikipedia.org/wiki/Matthias_II,_Duke_of_Lorraine|
+
+person frederick-iii-duke-of-lorraine
+  name |Frederick III, Duke of Lorraine|
+  bond matthias-ii-duke-of-lorraine, as father
+  bond catherine-of-limburg, as mother
+  link |https://en.wikipedia.org/wiki/Frederick_III,_Duke_of_Lorraine|
+
+person theobald-ii-duke-of-lorraine
+  name |Theobald II, Duke of Lorraine|
+  bond frederick-iii-duke-of-lorraine, as father
+  bond margaret-of-navarre, as mother
+  link |https://en.wikipedia.org/wiki/Theobald_II,_Duke_of_Lorraine|
+
+person rudolph-duke-of-lorraine
+  name |Rudolph, Duke of Lorraine|
+  bond frederick-iv-duke-of-lorraine, as father
+  bond elisabeth-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Rudolph,_Duke_of_Lorraine|
+
+person frederick-iv-duke-of-lorraine
+  name |Frederick IV, Duke of Lorraine|
+  bond theobald-ii-duke-of-lorraine, as father
+  bond isabella-of-rumigny, as mother
+  link |https://en.wikipedia.org/wiki/Frederick_IV,_Duke_of_Lorraine|
+
+person john-i-duke-of-lorraine
+  name |John I, Duke of Lorraine|
+  bond rudolph-duke-of-lorraine, as father
+  bond mary-of-blois, as mother
+  link |https://en.wikipedia.org/wiki/John_I,_Duke_of_Lorraine|
+
+person charles-ii-duke-of-lorraine
+  name |Charles II, Duke of Lorraine|
+  bond john-i-duke-of-lorraine, as father
+  bond sophie-of-wurttemberg, as mother
+  link |https://en.wikipedia.org/wiki/Charles_II,_Duke_of_Lorraine|
+
+person rene-ii-duke-of-lorraine
+  name |René II, Duke of Lorraine|
+  bond frederick-ii-of-vaudemont, as father
+  bond yolande-of-lorraine, as mother
+  link |https://en.wikipedia.org/wiki/Ren%C3%A9_II,_Duke_of_Lorraine|
+
+person antoine-duke-of-lorraine
+  name |Antoine, Duke of Lorraine|
+  bond rene-ii-duke-of-lorraine, as father
+  bond philippa-of-guelders, as mother
+  link |https://en.wikipedia.org/wiki/Antoine,_Duke_of_Lorraine|
+
+person francis-i-duke-of-lorraine
+  name |Francis I, Duke of Lorraine|
+  bond antoine-duke-of-lorraine, as father
+  bond renee-de-bourbon-montpensier, as mother
+  link |https://en.wikipedia.org/wiki/Francis_I,_Duke_of_Lorraine|
+
+person charles-iii-duke-of-lorraine
+  name |Charles III, Duke of Lorraine|
+  bond francis-i-duke-of-lorraine, as father
+  bond christina-of-denmark, as mother
+  link |https://en.wikipedia.org/wiki/Charles_III,_Duke_of_Lorraine|
+
+person henry-ii-duke-of-lorraine
+  name |Henry II, Duke of Lorraine|
+  bond charles-iii-duke-of-lorraine, as father
+  bond claude-of-france, as mother
+  link |https://en.wikipedia.org/wiki/Henry_II,_Duke_of_Lorraine|
+
+person nicole-duchess-of-lorraine
+  name |Nicole, Duchess of Lorraine|
+  bond henry-ii-duke-of-lorraine, as father
+  bond margerita-gonzaga, as mother
+  link |https://en.wikipedia.org/wiki/Nicole,_Duchess_of_Lorraine|
+
+person claude-francoise-de-lorraine
+  name |Claude Françoise de Lorraine|
+  bond henry-ii-duke-of-lorraine, as father
+  bond margerita-gonzaga, as mother
+  link |https://en.wikipedia.org/wiki/Claude_Fran%C3%A7oise_de_Lorraine|
+
+person francis-ii-duke-of-lorraine
+  name |Francis II, Duke of Lorraine|
+  bond charles-iii-duke-of-lorraine, as father
+  bond princess-claude-of-france, as mother
+  link |https://en.wikipedia.org/wiki/Francis_II,_Duke_of_Lorraine|
+
+person charles-iv-duke-of-lorraine
+  name |Charles IV, Duke of Lorraine|
+  bond francis-ii-duke-of-lorraine, as father
+  bond christina-of-salm, as mother
+  link |https://en.wikipedia.org/wiki/Charles_IV,_Duke_of_Lorraine|
+
+person nicholas-francis-duke-of-lorraine
+  name |Nicholas Francis, Duke of Lorraine|
+  bond francis-ii-of-lorraine, as father
+  bond christina-of-salm, as mother
+  link |https://en.wikipedia.org/wiki/Nicholas_Francis,_Duke_of_Lorraine|
+
+person leopold-duke-of-lorraine
+  name |Leopold, Duke of Lorraine|
+  bond charles-v-duke-of-lorraine, as father
+  bond eleanor-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Leopold,_Duke_of_Lorraine|
+
+person francis-i-holy-roman-emperor
+  name |Francis I, Holy Roman Emperor|
+  bond leopold-duke-of-lorraine, as father
+  bond elisabeth-charlotte-d-orleans, as mother
+  link |https://en.wikipedia.org/wiki/Francis_I,_Holy_Roman_Emperor|
+
+person joseph-ii-holy-roman-emperor
+  name |Joseph II, Holy Roman Emperor|
+  bond francis-i-holy-roman-emperor, as father
+  bond maria-theresa, as mother
+  link |https://en.wikipedia.org/wiki/Joseph_II,_Holy_Roman_Emperor|
+
+person leopold-ii-holy-roman-emperor
+  name |Leopold II, Holy Roman Emperor|
+  bond francis-i-holy-roman-emperor, as father
+  bond maria-theresa-queen-of-hungary-and-bohemia, as mother
+  link |https://en.wikipedia.org/wiki/Leopold_II,_Holy_Roman_Emperor|
+
+person francis-ii-holy-roman-emperor
+  name |Francis II, Holy Roman Emperor|
+  bond leopold-ii-holy-roman-emperor, as father
+  bond maria-luisa-of-spain, as mother
+  link |https://en.wikipedia.org/wiki/Francis_II,_Holy_Roman_Emperor|
+
+person ferdinand-i-of-austria
+  name |Ferdinand I of Austria|
+  bond francis-ii-holy-roman-emperor, as father
+  bond maria-theresa-of-the-two-sicilies, as mother
+  link |https://en.wikipedia.org/wiki/Ferdinand_I_of_Austria|
+
+person franz-joseph-i-of-austria
+  name |Franz Joseph I of Austria|
+  bond archduke-franz-karl-of-austria, as father
+  bond princess-sophie-of-bavaria, as mother
+  link |https://en.wikipedia.org/wiki/Franz_Joseph_I_of_Austria|
+
+person charles-i-of-austria
+  name |Charles I of Austria|
+  bond archduke-otto-franz-of-austria, as father
+  bond princess-maria-josepha-of-saxony, as mother
+  link |https://en.wikipedia.org/wiki/Charles_I_of_Austria|
+
+person hassanal-bolkiah
+  name |Hassanal Bolkiah|
+  bond begawan-sultan-omar-ali-saifuddien-iii, as father
+  bond suri-seri-begawan-queen-mother-pengiran-anak-damit, as mother
+  link |https://en.wikipedia.org/wiki/Hassanal_Bolkiah|
+
+person muhammad-shah-of-brunei
+  name |Muhammad Shah of Brunei|
+  bond ibrahim-shah, as father
+  bond tunku-mala, as mother
+  link |https://en.wikipedia.org/wiki/Muhammad_Shah_of_Brunei|
+
+person sultan-ahmad-of-brunei
+  name |Sultan Ahmad of Brunei|
+  bond ibrahim-shah, as father
+  bond tunku-mala, as mother
+  link |https://en.wikipedia.org/wiki/Sultan_Ahmad_of_Brunei|
+
+person sulaiman-brunei
+  name |Sulaiman (Brunei)|
+  bond sharif-ali-ibn-ajlan, as father
+  bond puteri-ratna-kesuma, as mother
+  link |https://en.wikipedia.org/wiki/Sulaiman_(Brunei)|
+
+person abdul-hakkul-mubin
+  name |Abdul Hakkul Mubin|
+  bond pengiran-bendahara-pengiran-muhammad, as father
+  bond raja-dungu, as mother
+  link |https://en.wikipedia.org/wiki/Abdul_Hakkul_Mubin|
+
+person abdul-jalilul-jabbar
+  name |Abdul Jalilul Jabbar|
+  bond abdul-jalilul-akbar, as father
+  bond radin-mas-ayu-siti-aishah, as mother
+  link |https://en.wikipedia.org/wiki/Abdul_Jalilul_Jabbar|
+
+person muhyiddin-of-brunei
+  name |Muhyiddin of Brunei|
+  bond abdul-jalilul-akbar, as father
+  bond radin-mas-ayu-siti-aishah, as mother
+  link |https://en.wikipedia.org/wiki/Muhyiddin_of_Brunei|
+
+person omar-ali-saifuddin-i
+  name |Omar Ali Saifuddin I|
+  bond muhammad-alauddin, as father
+  bond pengiran-anak-sharbanun, as mother
+  link |https://en.wikipedia.org/wiki/Omar_Ali_Saifuddin_I|
+
+person abdul-momin
+  name |Abdul Momin|
+  bond pengiran-shahbandar-pengiran-anak-abdul-wahab, as father
+  bond pengiran-babu-lawiah-pengiran-anak-zubaidah, as mother
+  link |https://en.wikipedia.org/wiki/Abdul_Momin|
+
+person omar-ali-saifuddin-ii
+  name |Omar Ali Saifuddin II|
+  bond muhammad-jamalul-alam-i, as father
+  bond raja-isteri-pengiran-anak-noralam, as mother
+  link |https://en.wikipedia.org/wiki/Omar_Ali_Saifuddin_II|
+
+person hashim-jalilul-alam-aqamaddin
+  name |Hashim Jalilul Alam Aqamaddin|
+  bond omar-ali-saifuddin-ii, as father
+  bond tuan-zaidah-binti-pengarah-di-gadong-laman-awang-sulaiman, as mother
+  link |https://en.wikipedia.org/wiki/Hashim_Jalilul_Alam_Aqamaddin|
+
+person muhammad-jamalul-alam-ii
+  name |Muhammad Jamalul Alam II|
+  bond hashim-jalilul-alam-aqamaddin, as father
+  bond pengiran-isteri-pengiran-anak-siti-fatimah, as mother
+  link |https://en.wikipedia.org/wiki/Muhammad_Jamalul_Alam_II|
+
+person ahmad-tajuddin
+  name |Ahmad Tajuddin|
+  bond muhammad-jamalul-alam-ii, as father
+  bond raja-isteri-pengiran-anak-fatimah, as mother
+  link |https://en.wikipedia.org/wiki/Ahmad_Tajuddin|
+
+person omar-ali-saifuddien-iii
+  name |Omar Ali Saifuddien III|
+  bond sultan-muhammad-jamalul-alam-ii, as father
+  bond raja-isteri-pengiran-anak-siti-fatimah, as mother
+  link |https://en.wikipedia.org/wiki/Omar_Ali_Saifuddien_III|
+
+person indravarman-i
+  name |Indravarman I|
+  bond prthivindravarman, as father
+  bond prthivindradevi, as mother
+  link |https://en.wikipedia.org/wiki/Indravarman_I|
+
+person yasovarman-i
+  name |Yasovarman I|
+  bond indravarman-i, as father
+  bond indradevi, as mother
+  link |https://en.wikipedia.org/wiki/Yasovarman_I|
+
+person harshavarman-i
+  name |Harshavarman I|
+  bond yasovarman-i, as father
+  bond jayadevi, as mother
+  link |https://en.wikipedia.org/wiki/Harshavarman_I|
+
+person suryavarman-ii
+  name |Suryavarman II|
+  bond ksitindraditya, as father
+  bond narendralakshmi, as mother
+  link |https://en.wikipedia.org/wiki/Suryavarman_II|
+
+person jayavarman-vii
+  name |Jayavarman VII|
+  bond dharanindravarman-ii, as father
+  bond sri-jayarajacudamani, as mother
+  link |https://en.wikipedia.org/wiki/Jayavarman_VII|
+
+person ang-chan-i
+  name |Ang Chan I|
+  bond thommoreachea-i, as father
+  bond tep-bopha, as mother
+  link |https://en.wikipedia.org/wiki/Ang_Chan_I|
+
+person baraminreachea
+  name |Baraminreachea|
+  bond ang-chan-i-reachea, as father
+  bond botum-bopha, as mother
+  link |https://en.wikipedia.org/wiki/Baraminreachea|
+
+person chey-chettha-ii
+  name |Chey Chettha II|
+  bond srei-soriyopear, as father
+  bond sri-sujati, as mother
+  link |https://en.wikipedia.org/wiki/Chey_Chettha_II|
+
+person ang-chan-ii
+  name |Ang Chan II|
+  bond ang-eng, as father
+  bond anak-munang-ut, as mother
+  link |https://en.wikipedia.org/wiki/Ang_Chan_II|
+
+person ang-duong
+  name |Ang Duong|
+  bond ang-eng, as father
+  bond queen-vara, as mother
+  link |https://en.wikipedia.org/wiki/Ang_Duong|
+
+person ang-mey
+  name |Ang Mey|
+  bond ang-chan-ii, as father
+  bond neak-moneang-krachap, as mother
+  link |https://en.wikipedia.org/wiki/Ang_Mey|
+
+person sisowath-of-cambodia
+  name |Sisowath of Cambodia|
+  bond ang-duong, as father
+  bond neang-pou, as mother
+  link |https://en.wikipedia.org/wiki/Sisowath_of_Cambodia|
+
+person sisowath-monivong
+  name |Sisowath Monivong|
+  bond sisowath, as father
+  bond varni-van, as mother
+  link |https://en.wikipedia.org/wiki/Sisowath_Monivong|
+
+person sisowath-monipong
+  name |Sisowath Monipong|
+  bond sisowath-monivong, as father
+  bond norodom-kanviman-norleak-tevi, as mother
+  link |https://en.wikipedia.org/wiki/Sisowath_Monipong|
+
+person sisowath-monireth
+  name |Sisowath Monireth|
+  bond sisowath-monivong, as father
+  bond norodom-kanviman-norleak-tevi, as mother
+  link |https://en.wikipedia.org/wiki/Sisowath_Monireth|
+
+person sisowath-kossamak
+  name |Sisowath Kossamak|
+  bond sisowath-monivong, as father
+  bond norodom-kanviman-norleak-tevi, as mother
+  link |https://en.wikipedia.org/wiki/Sisowath_Kossamak|
+
+person norodom-suramarit
+  name |Norodom Suramarit|
+  bond norodom-sutharot, as father
+  bond norodom-phangangam, as mother
+  link |https://en.wikipedia.org/wiki/Norodom_Suramarit|
+
+person norodom-monineath
+  name |Norodom Monineath|
+  bond jean-francois-izzi, as father
+  bond pomme-peang, as mother
+  link |https://en.wikipedia.org/wiki/Norodom_Monineath|
+
+person norodom-sihanouk
+  name |Norodom Sihanouk|
+  bond norodom-suramarit, as father
+  bond sisowath-kossamak, as mother
+  link |https://en.wikipedia.org/wiki/Norodom_Sihanouk|
+
+person norodom-ranariddh
+  name |Norodom Ranariddh|
+  bond norodom-sihanouk-deceased, as father
+  bond phat-kanhol-deceased, as mother
+  link |https://en.wikipedia.org/wiki/Norodom_Ranariddh|
+
+person norodom-sihamoni
+  name |Norodom Sihamoni|
+  bond norodom-sihanouk, as father
+  bond norodom-monineath, as mother
+  link |https://en.wikipedia.org/wiki/Norodom_Sihamoni|
+
+person richard-duke-of-burgundy
+  name |Richard, Duke of Burgundy|
+  bond bivin-of-gorze, as father
+  bond richildis, as mother
+  link |https://en.wikipedia.org/wiki/Richard,_Duke_of_Burgundy|
+
+person robert-ii-of-france
+  name |Robert II of France|
+  bond hugh-capet, as father
+  bond adelaide-of-aquitaine, as mother
+  link |https://en.wikipedia.org/wiki/Robert_II_of_France|
+
+person robert-i-duke-of-burgundy
+  name |Robert I, Duke of Burgundy|
+  bond robert-ii-of-france, as father
+  bond constance-of-arles, as mother
+  link |https://en.wikipedia.org/wiki/Robert_I,_Duke_of_Burgundy|
+
+person henry-i-of-france
+  name |Henry I of France|
+  bond robert-ii-of-france, as father
+  bond constance-of-arles, as mother
+  link |https://en.wikipedia.org/wiki/Henry_I_of_France|
+
+person robert-ii-of-france
+  name |Robert II of France|
+  bond hugh-capet, as father
+  bond adelaide-of-aquitaine, as mother
+  link |https://en.wikipedia.org/wiki/Robert_II_of_France|
+
+person otto-william-count-of-burgundy
+  name |Otto-William, Count of Burgundy|
+  bond adalbert-of-ivrea, as father
+  bond gerberga-of-macon, as mother
+  link |https://en.wikipedia.org/wiki/Otto-William,_Count_of_Burgundy|
+
+person hugh-the-black
+  name |Hugh the Black|
+  bond richard-duke-of-burgundy, as father
+  bond adelaide-of-auxerre, as mother
+  link |https://en.wikipedia.org/wiki/Hugh_the_Black|
+
+person rudolph-of-france
+  name |Rudolph of France|
+  bond richard-duke-of-burgundy, as father
+  bond adelaide-of-auxerre, as mother
+  link |https://en.wikipedia.org/wiki/Rudolph_of_France|
+
+person hugh-ii-duke-of-burgundy
+  name |Hugh II, Duke of Burgundy|
+  bond odo-i-duke-of-burgundy, as father
+  bond sibylla-of-burgundy, as mother
+  link |https://en.wikipedia.org/wiki/Hugh_II,_Duke_of_Burgundy|
+
+person odo-ii-duke-of-burgundy
+  name |Odo II, Duke of Burgundy|
+  bond hugh-ii-duke-of-burgundy, as father
+  bond matilda-of-turenne, as mother
+  link |https://en.wikipedia.org/wiki/Odo_II,_Duke_of_Burgundy|
+
+person hugh-iii-duke-of-burgundy
+  name |Hugh III, Duke of Burgundy|
+  bond odo-ii-duke-of-burgundy, as father
+  bond marie-of-champagne, as mother
+  link |https://en.wikipedia.org/wiki/Hugh_III,_Duke_of_Burgundy|
+
+person odo-iii-duke-of-burgundy
+  name |Odo III, Duke of Burgundy|
+  bond hugh-iii-duke-of-burgundy, as father
+  bond alice-of-lorraine, as mother
+  link |https://en.wikipedia.org/wiki/Odo_III,_Duke_of_Burgundy|
+
+person hugh-iv-duke-of-burgundy
+  name |Hugh IV, Duke of Burgundy|
+  bond odo-iii-duke-of-burgundy, as father
+  bond alice-of-vergy, as mother
+  link |https://en.wikipedia.org/wiki/Hugh_IV,_Duke_of_Burgundy|
+
+person robert-ii-duke-of-burgundy
+  name |Robert II, Duke of Burgundy|
+  bond hugh-iv-duke-of-burgundy, as father
+  bond yolande-of-dreux, as mother
+  link |https://en.wikipedia.org/wiki/Robert_II,_Duke_of_Burgundy|
+
+person hugh-v-duke-of-burgundy
+  name |Hugh V, Duke of Burgundy|
+  bond robert-ii-duke-of-burgundy, as father
+  bond agnes-of-france, as mother
+  link |https://en.wikipedia.org/wiki/Hugh_V,_Duke_of_Burgundy|
+
+person odo-iv-duke-of-burgundy
+  name |Odo IV, Duke of Burgundy|
+  bond robert-ii-duke-of-burgundy, as father
+  bond agnes-of-france, as mother
+  link |https://en.wikipedia.org/wiki/Odo_IV,_Duke_of_Burgundy|
+
+person philip-i-duke-of-burgundy
+  name |Philip I, Duke of Burgundy|
+  bond philip-of-burgundy, as father
+  bond joan-i-countess-of-auvergne, as mother
+  link |https://en.wikipedia.org/wiki/Philip_I,_Duke_of_Burgundy|
+
+person john-ii-of-france
+  name |John II of France|
+  bond philip-vi-of-france, as father
+  bond joan-of-burgundy, as mother
+  link |https://en.wikipedia.org/wiki/John_II_of_France|
+
+person philip-the-bold
+  name |Philip the Bold|
+  bond john-ii-of-france, as father
+  bond bonne-of-bohemia, as mother
+  link |https://en.wikipedia.org/wiki/Philip_the_Bold|
+
+person john-the-fearless
+  name |John the Fearless|
+  bond philip-the-bold, as father
+  bond margaret-iii-of-flanders, as mother
+  link |https://en.wikipedia.org/wiki/John_the_Fearless|
+
+person maximilian-i-holy-roman-emperor
+  name |Maximilian I, Holy Roman Emperor|
+  bond frederick-iii-holy-roman-emperor, as father
+  bond eleanor-of-portugal, as mother
+  link |https://en.wikipedia.org/wiki/Philip_the_Good|
+
+person philip-i-of-castile
+  name |Philip I of Castile|
+  bond maximilian-i-holy-roman-emperor, as father
+  bond mary-duchess-of-burgundy, as mother
+  link |https://en.wikipedia.org/wiki/Philip_I_of_Castile|
+
+person charles-v-holy-roman-emperor
+  name |Charles V, Holy Roman Emperor|
+  bond philip-i-of-castile, as father
+  bond joanna-of-castile, as mother
+  link |https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor|
+
+person philip-i-of-castile
+  name |Philip I of Castile|
+  bond maximilian-i-holy-roman-emperor, as father
+  bond mary-duchess-of-burgundy, as mother
+  link |https://en.wikipedia.org/wiki/Philip_I_of_Castile|
+
+person charles-v-holy-roman-emperor
+  name |Charles V, Holy Roman Emperor|
+  bond philip-i-of-castile, as father
+  bond joanna-of-castile, as mother
+  link |https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor|
+
+person philip-iii-of-spain
+  name |Philip III of Spain|
+  bond philip-ii-of-spain, as father
+  bond anna-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Philip_III_of_Spain|
+
+person louis-duke-of-burgundy
+  name |Louis, Duke of Burgundy|
+  bond louis-grand-dauphin, as father
+  bond maria-anna-victoria-of-bavaria, as mother
+  link |https://en.wikipedia.org/wiki/Louis,_Duke_of_Burgundy|
+
+person juan-carlos-i
+  name |Juan Carlos I|
+  bond infante-juan-count-of-barcelona, as father
+  bond princess-maria-de-las-mercedes-of-bourbon-two-sicilies, as mother
+  link |https://en.wikipedia.org/wiki/Juan_Carlos_I|
+
+person felipe-vi
+  name |Felipe VI|
+  bond juan-carlos-i-of-spain, as father
+  bond sophia-of-greece-and-denmark, as mother
+  link |https://en.wikipedia.org/wiki/Felipe_VI|
+
+person louis-alphonse-de-bourbon
+  name |Louis Alphonse de Bourbon|
+  bond alfonso-duke-of-anjou-and-cadiz, as father
+  bond carmen-martinez-bordiu-2nd-duchess-of-franco, as mother
+  link |https://en.wikipedia.org/wiki/Louis_Alphonse_de_Bourbon|
+
+person maximilian-von-gotzen-iturbide
+  name |Maximilian von Götzen-Iturbide|
+  bond gustav-von-gotzen, as father
+  bond maria-gizella-tunkl-iturbide, as mother
+  link |https://en.wikipedia.org/wiki/Maximilian_von_G%C3%B6tzen-Iturbide|
+
+person agustin-de-iturbide
+  name |Agustín de Iturbide|
+  bond jose-joaquin-de-iturbide-y-arregui, as father
+  bond maria-josefa-de-aramburu-y-carrillo-de-figueroa, as mother
+  link |https://en.wikipedia.org/wiki/Agust%C3%ADn_de_Iturbide|
+
+person ana-maria-huarte
+  name |Ana María Huarte|
+  bond isidro-huarte-y-arrivillaga, as father
+  bond ana-manuela-muniz-y-sanchez-de-tagle, as mother
+  link |https://en.wikipedia.org/wiki/Ana_Mar%C3%ADa_Huarte|
+
+person agustin-jeronimo-de-iturbide-y-huarte
+  name |Agustín Jerónimo de Iturbide y Huarte|
+  bond agustin-i-of-mexico, as father
+  bond ana-maria-de-huarte-y-muniz, as mother
+  link |https://en.wikipedia.org/wiki/Agust%C3%ADn_Jer%C3%B3nimo_de_Iturbide_y_Huarte|
+
+person salvador-de-iturbide-y-huarte
+  name |Salvador de Iturbide y Huarte|
+  bond agustin-i-of-mexico, as father
+  bond ana-maria-de-huarte-y-muniz, as mother
+  link |https://en.wikipedia.org/wiki/Salvador_de_Iturbide_y_Huarte|
+
+person maximilian-i-of-mexico
+  name |Maximilian I of Mexico|
+  bond archduke-franz-karl-of-austria, as father
+  bond princess-sophie-of-bavaria, as mother
+  link |https://en.wikipedia.org/wiki/Maximilian_I_of_Mexico|
+
+person carlota-of-mexico
+  name |Carlota of Mexico|
+  bond leopold-i-of-belgium, as father
+  bond louise-of-orleans, as mother
+  link |https://en.wikipedia.org/wiki/Carlota_of_Mexico|
+
+person agustin-de-iturbide-y-green
+  name |Agustín de Iturbide y Green|
+  bond angel-de-iturbide-y-huarte, as father
+  bond alice-green-forrest, as mother
+  link |https://en.wikipedia.org/wiki/Agust%C3%ADn_de_Iturbide_y_Green|
+
+person salvador-de-iturbide-y-marzan
+  name |Salvador de Iturbide y Marzán|
+  bond prince-salvador-of-mexico, as father
+  bond maria-del-rosario-de-marzan-y-guisasola, as mother
+  link |https://en.wikipedia.org/wiki/Salvador_de_Iturbide_y_Marz%C3%A1n|
+
+person maria-josepha-sophia-de-iturbide
+  name |María Josepha Sophia de Iturbide|
+  bond salvador-prince-of-iturbide, as father
+  bond baroness-gizella-maria-terezia-mikos-de-tarrodhaza, as mother
+  link |https://en.wikipedia.org/wiki/Mar%C3%ADa_Josepha_Sophia_de_Iturbide|
+
+person muhammad-abdel-moneim
+  name |Muhammad Abdel Moneim|
+  bond abbas-ii-of-egypt, as father
+  bond ikbal-hanim-effendi, as mother
+  link |https://en.wikipedia.org/wiki/Muhammad_Abdel_Moneim|
+
+person muhammad-ali-of-egypt
+  name |Muhammad Ali of Egypt|
+  bond ibrahim-agha, as father
+  bond zeinab, as mother
+  link |https://en.wikipedia.org/wiki/Muhammad_Ali_of_Egypt|
+
+person ibrahim-pasha-of-egypt
+  name |Ibrahim Pasha of Egypt|
+  bond muhammad-ali-pasha, as father
+  bond amina-hanim, as mother
+  link |https://en.wikipedia.org/wiki/Ibrahim_Pasha_of_Egypt|
+
+person said-of-egypt
+  name |Sa'id of Egypt|
+  bond mohammed-ali-pasha, as father
+  bond ayn-al-hayat-qadin, as mother
+  link |https://en.wikipedia.org/wiki/Sa%27id_of_Egypt|
+
+person abbas-i-of-egypt
+  name |Abbas I of Egypt|
+  bond tusun-pasha, as father
+  bond bamba-qadin, as mother
+  link |https://en.wikipedia.org/wiki/Abbas_I_of_Egypt|
+
+person ismail-pasha
+  name |Isma'il Pasha|
+  bond ibrahim-pasha, as father
+  bond hoshiyar-qadin, as mother
+  link |https://en.wikipedia.org/wiki/Isma%27il_Pasha|
+
+person ibrahim-ilhami-pasha
+  name |Ibrahim Ilhami Pasha|
+  bond abbas-i-of-egypt, as father
+  bond mahivech-hanim, as mother
+  link |https://en.wikipedia.org/wiki/Ibrahim_Ilhami_Pasha|
+
+person munire-sultan-daughter-of-abdulmejid-i
+  name |Münire Sultan (daughter of Abdulmejid I)|
+  bond abdulmejid-i, as father
+  bond verdicenan-kadin, as mother
+  link |https://en.wikipedia.org/wiki/M%C3%BCnire_Sultan_(daughter_of_Abdulmejid_I)|
+
+person emina-ilhamy
+  name |Emina Ilhamy|
+  bond ibrahim-ilhami-pasha, as father
+  bond parlanta-qadin, as mother
+  link |https://en.wikipedia.org/wiki/Emina_Ilhamy|
+
+person tewfik-pasha
+  name |Tewfik Pasha|
+  bond ismail-pasha, as father
+  bond shafaq-nur-hanim, as mother
+  link |https://en.wikipedia.org/wiki/Tewfik_Pasha|
+
+person hussein-kamel-of-egypt
+  name |Hussein Kamel of Egypt|
+  bond ismail-pasha, as father
+  bond nur-felek-qadin, as mother
+  link |https://en.wikipedia.org/wiki/Hussein_Kamel_of_Egypt|
+
+person fuad-i-of-egypt
+  name |Fuad I of Egypt|
+  bond ismail-pasha, as father
+  bond ferial-qadin, as mother
+  link |https://en.wikipedia.org/wiki/Fuad_I_of_Egypt|
+
+person nazli-sabri
+  name |Nazli Sabri|
+  bond abdelrehim-sabri-pasha, as father
+  bond tawfika-sharif, as mother
+  link |https://en.wikipedia.org/wiki/Nazli_Sabri|
+
+person abbas-ii-of-egypt
+  name |Abbas II of Egypt|
+  bond tewfik-pasha, as father
+  bond emina-ilhamy, as mother
+  link |https://en.wikipedia.org/wiki/Abbas_II_of_Egypt|
+
+person mohammed-ali-tewfik
+  name |Mohammed Ali Tewfik|
+  bond tewfik-i, as father
+  bond emina-ilhamy, as mother
+  link |https://en.wikipedia.org/wiki/Mohammed_Ali_Tewfik|
+
+person narriman-sadek
+  name |Narriman Sadek|
+  bond hussain-fahmi-sadiq-bey, as father
+  bond asila-kamil, as mother
+  link |https://en.wikipedia.org/wiki/Narriman_Sadek|
+
+person farouk-of-egypt
+  name |Farouk of Egypt|
+  bond fuad-i-of-egypt, as father
+  bond nazli-sabri, as mother
+  link |https://en.wikipedia.org/wiki/Farouk_of_Egypt|
+
+person fuad-ii-of-egypt
+  name |Fuad II of Egypt|
+  bond farouk-i, as father
+  bond narriman-sadek, as mother
+  link |https://en.wikipedia.org/wiki/Fuad_II_of_Egypt|
+
+person muhammad-abdel-moneim
+  name |Muhammad Abdel Moneim|
+  bond abbas-ii-of-egypt, as father
+  bond ikbal-hanim-effendi, as mother
+  link |https://en.wikipedia.org/wiki/Muhammad_Abdel_Moneim|
+
+person muhammad-ali-of-egypt
+  name |Muhammad Ali of Egypt|
+  bond ibrahim-agha, as father
+  bond zeinab, as mother
+  link |https://en.wikipedia.org/wiki/Muhammad_Ali_of_Egypt|
+
+person ibrahim-pasha-of-egypt
+  name |Ibrahim Pasha of Egypt|
+  bond muhammad-ali-pasha, as father
+  bond amina-hanim, as mother
+  link |https://en.wikipedia.org/wiki/Ibrahim_Pasha_of_Egypt|
+
+person solomon
+  name |Solomon|
+  bond david, as father
+  bond bathsheba, as mother
+  link |https://en.wikipedia.org/wiki/Solomon|
+
+person menelik-i
+  name |Menelik I|
+  bond king-solomon, as father
+  bond queen-of-sheba, as mother
+  link |https://en.wikipedia.org/wiki/Menelik_I|
+
+person baeda-maryam-i
+  name |Baeda Maryam I|
+  bond zara-yaqob, as father
+  bond seyon-morgasa, as mother
+  link |https://en.wikipedia.org/wiki/Baeda_Maryam_I|
+
+person dawit-ii
+  name |Dawit II|
+  bond na-od, as father
+  bond na-od-mogesa, as mother
+  link |https://en.wikipedia.org/wiki/Dawit_II|
+
+person sarsa-dengel
+  name |Sarsa Dengel|
+  bond menas, as father
+  bond admas-mogasa, as mother
+  link |https://en.wikipedia.org/wiki/Sarsa_Dengel|
+
+person fasilides
+  name |Fasilides|
+  bond susenyos-i, as father
+  bond sultana-mogesa, as mother
+  link |https://en.wikipedia.org/wiki/Fasilides|
+
+person yohannes-ii
+  name |Yohannes II|
+  bond iyasu-i, as father
+  bond kedaste-krestos, as mother
+  link |https://en.wikipedia.org/wiki/Yohannes_II|
+
+person zera-yacob-amha-selassie
+  name |Zera Yacob Amha Selassie|
+  bond amha-selassie, as father
+  bond medferiashwork-abebe, as mother
+  link |https://en.wikipedia.org/wiki/Zera_Yacob_Amha_Selassie|
+
+person iyasu-ii
+  name |Iyasu II|
+  bond emperor-bakaffa, as father
+  bond empress-mentewab, as mother
+  link |https://en.wikipedia.org/wiki/Iyasu_II|
+
+person tekle-haymanot-ii
+  name |Tekle Haymanot II|
+  bond yohannes-ii, as father
+  bond sancheviyar, as mother
+  link |https://en.wikipedia.org/wiki/Tekle_Haymanot_II|
+
+person sahle-selassie
+  name |Sahle Selassie|
+  bond wossen-seged, as father
+  bond zenebework, as mother
+  link |https://en.wikipedia.org/wiki/Sahle_Selassie|
+
+person tewodros-ii
+  name |Tewodros II|
+  bond hailegiorgis-woldegiorgis, as father
+  bond woizero-atitegeb-wondbewossen, as mother
+  link |https://en.wikipedia.org/wiki/Tewodros_II|
+
+person tekle-giyorgis-ii
+  name |Tekle Giyorgis II|
+  bond wagshum-gebre-medhin, as father
+  bond princess-ayichesh-tedla-hailu, as mother
+  link |https://en.wikipedia.org/wiki/Tekle_Giyorgis_II|
+
+person yohannes-iv
+  name |Yohannes IV|
+  bond dejazmatch-mercha-wolde-kidan-shum-of-tembien, as father
+  bond woizero-silass-dimtsu-of-chelekot-enderta, as mother
+  link |https://en.wikipedia.org/wiki/Yohannes_IV|
+
+person menelik-ii
+  name |Menelik II|
+  bond haile-melekot-king-of-shewa, as father
+  bond woizero-ejigayehu, as mother
+  link |https://en.wikipedia.org/wiki/Menelik_II|
+
+person zewditu
+  name |Zewditu|
+  bond menelik-ii, as father
+  bond weyziro-abechi, as mother
+  link |https://en.wikipedia.org/wiki/Zewditu|
+
+person haile-selassie
+  name |Haile Selassie|
+  bond makonnen-wolde-mikael, as father
+  bond yeshimebet-ali, as mother
+  link |https://en.wikipedia.org/wiki/Haile_Selassie|
+
+person lij-iyasu-of-ethiopia
+  name |Lij Iyasu of Ethiopia|
+  bond mikael-ali, as father
+  bond woizero-shewaregga-menelik, as mother
+  link |https://en.wikipedia.org/wiki/Lij_Iyasu_of_Ethiopia|
+
+person amha-selassie
+  name |Amha Selassie|
+  bond haile-selassie-i, as father
+  bond menen-asfaw, as mother
+  link |https://en.wikipedia.org/wiki/Amha_Selassie|
+
+person andriamanelo
+  name |Andriamanelo|
+  bond manelobe, as father
+  bond rafohy-or-rangita, as mother
+  link |https://en.wikipedia.org/wiki/Andriamanelo|
+
+person ralambo
+  name |Ralambo|
+  bond andriamanelo, as father
+  bond randapavola, as mother
+  link |https://en.wikipedia.org/wiki/Ralambo|
+
+person andrianjaka
+  name |Andrianjaka|
+  bond ralambo, as father
+  bond ratsitohinina, as mother
+  link |https://en.wikipedia.org/wiki/Andrianjaka|
+
+person andriantsitakatrandriana
+  name |Andriantsitakatrandriana|
+  bond andrianjaka, as father
+  bond ravadifo, as mother
+  link |https://en.wikipedia.org/wiki/Andriantsitakatrandriana|
+
+person andriantsimitoviaminandriandehibe
+  name |Andriantsimitoviaminandriandehibe|
+  bond andriantsitakatrandriana, as father
+  bond ravololontsimitovy, as mother
+  link |https://en.wikipedia.org/wiki/Andriantsimitoviaminandriandehibe|
+
+person andrianjaka-razakatsitakatrandriana
+  name |Andrianjaka Razakatsitakatrandriana|
+  bond andriantsimitoviaminandriandehibe, as father
+  bond ramahafoloarivo, as mother
+  link |https://en.wikipedia.org/wiki/Andrianjaka_Razakatsitakatrandriana|
+
+person andriamasinavalona
+  name |Andriamasinavalona|
+  bond andriandamboharihasina-andriantsimitoviaminandriandehibe-adoptive-father, as father
+  bond rafaravavy-rampanananiamboninitany, as mother
+  link |https://en.wikipedia.org/wiki/Andriamasinavalona|
+
+person andriantsimitoviaminiandriana-andriandrazaka
+  name |Andriantsimitoviaminiandriana Andriandrazaka|
+  bond andriamasinavalona, as father
+  bond ratompoindraoandriana, as mother
+  link |https://en.wikipedia.org/wiki/Andriantsimitoviaminiandriana_Andriandrazaka|
+
+person andriambelomasina
+  name |Andriambelomasina|
+  bond andriamifonozozoro-andriantsimitoviaminiandriana-andriandrazaka-adoptive-father, as father
+  bond rangorinimerina, as mother
+  link |https://en.wikipedia.org/wiki/Andriambelomasina|
+
+person andrianjafy
+  name |Andrianjafy|
+  bond andriambelomasina, as father
+  bond rasoherimananitany, as mother
+  link |https://en.wikipedia.org/wiki/Andrianjafy|
+
+person andrianampoinimerina
+  name |Andrianampoinimerina|
+  bond andriamiaramanjaka, as father
+  bond princess-ranavalonanandriambelomasina, as mother
+  link |https://en.wikipedia.org/wiki/Andrianampoinimerina|
+
+person radama-i
+  name |Radama I|
+  bond andrianampoinimerina, as father
+  bond rambolamasoandro, as mother
+  link |https://en.wikipedia.org/wiki/Radama_I|
+
+person ranavalona-i
+  name |Ranavalona I|
+  bond prince-andriantsalamanjaka-also-called-andrianavalontsalama, as father
+  bond princess-rabodonandriantompo, as mother
+  link |https://en.wikipedia.org/wiki/Ranavalona_I|
+
+person radama-ii
+  name |Radama II|
+  bond andriamihaja-radama-i-officially, as father
+  bond ranavalona-i, as mother
+  link |https://en.wikipedia.org/wiki/Radama_II|
+
+person rasoherina
+  name |Rasoherina|
+  bond prince-andriantsalamanandriana, as father
+  bond princess-rafaramanjaka, as mother
+  link |https://en.wikipedia.org/wiki/Rasoherina|
+
+person ranavalona-ii
+  name |Ranavalona II|
+  bond prince-razakaratrimo, as father
+  bond princess-rafarasoa-ramasindrazana, as mother
+  link |https://en.wikipedia.org/wiki/Ranavalona_II|
+
+person ranavalona-iii
+  name |Ranavalona III|
+  bond andriantsimianatra, as father
+  bond princess-raketaka, as mother
+  link |https://en.wikipedia.org/wiki/Ranavalona_III|
+
+person louis-ix-of-france
+  name |Louis IX of France|
+  bond louis-viii-king-of-france, as father
+  bond blanche-of-castile, as mother
+  link |https://en.wikipedia.org/wiki/Louis_IX_of_France|
+
+person margaret-of-provence
+  name |Margaret of Provence|
+  bond ramon-berenguer-iv-count-of-provence, as father
+  bond beatrice-of-savoy, as mother
+  link |https://en.wikipedia.org/wiki/Margaret_of_Provence|
+
+person philip-iii-of-france
+  name |Philip III of France|
+  bond louis-ix-of-france, as father
+  bond margaret-of-provence, as mother
+  link |https://en.wikipedia.org/wiki/Philip_III_of_France|
+
+person robert-count-of-clermont
+  name |Robert, Count of Clermont|
+  bond louis-ix-of-france, as father
+  bond margaret-of-provence, as mother
+  link |https://en.wikipedia.org/wiki/Robert,_Count_of_Clermont|
+
+person beatrice-of-burgundy-lady-of-bourbon
+  name |Beatrice of Burgundy, Lady of Bourbon|
+  bond john-of-burgundy, as father
+  bond agnes-of-dampierre, as mother
+  link |https://en.wikipedia.org/wiki/Beatrice_of_Burgundy,_Lady_of_Bourbon|
+
+person charles-count-of-valois
+  name |Charles, Count of Valois|
+  bond philip-iii-of-france, as father
+  bond isabella-of-aragon, as mother
+  link |https://en.wikipedia.org/wiki/Charles,_Count_of_Valois|
+
+person louis-i-duke-of-bourbon
+  name |Louis I, Duke of Bourbon|
+  bond robert-count-of-clermont, as father
+  bond beatrix-of-burgundy, as mother
+  link |https://en.wikipedia.org/wiki/Louis_I,_Duke_of_Bourbon|
+
+person mary-of-avesnes
+  name |Mary of Avesnes|
+  bond john-ii-count-of-holland, as father
+  bond philippa-of-luxembourg, as mother
+  link |https://en.wikipedia.org/wiki/Mary_of_Avesnes|
+
+person philip-vi-of-france
+  name |Philip VI of France|
+  bond charles-count-of-valois, as father
+  bond margaret-countess-of-anjou, as mother
+  link |https://en.wikipedia.org/wiki/Philip_VI_of_France|
+
+person isabella-of-valois-duchess-of-bourbon
+  name |Isabella of Valois, Duchess of Bourbon|
+  bond charles-of-valois, as father
+  bond mahaut-of-chatillon, as mother
+  link |https://en.wikipedia.org/wiki/Isabella_of_Valois,_Duchess_of_Bourbon|
+
+person peter-i-duke-of-bourbon
+  name |Peter I, Duke of Bourbon|
+  bond louis-i-duke-of-bourbon, as father
+  bond mary-of-avesnes, as mother
+  link |https://en.wikipedia.org/wiki/Peter_I,_Duke_of_Bourbon|
+
+person james-i-count-of-la-marche
+  name |James I, Count of La Marche|
+  bond louis-i-duke-of-bourbon, as father
+  bond mary-of-avesnes, as mother
+  link |https://en.wikipedia.org/wiki/James_I,_Count_of_La_Marche|
+
+person john-ii-of-france
+  name |John II of France|
+  bond philip-vi-of-france, as father
+  bond joan-of-burgundy, as mother
+  link |https://en.wikipedia.org/wiki/John_II_of_France|
+
+person john-i-count-of-la-marche
+  name |John I, Count of La Marche|
+  bond james-i-count-of-la-marche, as father
+  bond jeanne-of-chatillon, as mother
+  link |https://en.wikipedia.org/wiki/John_I,_Count_of_La_Marche|
+
+person catherine-of-vendome
+  name |Catherine of Vendôme|
+  bond john-vi-of-vendome, as father
+  bond jeanne-of-ponthieu, as mother
+  link |https://en.wikipedia.org/wiki/Catherine_of_Vend%C3%B4me|
+
+person charles-v-of-france
+  name |Charles V of France|
+  bond john-ii-of-france, as father
+  bond bonne-of-bohemia, as mother
+  link |https://en.wikipedia.org/wiki/Charles_V_of_France|
+
+person joanna-of-bourbon
+  name |Joanna of Bourbon|
+  bond peter-i-duke-of-bourbon, as father
+  bond isabella-of-valois, as mother
+  link |https://en.wikipedia.org/wiki/Joanna_of_Bourbon|
+
+person louis-ii-duke-of-bourbon
+  name |Louis II, Duke of Bourbon|
+  bond peter-i-duke-of-bourbon, as father
+  bond isabella-de-valois, as mother
+  link |https://en.wikipedia.org/wiki/Louis_II,_Duke_of_Bourbon|
+
+person james-ii-count-of-la-marche
+  name |James II, Count of La Marche|
+  bond john-i-count-of-la-marche, as father
+  bond catherine-of-vendome, as mother
+  link |https://en.wikipedia.org/wiki/James_II,_Count_of_La_Marche|
+
+person louis-count-of-vendome
+  name |Louis, Count of Vendôme|
+  bond john-i-count-of-la-marche, as father
+  bond catherine-de-vendome, as mother
+  link |https://en.wikipedia.org/wiki/Louis,_Count_of_Vend%C3%B4me|
+
+person charles-vi-of-france
+  name |Charles VI of France|
+  bond charles-v-of-france, as father
+  bond joanna-of-bourbon, as mother
+  link |https://en.wikipedia.org/wiki/Charles_VI_of_France|
+
+person john-i-duke-of-bourbon
+  name |John I, Duke of Bourbon|
+  bond louis-ii-duke-of-bourbon, as father
+  bond anne-of-auvergne, as mother
+  link |https://en.wikipedia.org/wiki/John_I,_Duke_of_Bourbon|
+
+person louis-i-duke-of-orleans
+  name |Louis I, Duke of Orléans|
+  bond charles-v-of-france, as father
+  bond joanna-of-bourbon, as mother
+  link |https://en.wikipedia.org/wiki/Louis_I,_Duke_of_Orl%C3%A9ans|
+
+person john-viii-count-of-vendome
+  name |John VIII, Count of Vendôme|
+  bond louis-count-of-vendome, as father
+  bond jeanne-de-laval, as mother
+  link |https://en.wikipedia.org/wiki/John_VIII,_Count_of_Vend%C3%B4me|
+
+person charles-vii-of-france
+  name |Charles VII of France|
+  bond charles-vi-of-france, as father
+  bond isabeau-of-bavaria, as mother
+  link |https://en.wikipedia.org/wiki/Charles_VII_of_France|
+
+person charles-i-duke-of-bourbon
+  name |Charles I, Duke of Bourbon|
+  bond john-i-duke-of-bourbon, as father
+  bond marie-duchess-of-auvergne, as mother
+  link |https://en.wikipedia.org/wiki/Charles_I,_Duke_of_Bourbon|
+
+person louis-i-count-of-montpensier
+  name |Louis I, Count of Montpensier|
+  bond john-i-duke-of-bourbon, as father
+  bond marie-duchess-of-auvergne, as mother
+  link |https://en.wikipedia.org/wiki/Louis_I,_Count_of_Montpensier|
+
+person john-count-of-angouleme
+  name |John, Count of Angoulême|
+  bond louis-i-duke-of-orleans, as father
+  bond valentina-visconti, as mother
+  link |https://en.wikipedia.org/wiki/John,_Count_of_Angoul%C3%AAme|
+
+person francis-count-of-vendome
+  name |Francis, Count of Vendôme|
+  bond john-viii-count-of-vendome, as father
+  bond isabelle-de-beauveau, as mother
+  link |https://en.wikipedia.org/wiki/Francis,_Count_of_Vend%C3%B4me|
+
+person marie-of-luxembourg-countess-of-vendome
+  name |Marie of Luxembourg, Countess of Vendôme|
+  bond peter-ii-of-luxembourg-count-of-saint-pol-and-soissons, as father
+  bond margaret-of-savoy, as mother
+  link |https://en.wikipedia.org/wiki/Marie_of_Luxembourg,_Countess_of_Vend%C3%B4me|
+
+person louis-prince-of-la-roche-sur-yon
+  name |Louis, Prince of La Roche-sur-Yon|
+  bond john-ii-count-of-vendome, as father
+  bond isabelle-de-beauveau, as mother
+  link |https://en.wikipedia.org/wiki/Louis,_Prince_of_La_Roche-sur-Yon|
+
+person louise-de-bourbon-duchess-of-montpensier
+  name |Louise de Bourbon, Duchess of Montpensier|
+  bond gilbert-count-of-montpensier, as father
+  bond clara-gonzaga, as mother
+  link |https://en.wikipedia.org/wiki/Louise_de_Bourbon,_Duchess_of_Montpensier|
+
+person joan-of-france-duchess-of-bourbon
+  name |Joan of France, Duchess of Bourbon|
+  bond charles-vii-of-france, as father
+  bond marie-of-anjou, as mother
+  link |https://en.wikipedia.org/wiki/Joan_of_France,_Duchess_of_Bourbon|
+
+person john-ii-duke-of-bourbon
+  name |John II, Duke of Bourbon|
+  bond charles-i-duke-of-bourbon, as father
+  bond agnes-of-burgundy, as mother
+  link |https://en.wikipedia.org/wiki/John_II,_Duke_of_Bourbon|
+
+person louis-xi-of-france
+  name |Louis XI of France|
+  bond charles-vii-king-of-france, as father
+  bond marie-of-anjou, as mother
+  link |https://en.wikipedia.org/wiki/Louis_XI_of_France|
+
+person charles-count-of-angouleme
+  name |Charles, Count of Angoulême|
+  bond john-count-of-angouleme, as father
+  bond marguerite-de-rohan, as mother
+  link |https://en.wikipedia.org/wiki/Charles,_Count_of_Angoul%C3%AAme|
+
+person charles-duke-of-vendome
+  name |Charles, Duke of Vendôme|
+  bond francis-count-of-vendome, as father
+  bond marie-de-luxembourg, as mother
+  link |https://en.wikipedia.org/wiki/Charles,_Duke_of_Vend%C3%B4me|
+
+person francoise-d-alencon
+  name |Françoise d'Alençon|
+  bond rene-of-alencon, as father
+  bond margaret-of-lorraine, as mother
+  link |https://en.wikipedia.org/wiki/Fran%C3%A7oise_d%27Alen%C3%A7on|
+
+person louis-duke-of-montpensier
+  name |Louis, Duke of Montpensier|
+  bond louis-prince-of-la-roche-sur-yon, as father
+  bond louise-de-bourbon, as mother
+  link |https://en.wikipedia.org/wiki/Louis,_Duke_of_Montpensier|
+
+person anne-of-france
+  name |Anne of France|
+  bond louis-xi-of-france, as father
+  bond charlotte-of-savoy, as mother
+  link |https://en.wikipedia.org/wiki/Anne_of_France|
+
+person peter-ii-duke-of-bourbon
+  name |Peter II, Duke of Bourbon|
+  bond charles-i-duke-of-bourbon, as father
+  bond agnes-of-burgundy, as mother
+  link |https://en.wikipedia.org/wiki/Peter_II,_Duke_of_Bourbon|
+
+person gilbert-count-of-montpensier
+  name |Gilbert, Count of Montpensier|
+  bond louis-de-bourbon, as father
+  bond gabrielle-la-tour, as mother
+  link |https://en.wikipedia.org/wiki/Gilbert,_Count_of_Montpensier|
+
+person louis-prince-of-conde-1530-1569
+  name |Louis, Prince of Condé (1530–1569)|
+  bond charles-de-bourbon-duke-of-vendome, as father
+  bond francoise-d-alencon, as mother
+  link |https://en.wikipedia.org/wiki/Louis,_Prince_of_Cond%C3%A9_(1530%E2%80%931569)|
+
+person henry-ii-of-france
+  name |Henry II of France|
+  bond francis-i-king-of-france, as father
+  bond claude-duchess-of-brittany, as mother
+  link |https://en.wikipedia.org/wiki/Henry_II_of_France|
+
+person antoine-of-navarre
+  name |Antoine of Navarre|
+  bond charles-duke-of-vendome, as father
+  bond francoise-of-alencon, as mother
+  link |https://en.wikipedia.org/wiki/Antoine_of_Navarre|
+
+person jeanne-d-albret
+  name |Jeanne d'Albret|
+  bond henry-ii-of-navarre, as father
+  bond margaret-of-angouleme, as mother
+  link |https://en.wikipedia.org/wiki/Jeanne_d%27Albret|
+
+person louis-duke-of-montpensier
+  name |Louis, Duke of Montpensier|
+  bond louis-prince-of-la-roche-sur-yon, as father
+  bond louise-de-bourbon, as mother
+  link |https://en.wikipedia.org/wiki/Louis,_Duke_of_Montpensier|
+
+person anne-marie-louise-d-orleans-duchess-of-montpensier
+  name |Anne Marie Louise d'Orléans, Duchess of Montpensier|
+  bond gaston-duke-of-orleans, as father
+  bond marie-duchess-of-montpensier, as mother
+  link |https://en.wikipedia.org/wiki/Anne_Marie_Louise_d%27Orl%C3%A9ans,_Duchess_of_Montpensier|
+
+person philippe-i-duke-of-orleans
+  name |Philippe I, Duke of Orléans|
+  bond louis-xiii-of-france, as father
+  bond anne-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Philippe_I,_Duke_of_Orl%C3%A9ans|
+
+person philippe-ii-duke-of-orleans
+  name |Philippe II, Duke of Orléans|
+  bond philippe-i-duke-of-orleans, as father
+  bond elizabeth-charlotte-of-the-palatinate, as mother
+  link |https://en.wikipedia.org/wiki/Philippe_II,_Duke_of_Orl%C3%A9ans|
+
+person louis-duke-of-orleans
+  name |Louis, Duke of Orléans|
+  bond philippe-ii-duke-of-orleans, as father
+  bond francoise-marie-de-bourbon, as mother
+  link |https://en.wikipedia.org/wiki/Louis,_Duke_of_Orl%C3%A9ans_(1703%E2%80%931752)|
+
+person louis-philippe-i-duke-of-orleans
+  name |Louis Philippe I, Duke of Orléans|
+  bond louis-duke-of-orleans, as father
+  bond johanna-of-baden-baden, as mother
+  link |https://en.wikipedia.org/wiki/Louis_Philippe_I,_Duke_of_Orl%C3%A9ans|
+
+person louis-philippe-ii-duke-of-orleans
+  name |Louis Philippe II, Duke of Orléans|
+  bond louis-philippe-d-orleans, as father
+  bond louise-henriette-de-bourbon, as mother
+  link |https://en.wikipedia.org/wiki/Louis_Philippe_II,_Duke_of_Orl%C3%A9ans|
+
+person louis-philippe-i
+  name |Louis Philippe I|
+  bond louis-philippe-ii-duke-of-orleans, as father
+  bond louise-marie-adelaide-de-bourbon, as mother
+  link |https://en.wikipedia.org/wiki/Louis_Philippe_I|
+
+person prince-philippe-count-of-paris
+  name |Prince Philippe, Count of Paris|
+  bond prince-ferdinand-duke-of-orleans, as father
+  bond duchess-helene-of-mecklenburg-schwerin, as mother
+  link |https://en.wikipedia.org/wiki/Prince_Philippe,_Count_of_Paris|
+
+person prince-philippe-duke-of-orleans
+  name |Prince Philippe, Duke of Orléans|
+  bond philippe-count-of-paris, as father
+  bond princess-isabelle-of-orleans, as mother
+  link |https://en.wikipedia.org/wiki/Prince_Philippe,_Duke_of_Orl%C3%A9ans_(1869%E2%80%931926)|
+
+person prince-jean-duke-of-guise
+  name |Prince Jean, Duke of Guise|
+  bond prince-robert-duke-of-chartres, as father
+  bond princess-francoise-of-orleans, as mother
+  link |https://en.wikipedia.org/wiki/Prince_Jean,_Duke_of_Guise|
+
+person henri-of-orleans-count-of-paris
+  name |Henri of Orléans, Count of Paris|
+  bond prince-jean-duke-of-guise, as father
+  bond princess-isabelle-of-orleans, as mother
+  link |https://en.wikipedia.org/wiki/Henri,_Count_of_Paris_(1908%E2%80%931999)|
+
+person henri-count-of-paris-duke-of-france
+  name |Henri, Count of Paris, Duke of France|
+  bond henri-count-of-paris, as father
+  bond princess-isabelle-of-orleans-braganza, as mother
+  link |https://en.wikipedia.org/wiki/Henri,_Count_of_Paris_(1933%E2%80%932019)|
+
+person antoine-duke-of-montpensier
+  name |Antoine, Duke of Montpensier|
+  bond louis-philippe-of-france, as father
+  bond maria-amalia-of-naples-and-sicily, as mother
+  link |https://en.wikipedia.org/wiki/Antoine,_Duke_of_Montpensier|
+
+person duchess-marie-therese-of-wurttemberg
+  name |Duchess Marie-Thérèse of Württemberg|
+  bond philipp-albrecht-duke-of-wurttemberg, as father
+  bond archduchess-rosa-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Duchess_Marie-Th%C3%A9r%C3%A8se_of_W%C3%BCrttemberg|
+
+person charles-iii-duke-of-bourbon
+  name |Charles III, Duke of Bourbon|
+  bond gilbert-count-of-montpensier, as father
+  bond clara-gonzaga, as mother
+  link |https://en.wikipedia.org/wiki/Charles_III,_Duke_of_Bourbon|
+
+person suzanne-duchess-of-bourbon
+  name |Suzanne, Duchess of Bourbon|
+  bond peter-ii-duke-of-bourbon, as father
+  bond anne-of-france, as mother
+  link |https://en.wikipedia.org/wiki/Suzanne,_Duchess_of_Bourbon|
+
+person charles-iii-duke-of-bourbon
+  name |Charles III, Duke of Bourbon|
+  bond gilbert-count-of-montpensier, as father
+  bond clara-gonzaga, as mother
+  link |https://en.wikipedia.org/wiki/Charles_III,_Duke_of_Bourbon|
+
+person henri-prince-of-conde-1552-1588
+  name |Henri, Prince of Condé (1552–1588)|
+  bond louis-i-prince-of-conde, as father
+  bond eleanor-de-roye, as mother
+  link |https://en.wikipedia.org/wiki/Henri,_Prince_of_Cond%C3%A9_(1552%E2%80%931588)|
+
+person margaret-of-valois
+  name |Margaret of Valois|
+  bond henry-ii-of-france, as father
+  bond catherine-de-medici, as mother
+  link |https://en.wikipedia.org/wiki/Margaret_of_Valois|
+
+person henry-iv-of-france
+  name |Henry IV of France|
+  bond antoine-of-navarre, as father
+  bond jeanne-iii-of-navarre, as mother
+  link |https://en.wikipedia.org/wiki/Henry_IV_of_France|
+
+person marie-de-medici
+  name |Marie de' Medici|
+  bond francesco-i-grand-duke-of-tuscany, as father
+  bond joanna-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Marie_de%27_Medici|
+
+person henri-ii-de-bourbon-prince-of-conde
+  name |Henri II de Bourbon, Prince of Condé|
+  bond henri-i-prince-of-conde, as father
+  bond charlotte-catherine-de-la-tremoille, as mother
+  link |https://en.wikipedia.org/wiki/Henri,_Prince_of_Cond%C3%A9_(1588%E2%80%931646)|
+
+person louis-xiii
+  name |Louis XIII|
+  bond henry-iv-king-of-france, as father
+  bond marie-de-medici, as mother
+  link |https://en.wikipedia.org/wiki/Louis_XIII|
+
+person louis-grand-conde
+  name |Louis, Grand Condé|
+  bond henri-prince-of-conde, as father
+  bond charlotte-marguerite-de-montmorency, as mother
+  link |https://en.wikipedia.org/wiki/Louis,_Grand_Cond%C3%A9|
+
+person armand-de-bourbon-prince-of-conti
+  name |Armand de Bourbon, Prince of Conti|
+  bond henri-ii-prince-of-conde, as father
+  bond charlotte-marguerite-de-montmorency, as mother
+  link |https://en.wikipedia.org/wiki/Armand_de_Bourbon,_Prince_of_Conti|
+
+person louis-xiv
+  name |Louis XIV|
+  bond louis-xiii-of-france, as father
+  bond anne-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Louis_XIV|
+
+person henri-jules-prince-of-conde
+  name |Henri Jules, Prince of Condé|
+  bond louis-le-grand-conde, as father
+  bond claire-clemence-de-maille, as mother
+  link |https://en.wikipedia.org/wiki/Henri_Jules,_Prince_of_Cond%C3%A9|
+
+person marie-anne-de-bourbon-duchess-of-vendome
+  name |Marie Anne de Bourbon, Duchess of Vendôme|
+  bond henri-jules-prince-of-conde, as father
+  bond anne-henriette-of-bavaria, as mother
+  link |https://en.wikipedia.org/wiki/Marie_Anne_de_Bourbon,_Duchess_of_Vend%C3%B4me|
+
+person louis-de-bourbon
+  name |Louis de Bourbon|
+  bond henri-jules-prince-of-conde, as father
+  bond anne-henriette-of-bavaria, as mother
+  link |https://en.wikipedia.org/wiki/Louis,_Prince_of_Cond%C3%A9_(1668%E2%80%931710)|
+
+person louise-francoise-de-bourbon-duchess-of-bourbon
+  name |Louise Françoise de Bourbon, Duchess of Bourbon|
+  bond king-louis-xiv-of-france, as father
+  bond madame-de-montespan, as mother
+  link |https://en.wikipedia.org/wiki/Louise_Fran%C3%A7oise_de_Bourbon,_Duchess_of_Bourbon|
+
+person anne-marie-de-bourbon
+  name |Anne Marie de Bourbon|
+  bond henri-jules-de-bourbon, as father
+  bond anne-henriette-of-bavaria, as mother
+  link |https://en.wikipedia.org/wiki/Anne_Marie_de_Bourbon|
+
+person louise-benedicte-de-bourbon
+  name |Louise Bénédicte de Bourbon|
+  bond henri-jules-de-bourbon, as father
+  bond anne-of-bavaria, as mother
+  link |https://en.wikipedia.org/wiki/Louise_B%C3%A9n%C3%A9dicte_de_Bourbon|
+
+person marie-therese-de-bourbon
+  name |Marie Thérèse de Bourbon|
+  bond henri-jules-prince-of-conde, as father
+  bond anne-henriette-of-the-palatinate, as mother
+  link |https://en.wikipedia.org/wiki/Marie_Th%C3%A9r%C3%A8se_de_Bourbon|
+
+person francois-louis-prince-of-conti
+  name |François Louis, Prince of Conti|
+  bond armand-prince-of-conti, as father
+  bond anne-marie-martinozzi, as mother
+  link |https://en.wikipedia.org/wiki/Fran%C3%A7ois_Louis,_Prince_of_Conti|
+
+person louis-armand-i-prince-of-conti
+  name |Louis Armand I, Prince of Conti|
+  bond armand-prince-of-conti, as father
+  bond anne-marie-martinozzi, as mother
+  link |https://en.wikipedia.org/wiki/Louis_Armand_I,_Prince_of_Conti|
+
+person louis-henri-duke-of-bourbon
+  name |Louis Henri, Duke of Bourbon|
+  bond louis-iii-prince-of-conde, as father
+  bond louise-francoise-de-bourbon, as mother
+  link |https://en.wikipedia.org/wiki/Louis_Henri,_Duke_of_Bourbon|
+
+person marie-anne-de-bourbon
+  name |Marie Anne de Bourbon|
+  bond francois-louis-prince-of-conti, as father
+  bond marie-therese-de-bourbon, as mother
+  link |https://en.wikipedia.org/wiki/Marie_Anne_de_Bourbon_(1689%E2%80%931720)|
+
+person louise-elisabeth-de-bourbon
+  name |Louise Élisabeth de Bourbon|
+  bond louis-iii-prince-of-conde, as father
+  bond louise-francoise-de-bourbon, as mother
+  link |https://en.wikipedia.org/wiki/Louise_%C3%89lisabeth_de_Bourbon|
+
+person louis-armand-ii-prince-of-conti
+  name |Louis Armand II, Prince of Conti|
+  bond francois-louis-prince-of-conti, as father
+  bond marie-therese-de-bourbon, as mother
+  link |https://en.wikipedia.org/wiki/Louis_Armand_II,_Prince_of_Conti|
+
+person louis-joseph-prince-of-conde
+  name |Louis Joseph, Prince of Condé|
+  bond louis-henri-i-prince-of-conde, as father
+  bond caroline-of-hesse-rotenburg, as mother
+  link |https://en.wikipedia.org/wiki/Louis_Joseph,_Prince_of_Cond%C3%A9|
+
+person louis-francois-prince-of-conti
+  name |Louis François, Prince of Conti|
+  bond louis-armand-ii-prince-of-conti, as father
+  bond louise-elisabeth-de-bourbon, as mother
+  link |https://en.wikipedia.org/wiki/Louis_Fran%C3%A7ois,_Prince_of_Conti|
+
+person louis-henri-prince-of-conde
+  name |Louis Henri, Prince of Condé|
+  bond louis-joseph-prince-of-conde, as father
+  bond charlotte-de-rohan, as mother
+  link |https://en.wikipedia.org/wiki/Louis_Henri,_Prince_of_Cond%C3%A9|
+
+person louis-francois-joseph-prince-of-conti
+  name |Louis François Joseph, Prince of Conti|
+  bond louis-francois-i-prince-of-conti, as father
+  bond louise-diane-d-orleans, as mother
+  link |https://en.wikipedia.org/wiki/Louis_Fran%C3%A7ois_Joseph,_Prince_of_Conti|
+
+person louis-antoine-duke-of-enghien
+  name |Louis Antoine, Duke of Enghien|
+  bond louis-henri-de-bourbon-prince-de-conde, as father
+  bond bathilde-d-orleans, as mother
+  link |https://en.wikipedia.org/wiki/Louis_Antoine,_Duke_of_Enghien|
+
+person henry-iv-of-france
+  name |Henry IV of France|
+  bond antoine-of-navarre, as father
+  bond jeanne-iii-of-navarre, as mother
+  link |https://en.wikipedia.org/wiki/Henry_IV_of_France|
+
+person louis-xiii
+  name |Louis XIII|
+  bond henry-iv-king-of-france, as father
+  bond marie-de-medici, as mother
+  link |https://en.wikipedia.org/wiki/Louis_XIII|
+
+person louis-xiv
+  name |Louis XIV|
+  bond louis-xiii-of-france, as father
+  bond anne-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Louis_XIV|
+
+person louis-dauphin-of-france-son-of-louis-xiv
+  name |Louis, Dauphin of France (son of Louis XIV)|
+  bond louis-xiv-of-france, as father
+  bond maria-theresa-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Louis,_Dauphin_of_France_(son_of_Louis_XIV)|
+
+person philippe-i-duke-of-orleans
+  name |Philippe I, Duke of Orléans|
+  bond louis-xiii-of-france, as father
+  bond anne-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Philippe_I,_Duke_of_Orl%C3%A9ans|
+
+person philippe-ii-duke-of-orleans
+  name |Philippe II, Duke of Orléans|
+  bond philippe-i-duke-of-orleans, as father
+  bond elizabeth-charlotte-of-the-palatinate, as mother
+  link |https://en.wikipedia.org/wiki/Philippe_II,_Duke_of_Orl%C3%A9ans|
+
+person louis-duke-of-burgundy
+  name |Louis, Duke of Burgundy|
+  bond louis-grand-dauphin, as father
+  bond maria-anna-victoria-of-bavaria, as mother
+  link |https://en.wikipedia.org/wiki/Louis,_Duke_of_Burgundy|
+
+person philip-v-of-spain
+  name |Philip V of Spain|
+  bond louis-grand-dauphin, as father
+  bond maria-anna-victoria-of-bavaria, as mother
+  link |https://en.wikipedia.org/wiki/Philip_V_of_Spain|
+
+person louis-duke-of-orleans
+  name |Louis, Duke of Orléans|
+  bond philippe-ii-duke-of-orleans, as father
+  bond francoise-marie-de-bourbon, as mother
+  link |https://en.wikipedia.org/wiki/Louis,_Duke_of_Orl%C3%A9ans_(1703%E2%80%931752)|
+
+person louis-xv
+  name |Louis XV|
+  bond louis-duke-of-burgundy, as father
+  bond marie-adelaide-of-savoy, as mother
+  link |https://en.wikipedia.org/wiki/Louis_XV|
+
+person louis-i-of-spain
+  name |Louis I of Spain|
+  bond philip-v-of-spain, as father
+  bond maria-luisa-gabriella-of-savoy, as mother
+  link |https://en.wikipedia.org/wiki/Louis_I_of_Spain|
+
+person ferdinand-vi-of-spain
+  name |Ferdinand VI of Spain|
+  bond philip-v-of-spain, as father
+  bond maria-luisa-of-savoy, as mother
+  link |https://en.wikipedia.org/wiki/Ferdinand_VI_of_Spain|
+
+person charles-iii-of-spain
+  name |Charles III of Spain|
+  bond philip-v-of-spain, as father
+  bond elisabeth-farnese, as mother
+  link |https://en.wikipedia.org/wiki/Charles_III_of_Spain|
+
+person philip-duke-of-parma
+  name |Philip, Duke of Parma|
+  bond philip-v-of-spain, as father
+  bond elisabeth-farnese, as mother
+  link |https://en.wikipedia.org/wiki/Philip,_Duke_of_Parma|
+
+person louis-philippe-i-duke-of-orleans
+  name |Louis Philippe I, Duke of Orléans|
+  bond louis-duke-of-orleans, as father
+  bond johanna-of-baden-baden, as mother
+  link |https://en.wikipedia.org/wiki/Louis_Philippe_I,_Duke_of_Orl%C3%A9ans|
+
+person louis-dauphin-of-france
+  name |Louis, Dauphin of France|
+  bond louis-xv-of-france, as father
+  bond marie-leszczynska, as mother
+  link |https://en.wikipedia.org/wiki/Louis,_Dauphin_of_France_(son_of_Louis_XV)|
+
+person charles-iv-of-spain
+  name |Charles IV of Spain|
+  bond charles-iii-of-spain, as father
+  bond maria-amalia-of-saxony, as mother
+  link |https://en.wikipedia.org/wiki/Charles_IV_of_Spain|
+
+person ferdinand-duke-of-parma
+  name |Ferdinand, Duke of Parma|
+  bond philip-duke-of-parma, as father
+  bond louise-elisabeth-of-france, as mother
+  link |https://en.wikipedia.org/wiki/Ferdinand,_Duke_of_Parma|
+
+person louis-philippe-ii-duke-of-orleans
+  name |Louis Philippe II, Duke of Orléans|
+  bond louis-philippe-d-orleans, as father
+  bond louise-henriette-de-bourbon, as mother
+  link |https://en.wikipedia.org/wiki/Louis_Philippe_II,_Duke_of_Orl%C3%A9ans|
+
+person louis-xvi
+  name |Louis XVI|
+  bond louis-dauphin-of-france, as father
+  bond maria-josepha-of-saxony, as mother
+  link |https://en.wikipedia.org/wiki/Louis_XVI|
+
+person louis-xviii
+  name |Louis XVIII|
+  bond louis-dauphin-of-france, as father
+  bond maria-josepha-of-saxony, as mother
+  link |https://en.wikipedia.org/wiki/Louis_XVIII|
+
+person charles-x
+  name |Charles X|
+  bond louis-dauphin-of-france, as father
+  bond marie-josephe-of-saxony, as mother
+  link |https://en.wikipedia.org/wiki/Charles_X|
+
+person ferdinand-vii-of-spain
+  name |Ferdinand VII of Spain|
+  bond charles-iv-of-spain, as father
+  bond maria-luisa-of-parma, as mother
+  link |https://en.wikipedia.org/wiki/Ferdinand_VII_of_Spain|
+
+person infante-francisco-de-paula-of-spain
+  name |Infante Francisco de Paula of Spain|
+  bond charles-iv-of-spain, as father
+  bond maria-luisa-of-parma, as mother
+  link |https://en.wikipedia.org/wiki/Infante_Francisco_de_Paula_of_Spain|
+
+person infante-carlos-maria-isidro-of-spain
+  name |Infante Carlos María Isidro of Spain|
+  bond charles-iv-of-spain, as father
+  bond maria-luisa-of-parma, as mother
+  link |https://en.wikipedia.org/wiki/Infante_Carlos_Mar%C3%ADa_Isidro_of_Spain|
+
+person louis-i-of-etruria
+  name |Louis I of Etruria|
+  bond ferdinand-duke-of-parma, as father
+  bond maria-amalia-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Louis_I_of_Etruria|
+
+person louis-philippe-i
+  name |Louis Philippe I|
+  bond louis-philippe-ii-duke-of-orleans, as father
+  bond louise-marie-adelaide-de-bourbon, as mother
+  link |https://en.wikipedia.org/wiki/Louis_Philippe_I|
+
+person ferdinand-philippe-duke-of-orleans
+  name |Ferdinand Philippe, Duke of Orléans|
+  bond louis-philippe-i, as father
+  bond maria-amalia-of-naples-and-sicily, as mother
+  link |https://en.wikipedia.org/wiki/Ferdinand_Philippe,_Duke_of_Orl%C3%A9ans|
+
+person charles-ii-duke-of-parma
+  name |Charles II, Duke of Parma|
+  bond louis-king-of-etruria, as father
+  bond maria-louisa-duchess-of-lucca, as mother
+  link |https://en.wikipedia.org/wiki/Charles_II,_Duke_of_Parma|
+
+person infante-carlos-count-of-montemolin
+  name |Infante Carlos, Count of Montemolín|
+  bond infante-carlos-maria-isidro-of-spain, as father
+  bond infanta-maria-francisca-of-portugal, as mother
+  link |https://en.wikipedia.org/wiki/Infante_Carlos,_Count_of_Montemol%C3%ADn|
+
+person francisco-de-asis-duke-of-cadiz
+  name |Francisco de Asís, Duke of Cádiz|
+  bond nfante-francisco-de-paula-of-spain, as father
+  bond princess-luisa-carlotta-of-the-two-sicilies, as mother
+  link |https://en.wikipedia.org/wiki/Francisco_de_As%C3%ADs,_Duke_of_C%C3%A1diz|
+
+person isabella-ii-of-spain
+  name |Isabella II of Spain|
+  bond ferdinand-vii-of-spain, as father
+  bond maria-christina-of-the-two-sicilies, as mother
+  link |https://en.wikipedia.org/wiki/Isabella_II_of_Spain|
+
+person charles-ferdinand-duke-of-berry
+  name |Charles Ferdinand, Duke of Berry|
+  bond charles-x-of-france, as father
+  bond princess-maria-theresa-of-savoy, as mother
+  link |https://en.wikipedia.org/wiki/Charles_Ferdinand,_Duke_of_Berry|
+
+person louis-antoine-duke-of-angouleme
+  name |Louis Antoine, Duke of Angoulême|
+  bond charles-x-of-france, as father
+  bond marie-therese-of-savoie, as mother
+  link |https://en.wikipedia.org/wiki/Louis_Antoine,_Duke_of_Angoul%C3%AAme|
+
+person louis-xvii
+  name |Louis XVII|
+  bond louis-xvi-of-france, as father
+  bond marie-antoinette, as mother
+  link |https://en.wikipedia.org/wiki/Louis_XVIII|
+
+person henri-count-of-chambord
+  name |Henri, Count of Chambord|
+  bond prince-charles-ferdinand-duke-of-berry, as father
+  bond princess-carolina-of-naples-and-sicily, as mother
+  link |https://en.wikipedia.org/wiki/Henri,_Count_of_Chambord|
+
+person alfonso-xii
+  name |Alfonso XII|
+  bond francisco-de-asis-of-spain, as father
+  bond isabella-ii-of-spain, as mother
+  link |https://en.wikipedia.org/wiki/Alfonso_XII|
+
+person infante-carlos-duke-of-madrid
+  name |Infante Carlos, Duke of Madrid|
+  bond infante-juan-count-of-montizon, as father
+  bond archduchess-maria-beatrix-of-austria-este, as mother
+  link |https://en.wikipedia.org/wiki/Infante_Carlos,_Duke_of_Madrid|
+
+person infante-alfonso-carlos-duke-of-san-jaime
+  name |Infante Alfonso Carlos, Duke of San Jaime|
+  bond infante-juan-count-of-montizon, as father
+  bond archduchess-maria-beatrix-of-austria-este, as mother
+  link |https://en.wikipedia.org/wiki/Infante_Alfonso_Carlos,_Duke_of_San_Jaime|
+
+person charles-iii-duke-of-parma
+  name |Charles III, Duke of Parma|
+  bond charles-ii-duke-of-parma, as father
+  bond princess-maria-teresa-of-savoy, as mother
+  link |https://en.wikipedia.org/wiki/Charles_III,_Duke_of_Parma|
+
+person prince-philippe-count-of-paris
+  name |Prince Philippe, Count of Paris|
+  bond prince-ferdinand-duke-of-orleans, as father
+  bond duchess-helene-of-mecklenburg-schwerin, as mother
+  link |https://en.wikipedia.org/wiki/Prince_Philippe,_Count_of_Paris|
+
+person prince-robert-duke-of-chartres
+  name |Prince Robert, Duke of Chartres|
+  bond ferdinand-philippe-duke-of-orleans, as father
+  bond duchess-helene-of-mecklenburg-schwerin, as mother
+  link |https://en.wikipedia.org/wiki/Prince_Robert,_Duke_of_Chartres|
+
+person francisco-franco
+  name |Francisco Franco|
+  bond nicolas-franco, as father
+  bond maria-del-pilar-bahamonde, as mother
+  link |https://en.wikipedia.org/wiki/Francisco_Franco|
+
+person alfonso-xiii
+  name |Alfonso XIII|
+  bond alfonso-xii-of-spain, as father
+  bond maria-christina-of-austria, as mother
+  link |https://en.wikipedia.org/wiki/Alfonso_XIII|
+
+person infante-jaime-duke-of-madrid
+  name |Infante Jaime, Duke of Madrid|
+  bond infante-carlos-duke-of-madrid, as father
+  bond princess-margherita-of-bourbon-parma, as mother
+  link |https://en.wikipedia.org/wiki/Infante_Jaime,_Duke_of_Madrid|
+
+person robert-i-duke-of-parma
+  name |Robert I, Duke of Parma|
+  bond charles-iii-duke-of-parma, as father
+  bond louise-marie-therese-d-artois, as mother
+  link |https://en.wikipedia.org/wiki/Robert_I,_Duke_of_Parma|
+
+person prince-philippe-duke-of-orleans
+  name |Prince Philippe, Duke of Orléans|
+  bond philippe-count-of-paris, as father
+  bond princess-isabelle-of-orleans, as mother
+  link |https://en.wikipedia.org/wiki/Prince_Philippe,_Duke_of_Orl%C3%A9ans_(1869%E2%80%931926)|
+
+person prince-jean-duke-of-guise
+  name |Prince Jean, Duke of Guise|
+  bond prince-robert-duke-of-chartres, as father
+  bond princess-francoise-of-orleans, as mother
+  link |https://en.wikipedia.org/wiki/Prince_Jean,_Duke_of_Guise|
+
+person carmen-franco-1st-duchess-of-franco
+  name |Carmen Franco, 1st Duchess of Franco|
+  bond francisco-franco, as father
+  bond carmen-polo-1st-lady-of-meiras, as mother
+  link |https://en.wikipedia.org/wiki/Carmen_Franco,_1st_Duchess_of_Franco|
+
+person infante-jaime-duke-of-segovia
+  name |Infante Jaime, Duke of Segovia|
+  bond alfonso-xiii-of-spain, as father
+  bond victoria-eugenie-of-battenberg, as mother
+  link |https://en.wikipedia.org/wiki/Infante_Jaime,_Duke_of_Segovia|
+
+person infante-juan-count-of-barcelona
+  name |Infante Juan, Count of Barcelona|
+  bond alfonso-xiii-of-spain, as father
+  bond victoria-eugenie-of-battenberg, as mother
+  link |https://en.wikipedia.org/wiki/Infante_Juan,_Count_of_Barcelona|
+
+person prince-xavier-of-bourbon-parma
+  name |Prince Xavier of Bourbon-Parma|
+  bond robert-i-duke-of-parma, as father
+  bond infanta-maria-antonia-of-portugal, as mother
+  link |https://en.wikipedia.org/wiki/Prince_Xavier_of_Bourbon-Parma|
+
+person prince-felix-of-bourbon-parma
+  name |Prince Felix of Bourbon-Parma|
+  bond robert-i-of-parma, as father
+  bond maria-antonia-of-portugal, as mother
+  link |https://en.wikipedia.org/wiki/Prince_Felix_of_Bourbon-Parma|
+
+person henri-count-of-paris
+  name |Henri, Count of Paris|
+  bond prince-jean-duke-of-guise, as father
+  bond princess-isabelle-of-orleans, as mother
+  link |https://en.wikipedia.org/wiki/Henri,_Count_of_Paris_(1908%E2%80%931999)|
+
+person carmen-martinez-bordiu
+  name |Carmen Martínez-Bordiú|
+  bond cristobal-martinez-bordiu-10th-marquis-of-villaverde, as father
+  bond maria-del-carmen-franco-y-polo-1st-duchess-of-franco, as mother
+  link |https://en.wikipedia.org/wiki/Carmen_Mart%C3%ADnez-Bordi%C3%BA|
+
+person alfonso-duke-of-anjou-and-cadiz
+  name |Alfonso, Duke of Anjou and Cádiz|
+  bond infante-jaime-duke-of-segovia, as father
+  bond emmanuelle-de-dampierre, as mother
+  link |https://en.wikipedia.org/wiki/Alfonso,_Duke_of_Anjou_and_C%C3%A1diz|
+
+person juan-carlos-i
+  name |Juan Carlos I|
+  bond infante-juan-count-of-barcelona, as father
+  bond princess-maria-de-las-mercedes-of-bourbon-two-sicilies, as mother
+  link |https://en.wikipedia.org/wiki/Juan_Carlos_I|
+
+person carlos-hugo-duke-of-parma
+  name |Carlos Hugo, Duke of Parma|
+  bond prince-xavier-of-parma, as father
+  bond madeleine-de-bourbon-busset, as mother
+  link |https://en.wikipedia.org/wiki/Carlos_Hugo,_Duke_of_Parma|
+
+person prince-sixtus-henry-of-bourbon-parma
+  name |Prince Sixtus Henry of Bourbon-Parma|
+  bond xavier-duke-of-parma, as father
+  bond madeleine-de-bourbon-busset, as mother
+  link |https://en.wikipedia.org/wiki/Prince_Sixtus_Henry_of_Bourbon-Parma|
+
+person jean-grand-duke-of-luxembourg
+  name |Jean, Grand Duke of Luxembourg|
+  bond prince-felix-of-bourbon-parma, as father
+  bond charlotte-grand-duchess-of-luxembourg, as mother
+  link |https://en.wikipedia.org/wiki/Jean,_Grand_Duke_of_Luxembourg|
+
+person henri-count-of-paris
+  name |Henri, Count of Paris|
+  bond henri-count-of-paris, as father
+  bond princess-isabelle-of-orleans-braganza, as mother
+  link |https://en.wikipedia.org/wiki/Henri,_Count_of_Paris_(1933%E2%80%932019)|
+
+person prince-carlos-duke-of-parma
+  name |Prince Carlos, Duke of Parma|
+  bond carlos-hugo-duke-of-parma, as father
+  bond princess-irene-of-the-netherlands, as mother
+  link |https://en.wikipedia.org/wiki/Prince_Carlos,_Duke_of_Parma|
+
+person henri-grand-duke-of-luxembourg
+  name |Henri, Grand Duke of Luxembourg|
+  bond jean-grand-duke-of-luxembourg, as father
+  bond josephine-charlotte-of-belgium, as mother
+  link |https://en.wikipedia.org/wiki/Henri,_Grand_Duke_of_Luxembourg|
+
+person jean-count-of-paris
+  name |Jean, Count of Paris|
+  bond prince-henri-count-of-paris, as father
+  bond duchess-marie-therese-of-wurttemberg, as mother
+  link |https://en.wikipedia.org/wiki/Jean,_Count_of_Paris|
+
+person leonor-princess-of-asturias
+  name |Leonor, Princess of Asturias|
+  bond felipe-vi-of-spain, as father
+  bond letizia-ortiz-rocasolano, as mother
+  link |https://en.wikipedia.org/wiki/Leonor,_Princess_of_Asturias|
+
+person guillaume-hereditary-grand-duke-of-luxembourg
+  name |Guillaume, Hereditary Grand Duke of Luxembourg|
+  bond henri-grand-duke-of-luxembourg, as father
+  bond maria-teresa-mestre-y-batista, as mother
+  link |https://en.wikipedia.org/wiki/Guillaume,_Hereditary_Grand_Duke_of_Luxembourg|
